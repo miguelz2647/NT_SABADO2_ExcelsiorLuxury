@@ -1,0 +1,37 @@
+[
+ {
+  "Id":639,
+  "Nombres":"Pedro",
+  "Apellidos":"S\u00e1nchez",
+  "Email":"VALENTINA@GMAIL.COM",
+  "Contrase\u00f1a":"mysecretpassword"
+ },
+ {
+  "Id":726,
+  "Nombres":"Carlos",
+  "Apellidos":" P\u00e9rez ",
+  "Email":"miguel@gmail.com",
+  "Contrase\u00f1a":"12345abc"
+ },
+ {
+  "Id":363,
+  "Nombres":"Valentina",
+  "Apellidos":"Rodr\u00edguez",
+  "Email":"maria@gmail.com",
+  "Contrase\u00f1a":null
+ },
+ {
+  "Id":576,
+  "Nombres":"Carlos",
+  "Apellidos":"G\u00f3mez",
+  "Email":"miguel@gmail.com",
+  "Contrase\u00f1a":"user12345"
+ },
+ {
+  "Id":947,
+  "Nombres":"Mar\u00eda",
+  "Apellidos":"Garc\u00eda",
+  "Email":"ANA@GMAIL.COM",
+  "Contrase\u00f1a":"qwerty456"
+ }
+]
