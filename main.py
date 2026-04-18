@@ -2,10 +2,11 @@ import pandas as pd
 from utils.simulador_Categoria import simular_Categorias
 from notebook.limpieza_categoria import limpiar_datos
 from utils.simulador_Usuarios import simular_Usuarios
+from notebook.limpieza_Usuarios import limpieza_usuarios
 
 Usuarios=simular_Usuarios(5)
-
 Usuarios_ordenados=pd.DataFrame(Usuarios)
+Usuarios_ordenados=limpieza_usuarios(Usuarios_ordenados)
 
 Usuarios_ordenados.to_json("Data/Usuarios.json",orient="records",indent=1)
 
@@ -20,3 +21,4 @@ Categorias_Ordenadas.to_json("Data/Categorias.json",orient="records",indent=1)
 Categorias_Ordenadas.to_csv("Data/Categorias.csv",index=False)
 
 print(Categorias_Ordenadas)
+print(Usuarios_ordenados)
