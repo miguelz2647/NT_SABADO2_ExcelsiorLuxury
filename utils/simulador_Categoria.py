@@ -21,6 +21,18 @@ def simular_Categorias(num_categorias):
             "Descripcion": random.choice(descripciones),
             "Estado": random.choice(estados),
         }
-        categorias.append(categoria)
 
+        probabilodadError=random.random()
+
+        if probabilodadError<0.7:
+            categoria["Id"]=random.choice([None,-1,0])
+            categoria["Nombre"]=None
+        elif probabilodadError<0.3:
+            categoria["Descripcion"]=" "+categoria["Descripcion"]+" "
+        elif probabilodadError<0.6:
+            categoria["Estado"]=categoria["Estado"].upper()
+
+       
+       
+        categorias.append(categoria)
     return categorias
