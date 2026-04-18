@@ -1,0 +1,32 @@
+[
+ {
+  "Id":983.0,
+  "Nombre":"deportivo",
+  "Descripcion":"modelos pensados para hombres con ajuste masculine",
+  "Estado":"inactivo"
+ },
+ {
+  "Id":852.0,
+  "Nombre":"mujer",
+  "Descripcion":"calzado y ropa dise\u00f1ada para actividad f\u00edsica y deporte",
+  "Estado":"inactivo"
+ },
+ {
+  "Id":852.0,
+  "Nombre":"mujer",
+  "Descripcion":"calzado y ropa dise\u00f1ada para actividad f\u00edsica y deporte",
+  "Estado":"activo"
+ },
+ {
+  "Id":614.0,
+  "Nombre":"mujer",
+  "Descripcion":"calzado y ropa dise\u00f1ada para actividad f\u00edsica y deporte",
+  "Estado":"activo"
+ },
+ {
+  "Id":206.0,
+  "Nombre":"formal",
+  "Descripcion":"calzado y ropa dise\u00f1ada para actividad f\u00edsica y deporte",
+  "Estado":"activo"
+ }
+]
