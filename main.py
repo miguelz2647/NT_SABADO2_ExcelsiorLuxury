@@ -2,7 +2,6 @@ import pandas as pd
 from utils.simulador_Categoria import simular_Categorias
 from notebook.limpieza_categoria import limpiar_datos
 from utils.simulador_Usuarios import simular_Usuarios
-from notebook.limpieza_Usuarios import limpieza_usuarios
 
 Usuarios=simular_Usuarios(5)
 Usuarios_ordenados=pd.DataFrame(Usuarios)
