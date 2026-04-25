@@ -1,6 +1,802 @@
 Id,Nombre,Descripcion,Estado
-983.0,deportivo,modelos pensados para hombres con ajuste masculine,inactivo
-852.0,mujer,calzado y ropa diseñada para actividad física y deporte,inactivo
-852.0,mujer,calzado y ropa diseñada para actividad física y deporte,activo
-614.0,mujer,calzado y ropa diseñada para actividad física y deporte,activo
-206.0,formal,calzado y ropa diseñada para actividad física y deporte,activo
+2.0,deportivo,calzado y ropa diseñada para actividad física y deporte,inactivo
+3.0,casual,diseños femeninos con estilo y confort,activo
+4.0,formal,opciones resistentes y cómodas para niños,activo
+5.0,formal,estilo urbano cómodo para el uso diario,inactivo
+6.0,mujer,diseños femeninos con estilo y confort,inactivo
+7.0,niños,modelos pensados para hombres con ajuste masculino,inactivo
+8.0,mujer,estilo urbano cómodo para el uso diario,activo
+9.0,hombre,estilo urbano cómodo para el uso diario,inactivo
+11.0,casual,estilo urbano cómodo para el uso diario,activo
+12.0,niños,calzado y ropa diseñada para actividad física y deporte,activo
+13.0,mujer,opciones resistentes y cómodas para niños,activo
+15.0,deportivo,estilo urbano cómodo para el uso diario,activo
+16.0,deportivo,calzado elegante y formal para ocasiones especiales,activo
+17.0,mujer,diseños femeninos con estilo y confort,inactivo
+18.0,casual,diseños femeninos con estilo y confort,activo
+19.0,mujer,opciones resistentes y cómodas para niños,activo
+21.0,niños,estilo urbano cómodo para el uso diario,inactivo
+22.0,hombre,calzado y ropa diseñada para actividad física y deporte,inactivo
+23.0,deportivo,diseños femeninos con estilo y confort,activo
+25.0,formal,estilo urbano cómodo para el uso diario,activo
+26.0,casual,calzado y ropa diseñada para actividad física y deporte,activo
+28.0,casual,calzado elegante y formal para ocasiones especiales,inactivo
+30.0,niños,modelos pensados para hombres con ajuste masculino,inactivo
+31.0,hombre,opciones resistentes y cómodas para niños,activo
+32.0,deportivo,estilo urbano cómodo para el uso diario,inactivo
+34.0,mujer,estilo urbano cómodo para el uso diario,activo
+35.0,mujer,estilo urbano cómodo para el uso diario,inactivo
+36.0,casual,diseños femeninos con estilo y confort,activo
+37.0,deportivo,calzado y ropa diseñada para actividad física y deporte,inactivo
+38.0,hombre,estilo urbano cómodo para el uso diario,inactivo
+40.0,casual,estilo urbano cómodo para el uso diario,inactivo
+42.0,formal,calzado elegante y formal para ocasiones especiales,activo
+43.0,formal,modelos pensados para hombres con ajuste masculino,activo
+44.0,hombre,opciones resistentes y cómodas para niños,inactivo
+45.0,deportivo,estilo urbano cómodo para el uso diario,inactivo
+46.0,deportivo,opciones resistentes y cómodas para niños,activo
+48.0,niños,calzado y ropa diseñada para actividad física y deporte,inactivo
+49.0,casual,calzado elegante y formal para ocasiones especiales,activo
+50.0,hombre,calzado elegante y formal para ocasiones especiales,inactivo
+51.0,hombre,modelos pensados para hombres con ajuste masculino,inactivo
+52.0,casual,diseños femeninos con estilo y confort,activo
+54.0,niños,estilo urbano cómodo para el uso diario,activo
+56.0,hombre,opciones resistentes y cómodas para niños,activo
+57.0,formal,calzado elegante y formal para ocasiones especiales,activo
+58.0,niños,calzado elegante y formal para ocasiones especiales,inactivo
+59.0,casual,modelos pensados para hombres con ajuste masculino,inactivo
+60.0,deportivo,estilo urbano cómodo para el uso diario,activo
+63.0,mujer,modelos pensados para hombres con ajuste masculino,inactivo
+64.0,casual,modelos pensados para hombres con ajuste masculino,activo
+65.0,hombre,calzado elegante y formal para ocasiones especiales,inactivo
+66.0,mujer,opciones resistentes y cómodas para niños,activo
+67.0,hombre,modelos pensados para hombres con ajuste masculino,activo
+70.0,hombre,opciones resistentes y cómodas para niños,inactivo
+71.0,formal,opciones resistentes y cómodas para niños,inactivo
+72.0,formal,modelos pensados para hombres con ajuste masculino,activo
+73.0,hombre,calzado y ropa diseñada para actividad física y deporte,inactivo
+74.0,deportivo,diseños femeninos con estilo y confort,inactivo
+75.0,hombre,opciones resistentes y cómodas para niños,activo
+79.0,deportivo,calzado y ropa diseñada para actividad física y deporte,activo
+80.0,hombre,estilo urbano cómodo para el uso diario,activo
+81.0,formal,modelos pensados para hombres con ajuste masculino,activo
+82.0,hombre,modelos pensados para hombres con ajuste masculino,activo
+83.0,formal,estilo urbano cómodo para el uso diario,inactivo
+84.0,hombre,opciones resistentes y cómodas para niños,activo
+85.0,hombre,modelos pensados para hombres con ajuste masculino,inactivo
+86.0,niños,estilo urbano cómodo para el uso diario,activo
+89.0,casual,calzado elegante y formal para ocasiones especiales,activo
+91.0,formal,estilo urbano cómodo para el uso diario,inactivo
+93.0,deportivo,modelos pensados para hombres con ajuste masculino,activo
+94.0,formal,diseños femeninos con estilo y confort,inactivo
+96.0,deportivo,opciones resistentes y cómodas para niños,inactivo
+98.0,mujer,estilo urbano cómodo para el uso diario,inactivo
+100.0,niños,diseños femeninos con estilo y confort,activo
+101.0,formal,calzado elegante y formal para ocasiones especiales,inactivo
+102.0,hombre,modelos pensados para hombres con ajuste masculino,inactivo
+103.0,niños,estilo urbano cómodo para el uso diario,inactivo
+104.0,casual,estilo urbano cómodo para el uso diario,activo
+105.0,casual,calzado y ropa diseñada para actividad física y deporte,inactivo
+106.0,casual,opciones resistentes y cómodas para niños,activo
+107.0,formal,diseños femeninos con estilo y confort,activo
+108.0,casual,modelos pensados para hombres con ajuste masculino,inactivo
+109.0,formal,modelos pensados para hombres con ajuste masculino,activo
+110.0,niños,calzado y ropa diseñada para actividad física y deporte,inactivo
+111.0,formal,modelos pensados para hombres con ajuste masculino,activo
+113.0,deportivo,diseños femeninos con estilo y confort,inactivo
+114.0,niños,estilo urbano cómodo para el uso diario,inactivo
+117.0,casual,opciones resistentes y cómodas para niños,activo
+119.0,casual,calzado y ropa diseñada para actividad física y deporte,activo
+120.0,casual,calzado elegante y formal para ocasiones especiales,activo
+121.0,niños,calzado elegante y formal para ocasiones especiales,inactivo
+122.0,formal,modelos pensados para hombres con ajuste masculino,activo
+123.0,deportivo,modelos pensados para hombres con ajuste masculino,activo
+124.0,mujer,calzado y ropa diseñada para actividad física y deporte,inactivo
+126.0,deportivo,calzado y ropa diseñada para actividad física y deporte,inactivo
+127.0,hombre,calzado y ropa diseñada para actividad física y deporte,inactivo
+128.0,deportivo,estilo urbano cómodo para el uso diario,activo
+129.0,mujer,calzado y ropa diseñada para actividad física y deporte,inactivo
+131.0,mujer,opciones resistentes y cómodas para niños,inactivo
+136.0,niños,modelos pensados para hombres con ajuste masculino,activo
+137.0,niños,diseños femeninos con estilo y confort,activo
+138.0,niños,diseños femeninos con estilo y confort,activo
+139.0,niños,diseños femeninos con estilo y confort,activo
+140.0,niños,modelos pensados para hombres con ajuste masculino,inactivo
+141.0,deportivo,calzado y ropa diseñada para actividad física y deporte,inactivo
+142.0,casual,estilo urbano cómodo para el uso diario,activo
+143.0,formal,diseños femeninos con estilo y confort,activo
+144.0,niños,opciones resistentes y cómodas para niños,inactivo
+145.0,hombre,opciones resistentes y cómodas para niños,inactivo
+146.0,formal,diseños femeninos con estilo y confort,activo
+148.0,niños,estilo urbano cómodo para el uso diario,inactivo
+149.0,formal,calzado y ropa diseñada para actividad física y deporte,activo
+150.0,mujer,calzado elegante y formal para ocasiones especiales,inactivo
+151.0,niños,modelos pensados para hombres con ajuste masculino,activo
+152.0,mujer,modelos pensados para hombres con ajuste masculino,activo
+153.0,deportivo,opciones resistentes y cómodas para niños,inactivo
+158.0,niños,calzado y ropa diseñada para actividad física y deporte,activo
+159.0,mujer,opciones resistentes y cómodas para niños,inactivo
+162.0,niños,modelos pensados para hombres con ajuste masculino,activo
+163.0,niños,opciones resistentes y cómodas para niños,activo
+164.0,hombre,opciones resistentes y cómodas para niños,activo
+165.0,casual,calzado elegante y formal para ocasiones especiales,inactivo
+167.0,casual,opciones resistentes y cómodas para niños,activo
+168.0,mujer,estilo urbano cómodo para el uso diario,activo
+170.0,casual,estilo urbano cómodo para el uso diario,activo
+171.0,formal,opciones resistentes y cómodas para niños,inactivo
+172.0,niños,estilo urbano cómodo para el uso diario,inactivo
+173.0,mujer,diseños femeninos con estilo y confort,inactivo
+174.0,mujer,estilo urbano cómodo para el uso diario,inactivo
+175.0,mujer,calzado y ropa diseñada para actividad física y deporte,activo
+176.0,formal,opciones resistentes y cómodas para niños,inactivo
+177.0,hombre,diseños femeninos con estilo y confort,inactivo
+178.0,mujer,calzado elegante y formal para ocasiones especiales,inactivo
+179.0,hombre,modelos pensados para hombres con ajuste masculino,activo
+180.0,casual,estilo urbano cómodo para el uso diario,inactivo
+181.0,mujer,modelos pensados para hombres con ajuste masculino,activo
+183.0,formal,calzado elegante y formal para ocasiones especiales,activo
+184.0,deportivo,calzado elegante y formal para ocasiones especiales,activo
+188.0,mujer,estilo urbano cómodo para el uso diario,inactivo
+189.0,formal,calzado y ropa diseñada para actividad física y deporte,activo
+190.0,mujer,diseños femeninos con estilo y confort,inactivo
+191.0,casual,calzado y ropa diseñada para actividad física y deporte,inactivo
+192.0,casual,modelos pensados para hombres con ajuste masculino,activo
+194.0,mujer,calzado y ropa diseñada para actividad física y deporte,activo
+196.0,deportivo,opciones resistentes y cómodas para niños,inactivo
+197.0,mujer,calzado y ropa diseñada para actividad física y deporte,inactivo
+198.0,mujer,modelos pensados para hombres con ajuste masculino,activo
+199.0,deportivo,calzado elegante y formal para ocasiones especiales,activo
+200.0,hombre,calzado y ropa diseñada para actividad física y deporte,activo
+201.0,casual,opciones resistentes y cómodas para niños,inactivo
+202.0,hombre,calzado y ropa diseñada para actividad física y deporte,activo
+203.0,casual,calzado y ropa diseñada para actividad física y deporte,activo
+204.0,formal,estilo urbano cómodo para el uso diario,inactivo
+205.0,hombre,calzado y ropa diseñada para actividad física y deporte,inactivo
+206.0,deportivo,calzado elegante y formal para ocasiones especiales,inactivo
+207.0,casual,calzado elegante y formal para ocasiones especiales,inactivo
+208.0,hombre,calzado y ropa diseñada para actividad física y deporte,inactivo
+209.0,deportivo,estilo urbano cómodo para el uso diario,inactivo
+210.0,niños,calzado elegante y formal para ocasiones especiales,inactivo
+211.0,deportivo,diseños femeninos con estilo y confort,activo
+213.0,formal,diseños femeninos con estilo y confort,activo
+214.0,formal,modelos pensados para hombres con ajuste masculino,activo
+216.0,hombre,calzado y ropa diseñada para actividad física y deporte,inactivo
+217.0,hombre,modelos pensados para hombres con ajuste masculino,activo
+218.0,niños,estilo urbano cómodo para el uso diario,activo
+219.0,mujer,opciones resistentes y cómodas para niños,inactivo
+221.0,formal,calzado y ropa diseñada para actividad física y deporte,activo
+222.0,deportivo,calzado elegante y formal para ocasiones especiales,inactivo
+224.0,mujer,estilo urbano cómodo para el uso diario,activo
+225.0,hombre,diseños femeninos con estilo y confort,inactivo
+226.0,mujer,opciones resistentes y cómodas para niños,inactivo
+227.0,formal,diseños femeninos con estilo y confort,activo
+229.0,deportivo,calzado y ropa diseñada para actividad física y deporte,activo
+230.0,niños,calzado y ropa diseñada para actividad física y deporte,activo
+231.0,deportivo,opciones resistentes y cómodas para niños,activo
+232.0,niños,opciones resistentes y cómodas para niños,inactivo
+233.0,casual,estilo urbano cómodo para el uso diario,inactivo
+234.0,casual,estilo urbano cómodo para el uso diario,activo
+235.0,formal,estilo urbano cómodo para el uso diario,inactivo
+237.0,niños,estilo urbano cómodo para el uso diario,inactivo
+238.0,mujer,estilo urbano cómodo para el uso diario,activo
+239.0,deportivo,opciones resistentes y cómodas para niños,inactivo
+240.0,mujer,modelos pensados para hombres con ajuste masculino,activo
+242.0,mujer,opciones resistentes y cómodas para niños,inactivo
+243.0,deportivo,estilo urbano cómodo para el uso diario,inactivo
+244.0,hombre,calzado y ropa diseñada para actividad física y deporte,activo
+245.0,casual,calzado elegante y formal para ocasiones especiales,activo
+246.0,mujer,diseños femeninos con estilo y confort,inactivo
+247.0,deportivo,modelos pensados para hombres con ajuste masculino,activo
+248.0,niños,calzado y ropa diseñada para actividad física y deporte,activo
+249.0,deportivo,estilo urbano cómodo para el uso diario,inactivo
+250.0,deportivo,calzado y ropa diseñada para actividad física y deporte,inactivo
+251.0,casual,opciones resistentes y cómodas para niños,activo
+252.0,hombre,estilo urbano cómodo para el uso diario,inactivo
+253.0,formal,opciones resistentes y cómodas para niños,inactivo
+254.0,hombre,estilo urbano cómodo para el uso diario,activo
+255.0,casual,diseños femeninos con estilo y confort,inactivo
+256.0,formal,calzado y ropa diseñada para actividad física y deporte,inactivo
+258.0,formal,opciones resistentes y cómodas para niños,inactivo
+260.0,mujer,opciones resistentes y cómodas para niños,activo
+261.0,formal,calzado elegante y formal para ocasiones especiales,inactivo
+263.0,casual,estilo urbano cómodo para el uso diario,activo
+265.0,casual,estilo urbano cómodo para el uso diario,activo
+266.0,casual,calzado elegante y formal para ocasiones especiales,inactivo
+268.0,mujer,estilo urbano cómodo para el uso diario,inactivo
+269.0,casual,calzado elegante y formal para ocasiones especiales,inactivo
+270.0,hombre,calzado y ropa diseñada para actividad física y deporte,activo
+271.0,hombre,estilo urbano cómodo para el uso diario,inactivo
+272.0,niños,calzado elegante y formal para ocasiones especiales,inactivo
+274.0,formal,modelos pensados para hombres con ajuste masculino,inactivo
+275.0,niños,calzado elegante y formal para ocasiones especiales,inactivo
+276.0,mujer,opciones resistentes y cómodas para niños,activo
+277.0,casual,opciones resistentes y cómodas para niños,inactivo
+278.0,formal,modelos pensados para hombres con ajuste masculino,activo
+279.0,niños,diseños femeninos con estilo y confort,activo
+280.0,mujer,modelos pensados para hombres con ajuste masculino,inactivo
+281.0,mujer,calzado y ropa diseñada para actividad física y deporte,activo
+282.0,formal,modelos pensados para hombres con ajuste masculino,inactivo
+283.0,mujer,modelos pensados para hombres con ajuste masculino,inactivo
+284.0,hombre,estilo urbano cómodo para el uso diario,inactivo
+285.0,deportivo,calzado elegante y formal para ocasiones especiales,inactivo
+287.0,hombre,estilo urbano cómodo para el uso diario,activo
+288.0,formal,modelos pensados para hombres con ajuste masculino,activo
+291.0,hombre,calzado elegante y formal para ocasiones especiales,activo
+292.0,hombre,calzado elegante y formal para ocasiones especiales,activo
+294.0,mujer,opciones resistentes y cómodas para niños,inactivo
+295.0,mujer,estilo urbano cómodo para el uso diario,activo
+296.0,deportivo,calzado elegante y formal para ocasiones especiales,inactivo
+297.0,formal,estilo urbano cómodo para el uso diario,activo
+298.0,casual,opciones resistentes y cómodas para niños,inactivo
+301.0,deportivo,opciones resistentes y cómodas para niños,activo
+302.0,mujer,modelos pensados para hombres con ajuste masculino,inactivo
+304.0,deportivo,calzado y ropa diseñada para actividad física y deporte,activo
+305.0,deportivo,diseños femeninos con estilo y confort,activo
+306.0,formal,calzado elegante y formal para ocasiones especiales,activo
+307.0,hombre,modelos pensados para hombres con ajuste masculino,inactivo
+308.0,casual,calzado elegante y formal para ocasiones especiales,inactivo
+309.0,casual,calzado y ropa diseñada para actividad física y deporte,inactivo
+310.0,mujer,calzado y ropa diseñada para actividad física y deporte,activo
+311.0,deportivo,calzado y ropa diseñada para actividad física y deporte,inactivo
+312.0,deportivo,calzado elegante y formal para ocasiones especiales,inactivo
+313.0,formal,opciones resistentes y cómodas para niños,activo
+314.0,niños,diseños femeninos con estilo y confort,activo
+315.0,hombre,calzado y ropa diseñada para actividad física y deporte,activo
+316.0,hombre,modelos pensados para hombres con ajuste masculino,inactivo
+317.0,hombre,estilo urbano cómodo para el uso diario,inactivo
+318.0,casual,calzado y ropa diseñada para actividad física y deporte,activo
+319.0,casual,calzado elegante y formal para ocasiones especiales,inactivo
+320.0,formal,estilo urbano cómodo para el uso diario,activo
+324.0,deportivo,calzado y ropa diseñada para actividad física y deporte,activo
+325.0,casual,calzado elegante y formal para ocasiones especiales,inactivo
+326.0,deportivo,calzado y ropa diseñada para actividad física y deporte,activo
+327.0,formal,opciones resistentes y cómodas para niños,inactivo
+328.0,deportivo,modelos pensados para hombres con ajuste masculino,inactivo
+329.0,hombre,calzado y ropa diseñada para actividad física y deporte,activo
+330.0,niños,modelos pensados para hombres con ajuste masculino,inactivo
+331.0,hombre,diseños femeninos con estilo y confort,activo
+332.0,formal,calzado y ropa diseñada para actividad física y deporte,activo
+333.0,niños,modelos pensados para hombres con ajuste masculino,inactivo
+334.0,mujer,estilo urbano cómodo para el uso diario,activo
+335.0,formal,diseños femeninos con estilo y confort,activo
+336.0,formal,calzado y ropa diseñada para actividad física y deporte,activo
+339.0,formal,calzado elegante y formal para ocasiones especiales,inactivo
+340.0,niños,opciones resistentes y cómodas para niños,inactivo
+341.0,niños,opciones resistentes y cómodas para niños,inactivo
+342.0,niños,modelos pensados para hombres con ajuste masculino,inactivo
+343.0,niños,opciones resistentes y cómodas para niños,inactivo
+345.0,formal,opciones resistentes y cómodas para niños,inactivo
+346.0,mujer,modelos pensados para hombres con ajuste masculino,inactivo
+348.0,formal,estilo urbano cómodo para el uso diario,inactivo
+349.0,deportivo,modelos pensados para hombres con ajuste masculino,inactivo
+350.0,casual,modelos pensados para hombres con ajuste masculino,activo
+351.0,niños,calzado y ropa diseñada para actividad física y deporte,activo
+352.0,hombre,estilo urbano cómodo para el uso diario,inactivo
+353.0,hombre,modelos pensados para hombres con ajuste masculino,inactivo
+354.0,hombre,modelos pensados para hombres con ajuste masculino,inactivo
+355.0,formal,opciones resistentes y cómodas para niños,inactivo
+356.0,formal,modelos pensados para hombres con ajuste masculino,activo
+357.0,mujer,calzado elegante y formal para ocasiones especiales,activo
+358.0,formal,calzado y ropa diseñada para actividad física y deporte,activo
+359.0,niños,estilo urbano cómodo para el uso diario,inactivo
+360.0,niños,modelos pensados para hombres con ajuste masculino,inactivo
+362.0,niños,calzado elegante y formal para ocasiones especiales,inactivo
+363.0,deportivo,calzado elegante y formal para ocasiones especiales,inactivo
+365.0,deportivo,diseños femeninos con estilo y confort,inactivo
+366.0,mujer,calzado elegante y formal para ocasiones especiales,inactivo
+367.0,casual,estilo urbano cómodo para el uso diario,activo
+368.0,formal,calzado y ropa diseñada para actividad física y deporte,inactivo
+371.0,casual,modelos pensados para hombres con ajuste masculino,activo
+372.0,formal,calzado y ropa diseñada para actividad física y deporte,activo
+373.0,niños,estilo urbano cómodo para el uso diario,inactivo
+374.0,mujer,modelos pensados para hombres con ajuste masculino,activo
+375.0,niños,opciones resistentes y cómodas para niños,inactivo
+376.0,hombre,modelos pensados para hombres con ajuste masculino,activo
+377.0,formal,calzado y ropa diseñada para actividad física y deporte,inactivo
+378.0,hombre,calzado y ropa diseñada para actividad física y deporte,inactivo
+379.0,mujer,estilo urbano cómodo para el uso diario,inactivo
+380.0,formal,calzado y ropa diseñada para actividad física y deporte,inactivo
+381.0,niños,calzado elegante y formal para ocasiones especiales,inactivo
+382.0,deportivo,calzado elegante y formal para ocasiones especiales,activo
+383.0,mujer,calzado elegante y formal para ocasiones especiales,inactivo
+384.0,deportivo,opciones resistentes y cómodas para niños,inactivo
+385.0,deportivo,opciones resistentes y cómodas para niños,inactivo
+386.0,niños,calzado y ropa diseñada para actividad física y deporte,activo
+387.0,formal,calzado elegante y formal para ocasiones especiales,activo
+389.0,casual,diseños femeninos con estilo y confort,inactivo
+390.0,mujer,diseños femeninos con estilo y confort,inactivo
+391.0,hombre,opciones resistentes y cómodas para niños,inactivo
+392.0,niños,diseños femeninos con estilo y confort,activo
+393.0,mujer,opciones resistentes y cómodas para niños,activo
+394.0,casual,opciones resistentes y cómodas para niños,activo
+397.0,niños,estilo urbano cómodo para el uso diario,activo
+398.0,mujer,estilo urbano cómodo para el uso diario,inactivo
+399.0,deportivo,calzado elegante y formal para ocasiones especiales,activo
+400.0,niños,modelos pensados para hombres con ajuste masculino,activo
+401.0,deportivo,modelos pensados para hombres con ajuste masculino,inactivo
+402.0,niños,calzado elegante y formal para ocasiones especiales,inactivo
+403.0,formal,estilo urbano cómodo para el uso diario,inactivo
+404.0,casual,diseños femeninos con estilo y confort,activo
+405.0,mujer,estilo urbano cómodo para el uso diario,inactivo
+406.0,deportivo,calzado elegante y formal para ocasiones especiales,activo
+407.0,hombre,opciones resistentes y cómodas para niños,activo
+408.0,mujer,opciones resistentes y cómodas para niños,inactivo
+409.0,hombre,estilo urbano cómodo para el uso diario,inactivo
+412.0,niños,calzado elegante y formal para ocasiones especiales,inactivo
+413.0,niños,calzado elegante y formal para ocasiones especiales,inactivo
+415.0,niños,estilo urbano cómodo para el uso diario,activo
+416.0,formal,estilo urbano cómodo para el uso diario,activo
+417.0,formal,calzado elegante y formal para ocasiones especiales,inactivo
+418.0,deportivo,estilo urbano cómodo para el uso diario,inactivo
+419.0,mujer,calzado y ropa diseñada para actividad física y deporte,activo
+420.0,deportivo,calzado elegante y formal para ocasiones especiales,activo
+421.0,hombre,opciones resistentes y cómodas para niños,activo
+422.0,niños,diseños femeninos con estilo y confort,inactivo
+423.0,niños,calzado y ropa diseñada para actividad física y deporte,activo
+425.0,hombre,estilo urbano cómodo para el uso diario,inactivo
+426.0,niños,opciones resistentes y cómodas para niños,inactivo
+427.0,formal,estilo urbano cómodo para el uso diario,activo
+428.0,mujer,diseños femeninos con estilo y confort,inactivo
+430.0,mujer,opciones resistentes y cómodas para niños,activo
+431.0,deportivo,diseños femeninos con estilo y confort,activo
+432.0,hombre,diseños femeninos con estilo y confort,activo
+433.0,mujer,calzado elegante y formal para ocasiones especiales,activo
+434.0,casual,diseños femeninos con estilo y confort,activo
+435.0,hombre,calzado elegante y formal para ocasiones especiales,inactivo
+436.0,casual,opciones resistentes y cómodas para niños,activo
+437.0,formal,calzado y ropa diseñada para actividad física y deporte,activo
+438.0,hombre,modelos pensados para hombres con ajuste masculino,inactivo
+439.0,hombre,estilo urbano cómodo para el uso diario,inactivo
+440.0,formal,calzado elegante y formal para ocasiones especiales,activo
+441.0,hombre,estilo urbano cómodo para el uso diario,inactivo
+442.0,niños,opciones resistentes y cómodas para niños,activo
+443.0,hombre,calzado y ropa diseñada para actividad física y deporte,activo
+444.0,deportivo,diseños femeninos con estilo y confort,activo
+445.0,mujer,calzado y ropa diseñada para actividad física y deporte,inactivo
+447.0,hombre,estilo urbano cómodo para el uso diario,activo
+448.0,mujer,estilo urbano cómodo para el uso diario,inactivo
+449.0,deportivo,modelos pensados para hombres con ajuste masculino,inactivo
+450.0,mujer,estilo urbano cómodo para el uso diario,inactivo
+451.0,mujer,calzado elegante y formal para ocasiones especiales,inactivo
+452.0,hombre,estilo urbano cómodo para el uso diario,inactivo
+453.0,deportivo,diseños femeninos con estilo y confort,inactivo
+456.0,niños,opciones resistentes y cómodas para niños,inactivo
+458.0,niños,calzado y ropa diseñada para actividad física y deporte,inactivo
+459.0,mujer,opciones resistentes y cómodas para niños,activo
+460.0,mujer,calzado elegante y formal para ocasiones especiales,activo
+461.0,casual,opciones resistentes y cómodas para niños,inactivo
+462.0,mujer,diseños femeninos con estilo y confort,activo
+463.0,hombre,estilo urbano cómodo para el uso diario,inactivo
+465.0,formal,calzado elegante y formal para ocasiones especiales,activo
+467.0,deportivo,opciones resistentes y cómodas para niños,inactivo
+470.0,casual,diseños femeninos con estilo y confort,activo
+471.0,deportivo,estilo urbano cómodo para el uso diario,inactivo
+472.0,casual,calzado y ropa diseñada para actividad física y deporte,activo
+473.0,mujer,calzado y ropa diseñada para actividad física y deporte,activo
+474.0,formal,diseños femeninos con estilo y confort,activo
+475.0,mujer,modelos pensados para hombres con ajuste masculino,activo
+476.0,mujer,opciones resistentes y cómodas para niños,inactivo
+477.0,mujer,opciones resistentes y cómodas para niños,inactivo
+478.0,mujer,calzado elegante y formal para ocasiones especiales,activo
+479.0,formal,opciones resistentes y cómodas para niños,inactivo
+482.0,mujer,estilo urbano cómodo para el uso diario,inactivo
+483.0,deportivo,calzado y ropa diseñada para actividad física y deporte,activo
+485.0,deportivo,calzado elegante y formal para ocasiones especiales,activo
+486.0,mujer,calzado elegante y formal para ocasiones especiales,activo
+487.0,hombre,diseños femeninos con estilo y confort,inactivo
+488.0,formal,calzado y ropa diseñada para actividad física y deporte,inactivo
+490.0,niños,diseños femeninos con estilo y confort,activo
+491.0,hombre,opciones resistentes y cómodas para niños,activo
+492.0,niños,calzado y ropa diseñada para actividad física y deporte,inactivo
+494.0,hombre,modelos pensados para hombres con ajuste masculino,activo
+497.0,niños,calzado y ropa diseñada para actividad física y deporte,activo
+498.0,formal,modelos pensados para hombres con ajuste masculino,activo
+499.0,deportivo,opciones resistentes y cómodas para niños,activo
+502.0,formal,calzado y ropa diseñada para actividad física y deporte,activo
+503.0,formal,estilo urbano cómodo para el uso diario,activo
+504.0,casual,calzado y ropa diseñada para actividad física y deporte,activo
+505.0,casual,calzado elegante y formal para ocasiones especiales,activo
+506.0,formal,estilo urbano cómodo para el uso diario,activo
+507.0,niños,modelos pensados para hombres con ajuste masculino,activo
+508.0,deportivo,estilo urbano cómodo para el uso diario,inactivo
+509.0,niños,modelos pensados para hombres con ajuste masculino,inactivo
+510.0,mujer,modelos pensados para hombres con ajuste masculino,activo
+511.0,mujer,estilo urbano cómodo para el uso diario,inactivo
+512.0,mujer,calzado elegante y formal para ocasiones especiales,activo
+513.0,niños,calzado y ropa diseñada para actividad física y deporte,inactivo
+516.0,mujer,modelos pensados para hombres con ajuste masculino,inactivo
+518.0,hombre,calzado y ropa diseñada para actividad física y deporte,inactivo
+519.0,casual,calzado y ropa diseñada para actividad física y deporte,activo
+520.0,hombre,diseños femeninos con estilo y confort,inactivo
+522.0,deportivo,opciones resistentes y cómodas para niños,inactivo
+523.0,casual,calzado elegante y formal para ocasiones especiales,activo
+524.0,hombre,opciones resistentes y cómodas para niños,inactivo
+525.0,mujer,modelos pensados para hombres con ajuste masculino,inactivo
+526.0,hombre,modelos pensados para hombres con ajuste masculino,inactivo
+528.0,deportivo,modelos pensados para hombres con ajuste masculino,inactivo
+530.0,deportivo,opciones resistentes y cómodas para niños,activo
+531.0,formal,opciones resistentes y cómodas para niños,activo
+532.0,formal,opciones resistentes y cómodas para niños,activo
+533.0,hombre,modelos pensados para hombres con ajuste masculino,inactivo
+534.0,niños,estilo urbano cómodo para el uso diario,inactivo
+535.0,mujer,diseños femeninos con estilo y confort,inactivo
+536.0,mujer,modelos pensados para hombres con ajuste masculino,activo
+537.0,deportivo,opciones resistentes y cómodas para niños,inactivo
+538.0,hombre,opciones resistentes y cómodas para niños,inactivo
+539.0,casual,modelos pensados para hombres con ajuste masculino,inactivo
+540.0,hombre,calzado y ropa diseñada para actividad física y deporte,inactivo
+541.0,hombre,modelos pensados para hombres con ajuste masculino,activo
+542.0,niños,diseños femeninos con estilo y confort,inactivo
+543.0,hombre,opciones resistentes y cómodas para niños,inactivo
+544.0,mujer,calzado elegante y formal para ocasiones especiales,inactivo
+545.0,mujer,opciones resistentes y cómodas para niños,inactivo
+547.0,deportivo,modelos pensados para hombres con ajuste masculino,inactivo
+548.0,niños,modelos pensados para hombres con ajuste masculino,inactivo
+552.0,formal,modelos pensados para hombres con ajuste masculino,activo
+553.0,casual,calzado y ropa diseñada para actividad física y deporte,activo
+554.0,deportivo,calzado elegante y formal para ocasiones especiales,inactivo
+556.0,casual,calzado elegante y formal para ocasiones especiales,inactivo
+558.0,formal,calzado elegante y formal para ocasiones especiales,inactivo
+559.0,deportivo,calzado y ropa diseñada para actividad física y deporte,inactivo
+560.0,formal,opciones resistentes y cómodas para niños,activo
+561.0,niños,diseños femeninos con estilo y confort,activo
+562.0,casual,calzado elegante y formal para ocasiones especiales,activo
+563.0,mujer,calzado y ropa diseñada para actividad física y deporte,inactivo
+565.0,hombre,calzado elegante y formal para ocasiones especiales,activo
+566.0,hombre,calzado y ropa diseñada para actividad física y deporte,activo
+567.0,niños,calzado y ropa diseñada para actividad física y deporte,activo
+568.0,mujer,estilo urbano cómodo para el uso diario,inactivo
+569.0,niños,calzado y ropa diseñada para actividad física y deporte,inactivo
+571.0,deportivo,calzado y ropa diseñada para actividad física y deporte,activo
+572.0,casual,modelos pensados para hombres con ajuste masculino,inactivo
+573.0,casual,diseños femeninos con estilo y confort,inactivo
+574.0,mujer,estilo urbano cómodo para el uso diario,activo
+575.0,niños,calzado elegante y formal para ocasiones especiales,activo
+576.0,casual,calzado y ropa diseñada para actividad física y deporte,inactivo
+577.0,hombre,opciones resistentes y cómodas para niños,inactivo
+578.0,casual,modelos pensados para hombres con ajuste masculino,activo
+579.0,deportivo,calzado y ropa diseñada para actividad física y deporte,activo
+580.0,hombre,diseños femeninos con estilo y confort,activo
+584.0,casual,estilo urbano cómodo para el uso diario,activo
+585.0,deportivo,calzado elegante y formal para ocasiones especiales,activo
+586.0,formal,calzado elegante y formal para ocasiones especiales,inactivo
+587.0,formal,calzado elegante y formal para ocasiones especiales,activo
+588.0,hombre,calzado elegante y formal para ocasiones especiales,activo
+589.0,hombre,diseños femeninos con estilo y confort,activo
+590.0,deportivo,calzado elegante y formal para ocasiones especiales,activo
+591.0,casual,opciones resistentes y cómodas para niños,inactivo
+593.0,niños,calzado elegante y formal para ocasiones especiales,inactivo
+594.0,casual,estilo urbano cómodo para el uso diario,inactivo
+596.0,mujer,diseños femeninos con estilo y confort,inactivo
+597.0,niños,estilo urbano cómodo para el uso diario,activo
+598.0,formal,calzado y ropa diseñada para actividad física y deporte,inactivo
+599.0,deportivo,diseños femeninos con estilo y confort,inactivo
+600.0,casual,modelos pensados para hombres con ajuste masculino,activo
+601.0,casual,estilo urbano cómodo para el uso diario,activo
+602.0,niños,calzado elegante y formal para ocasiones especiales,activo
+604.0,deportivo,estilo urbano cómodo para el uso diario,activo
+605.0,deportivo,calzado y ropa diseñada para actividad física y deporte,activo
+606.0,deportivo,estilo urbano cómodo para el uso diario,inactivo
+607.0,formal,estilo urbano cómodo para el uso diario,activo
+608.0,hombre,diseños femeninos con estilo y confort,activo
+610.0,casual,calzado y ropa diseñada para actividad física y deporte,activo
+613.0,niños,modelos pensados para hombres con ajuste masculino,inactivo
+614.0,deportivo,calzado elegante y formal para ocasiones especiales,inactivo
+615.0,formal,modelos pensados para hombres con ajuste masculino,inactivo
+616.0,niños,estilo urbano cómodo para el uso diario,activo
+617.0,mujer,modelos pensados para hombres con ajuste masculino,inactivo
+618.0,deportivo,calzado elegante y formal para ocasiones especiales,inactivo
+619.0,hombre,estilo urbano cómodo para el uso diario,activo
+620.0,hombre,diseños femeninos con estilo y confort,activo
+621.0,casual,modelos pensados para hombres con ajuste masculino,activo
+623.0,casual,diseños femeninos con estilo y confort,activo
+625.0,niños,calzado y ropa diseñada para actividad física y deporte,activo
+626.0,casual,diseños femeninos con estilo y confort,activo
+627.0,casual,opciones resistentes y cómodas para niños,activo
+628.0,deportivo,estilo urbano cómodo para el uso diario,inactivo
+629.0,formal,calzado y ropa diseñada para actividad física y deporte,activo
+630.0,hombre,estilo urbano cómodo para el uso diario,activo
+631.0,niños,opciones resistentes y cómodas para niños,inactivo
+632.0,formal,calzado elegante y formal para ocasiones especiales,activo
+633.0,niños,calzado elegante y formal para ocasiones especiales,activo
+635.0,mujer,diseños femeninos con estilo y confort,activo
+636.0,deportivo,modelos pensados para hombres con ajuste masculino,inactivo
+637.0,casual,calzado y ropa diseñada para actividad física y deporte,activo
+638.0,deportivo,calzado y ropa diseñada para actividad física y deporte,inactivo
+639.0,formal,modelos pensados para hombres con ajuste masculino,inactivo
+640.0,deportivo,calzado y ropa diseñada para actividad física y deporte,activo
+641.0,hombre,diseños femeninos con estilo y confort,inactivo
+643.0,casual,modelos pensados para hombres con ajuste masculino,activo
+644.0,deportivo,calzado elegante y formal para ocasiones especiales,activo
+645.0,casual,calzado elegante y formal para ocasiones especiales,activo
+646.0,niños,estilo urbano cómodo para el uso diario,inactivo
+647.0,deportivo,calzado elegante y formal para ocasiones especiales,inactivo
+648.0,deportivo,estilo urbano cómodo para el uso diario,inactivo
+649.0,niños,calzado y ropa diseñada para actividad física y deporte,activo
+650.0,casual,diseños femeninos con estilo y confort,activo
+652.0,niños,estilo urbano cómodo para el uso diario,activo
+653.0,mujer,diseños femeninos con estilo y confort,activo
+655.0,mujer,estilo urbano cómodo para el uso diario,activo
+656.0,deportivo,calzado elegante y formal para ocasiones especiales,activo
+657.0,niños,calzado y ropa diseñada para actividad física y deporte,inactivo
+658.0,casual,calzado y ropa diseñada para actividad física y deporte,activo
+659.0,niños,estilo urbano cómodo para el uso diario,activo
+660.0,mujer,opciones resistentes y cómodas para niños,inactivo
+661.0,niños,modelos pensados para hombres con ajuste masculino,inactivo
+662.0,formal,diseños femeninos con estilo y confort,inactivo
+664.0,deportivo,diseños femeninos con estilo y confort,inactivo
+665.0,niños,modelos pensados para hombres con ajuste masculino,inactivo
+666.0,deportivo,calzado y ropa diseñada para actividad física y deporte,inactivo
+667.0,niños,estilo urbano cómodo para el uso diario,inactivo
+668.0,casual,modelos pensados para hombres con ajuste masculino,activo
+669.0,niños,modelos pensados para hombres con ajuste masculino,inactivo
+670.0,casual,diseños femeninos con estilo y confort,inactivo
+671.0,casual,estilo urbano cómodo para el uso diario,inactivo
+672.0,mujer,diseños femeninos con estilo y confort,activo
+674.0,casual,calzado y ropa diseñada para actividad física y deporte,activo
+675.0,mujer,opciones resistentes y cómodas para niños,activo
+676.0,hombre,modelos pensados para hombres con ajuste masculino,inactivo
+677.0,hombre,modelos pensados para hombres con ajuste masculino,activo
+678.0,formal,modelos pensados para hombres con ajuste masculino,activo
+679.0,hombre,diseños femeninos con estilo y confort,inactivo
+682.0,casual,opciones resistentes y cómodas para niños,inactivo
+683.0,formal,calzado y ropa diseñada para actividad física y deporte,inactivo
+684.0,hombre,estilo urbano cómodo para el uso diario,inactivo
+686.0,casual,diseños femeninos con estilo y confort,inactivo
+687.0,deportivo,estilo urbano cómodo para el uso diario,inactivo
+688.0,mujer,calzado y ropa diseñada para actividad física y deporte,activo
+690.0,mujer,calzado elegante y formal para ocasiones especiales,activo
+692.0,casual,diseños femeninos con estilo y confort,inactivo
+693.0,formal,opciones resistentes y cómodas para niños,activo
+694.0,hombre,opciones resistentes y cómodas para niños,activo
+695.0,deportivo,modelos pensados para hombres con ajuste masculino,activo
+696.0,niños,diseños femeninos con estilo y confort,activo
+697.0,niños,calzado elegante y formal para ocasiones especiales,activo
+698.0,niños,estilo urbano cómodo para el uso diario,activo
+699.0,hombre,estilo urbano cómodo para el uso diario,inactivo
+700.0,deportivo,calzado elegante y formal para ocasiones especiales,inactivo
+703.0,hombre,modelos pensados para hombres con ajuste masculino,inactivo
+705.0,casual,modelos pensados para hombres con ajuste masculino,activo
+706.0,hombre,calzado y ropa diseñada para actividad física y deporte,activo
+707.0,niños,calzado y ropa diseñada para actividad física y deporte,inactivo
+708.0,casual,diseños femeninos con estilo y confort,inactivo
+709.0,niños,opciones resistentes y cómodas para niños,activo
+710.0,casual,estilo urbano cómodo para el uso diario,activo
+711.0,deportivo,diseños femeninos con estilo y confort,inactivo
+712.0,deportivo,calzado y ropa diseñada para actividad física y deporte,activo
+715.0,casual,estilo urbano cómodo para el uso diario,activo
+716.0,formal,estilo urbano cómodo para el uso diario,activo
+717.0,deportivo,opciones resistentes y cómodas para niños,activo
+719.0,mujer,diseños femeninos con estilo y confort,activo
+720.0,formal,calzado y ropa diseñada para actividad física y deporte,inactivo
+721.0,casual,estilo urbano cómodo para el uso diario,inactivo
+723.0,hombre,diseños femeninos con estilo y confort,inactivo
+724.0,casual,estilo urbano cómodo para el uso diario,inactivo
+725.0,deportivo,opciones resistentes y cómodas para niños,inactivo
+726.0,formal,calzado elegante y formal para ocasiones especiales,inactivo
+727.0,deportivo,diseños femeninos con estilo y confort,inactivo
+728.0,formal,estilo urbano cómodo para el uso diario,activo
+729.0,hombre,modelos pensados para hombres con ajuste masculino,activo
+730.0,casual,opciones resistentes y cómodas para niños,activo
+731.0,formal,diseños femeninos con estilo y confort,activo
+732.0,deportivo,estilo urbano cómodo para el uso diario,inactivo
+733.0,deportivo,diseños femeninos con estilo y confort,activo
+734.0,casual,estilo urbano cómodo para el uso diario,activo
+735.0,casual,diseños femeninos con estilo y confort,inactivo
+736.0,formal,calzado elegante y formal para ocasiones especiales,activo
+738.0,casual,estilo urbano cómodo para el uso diario,activo
+739.0,mujer,diseños femeninos con estilo y confort,activo
+740.0,mujer,estilo urbano cómodo para el uso diario,inactivo
+741.0,casual,diseños femeninos con estilo y confort,inactivo
+742.0,casual,diseños femeninos con estilo y confort,activo
+743.0,hombre,opciones resistentes y cómodas para niños,activo
+744.0,formal,opciones resistentes y cómodas para niños,inactivo
+745.0,deportivo,calzado elegante y formal para ocasiones especiales,activo
+747.0,formal,calzado y ropa diseñada para actividad física y deporte,inactivo
+748.0,mujer,diseños femeninos con estilo y confort,activo
+749.0,mujer,opciones resistentes y cómodas para niños,activo
+750.0,deportivo,calzado elegante y formal para ocasiones especiales,activo
+752.0,deportivo,diseños femeninos con estilo y confort,inactivo
+753.0,mujer,opciones resistentes y cómodas para niños,activo
+754.0,hombre,opciones resistentes y cómodas para niños,inactivo
+756.0,casual,diseños femeninos con estilo y confort,inactivo
+758.0,hombre,calzado elegante y formal para ocasiones especiales,activo
+759.0,niños,calzado elegante y formal para ocasiones especiales,activo
+760.0,formal,estilo urbano cómodo para el uso diario,inactivo
+761.0,hombre,opciones resistentes y cómodas para niños,activo
+762.0,casual,modelos pensados para hombres con ajuste masculino,inactivo
+765.0,hombre,diseños femeninos con estilo y confort,inactivo
+766.0,deportivo,estilo urbano cómodo para el uso diario,activo
+768.0,casual,opciones resistentes y cómodas para niños,activo
+770.0,casual,calzado y ropa diseñada para actividad física y deporte,inactivo
+771.0,deportivo,calzado y ropa diseñada para actividad física y deporte,activo
+773.0,hombre,estilo urbano cómodo para el uso diario,activo
+775.0,mujer,diseños femeninos con estilo y confort,activo
+776.0,niños,modelos pensados para hombres con ajuste masculino,inactivo
+777.0,hombre,calzado y ropa diseñada para actividad física y deporte,activo
+778.0,formal,modelos pensados para hombres con ajuste masculino,activo
+779.0,deportivo,calzado y ropa diseñada para actividad física y deporte,activo
+780.0,mujer,modelos pensados para hombres con ajuste masculino,activo
+782.0,mujer,diseños femeninos con estilo y confort,inactivo
+783.0,hombre,modelos pensados para hombres con ajuste masculino,activo
+784.0,deportivo,estilo urbano cómodo para el uso diario,activo
+785.0,mujer,diseños femeninos con estilo y confort,activo
+786.0,niños,opciones resistentes y cómodas para niños,activo
+787.0,casual,opciones resistentes y cómodas para niños,inactivo
+788.0,deportivo,estilo urbano cómodo para el uso diario,inactivo
+789.0,deportivo,calzado y ropa diseñada para actividad física y deporte,activo
+790.0,casual,calzado elegante y formal para ocasiones especiales,activo
+791.0,mujer,estilo urbano cómodo para el uso diario,inactivo
+792.0,hombre,modelos pensados para hombres con ajuste masculino,inactivo
+794.0,mujer,calzado y ropa diseñada para actividad física y deporte,inactivo
+795.0,hombre,diseños femeninos con estilo y confort,activo
+796.0,deportivo,calzado y ropa diseñada para actividad física y deporte,inactivo
+797.0,deportivo,diseños femeninos con estilo y confort,inactivo
+798.0,deportivo,calzado y ropa diseñada para actividad física y deporte,inactivo
+800.0,casual,diseños femeninos con estilo y confort,activo
+802.0,deportivo,calzado elegante y formal para ocasiones especiales,inactivo
+803.0,deportivo,opciones resistentes y cómodas para niños,inactivo
+804.0,mujer,calzado elegante y formal para ocasiones especiales,activo
+807.0,formal,calzado y ropa diseñada para actividad física y deporte,activo
+808.0,mujer,modelos pensados para hombres con ajuste masculino,activo
+810.0,formal,calzado elegante y formal para ocasiones especiales,activo
+811.0,niños,modelos pensados para hombres con ajuste masculino,activo
+812.0,deportivo,diseños femeninos con estilo y confort,activo
+813.0,hombre,calzado elegante y formal para ocasiones especiales,inactivo
+814.0,formal,calzado y ropa diseñada para actividad física y deporte,activo
+815.0,deportivo,modelos pensados para hombres con ajuste masculino,inactivo
+816.0,formal,calzado elegante y formal para ocasiones especiales,activo
+817.0,deportivo,modelos pensados para hombres con ajuste masculino,activo
+818.0,mujer,calzado y ropa diseñada para actividad física y deporte,activo
+819.0,hombre,diseños femeninos con estilo y confort,activo
+820.0,hombre,calzado y ropa diseñada para actividad física y deporte,activo
+822.0,casual,calzado elegante y formal para ocasiones especiales,activo
+823.0,casual,modelos pensados para hombres con ajuste masculino,activo
+824.0,casual,opciones resistentes y cómodas para niños,activo
+825.0,deportivo,calzado y ropa diseñada para actividad física y deporte,inactivo
+826.0,casual,calzado y ropa diseñada para actividad física y deporte,inactivo
+827.0,deportivo,modelos pensados para hombres con ajuste masculino,inactivo
+828.0,mujer,diseños femeninos con estilo y confort,inactivo
+829.0,hombre,calzado y ropa diseñada para actividad física y deporte,activo
+830.0,mujer,estilo urbano cómodo para el uso diario,inactivo
+831.0,niños,opciones resistentes y cómodas para niños,inactivo
+832.0,mujer,calzado elegante y formal para ocasiones especiales,inactivo
+834.0,niños,estilo urbano cómodo para el uso diario,inactivo
+835.0,casual,estilo urbano cómodo para el uso diario,activo
+836.0,niños,estilo urbano cómodo para el uso diario,activo
+837.0,hombre,estilo urbano cómodo para el uso diario,inactivo
+839.0,mujer,diseños femeninos con estilo y confort,inactivo
+840.0,casual,calzado elegante y formal para ocasiones especiales,activo
+841.0,formal,calzado y ropa diseñada para actividad física y deporte,inactivo
+842.0,niños,diseños femeninos con estilo y confort,inactivo
+843.0,deportivo,calzado y ropa diseñada para actividad física y deporte,inactivo
+844.0,mujer,calzado y ropa diseñada para actividad física y deporte,activo
+846.0,hombre,estilo urbano cómodo para el uso diario,activo
+848.0,casual,modelos pensados para hombres con ajuste masculino,inactivo
+849.0,niños,estilo urbano cómodo para el uso diario,inactivo
+850.0,niños,calzado y ropa diseñada para actividad física y deporte,inactivo
+851.0,niños,calzado y ropa diseñada para actividad física y deporte,activo
+852.0,formal,estilo urbano cómodo para el uso diario,inactivo
+853.0,formal,diseños femeninos con estilo y confort,inactivo
+854.0,deportivo,opciones resistentes y cómodas para niños,activo
+855.0,mujer,diseños femeninos con estilo y confort,activo
+856.0,niños,estilo urbano cómodo para el uso diario,inactivo
+857.0,deportivo,calzado elegante y formal para ocasiones especiales,activo
+858.0,mujer,diseños femeninos con estilo y confort,activo
+859.0,niños,estilo urbano cómodo para el uso diario,inactivo
+860.0,hombre,diseños femeninos con estilo y confort,inactivo
+861.0,casual,calzado elegante y formal para ocasiones especiales,activo
+862.0,formal,estilo urbano cómodo para el uso diario,inactivo
+863.0,niños,diseños femeninos con estilo y confort,activo
+864.0,hombre,calzado elegante y formal para ocasiones especiales,activo
+866.0,formal,diseños femeninos con estilo y confort,activo
+867.0,casual,estilo urbano cómodo para el uso diario,activo
+868.0,mujer,calzado y ropa diseñada para actividad física y deporte,activo
+869.0,mujer,calzado y ropa diseñada para actividad física y deporte,inactivo
+872.0,hombre,diseños femeninos con estilo y confort,activo
+874.0,formal,diseños femeninos con estilo y confort,activo
+875.0,mujer,opciones resistentes y cómodas para niños,inactivo
+876.0,niños,diseños femeninos con estilo y confort,activo
+877.0,deportivo,calzado y ropa diseñada para actividad física y deporte,inactivo
+878.0,mujer,diseños femeninos con estilo y confort,inactivo
+879.0,hombre,calzado elegante y formal para ocasiones especiales,activo
+880.0,formal,diseños femeninos con estilo y confort,inactivo
+881.0,mujer,modelos pensados para hombres con ajuste masculino,activo
+882.0,mujer,opciones resistentes y cómodas para niños,activo
+883.0,niños,opciones resistentes y cómodas para niños,activo
+884.0,casual,estilo urbano cómodo para el uso diario,inactivo
+885.0,mujer,opciones resistentes y cómodas para niños,inactivo
+886.0,niños,estilo urbano cómodo para el uso diario,activo
+887.0,casual,estilo urbano cómodo para el uso diario,inactivo
+888.0,hombre,calzado elegante y formal para ocasiones especiales,inactivo
+889.0,niños,calzado elegante y formal para ocasiones especiales,inactivo
+890.0,niños,diseños femeninos con estilo y confort,inactivo
+893.0,casual,calzado elegante y formal para ocasiones especiales,inactivo
+894.0,hombre,calzado elegante y formal para ocasiones especiales,activo
+895.0,niños,opciones resistentes y cómodas para niños,inactivo
+896.0,hombre,modelos pensados para hombres con ajuste masculino,activo
+899.0,niños,calzado y ropa diseñada para actividad física y deporte,activo
+900.0,niños,calzado elegante y formal para ocasiones especiales,inactivo
+901.0,formal,opciones resistentes y cómodas para niños,inactivo
+902.0,niños,diseños femeninos con estilo y confort,activo
+904.0,niños,opciones resistentes y cómodas para niños,inactivo
+906.0,niños,opciones resistentes y cómodas para niños,activo
+909.0,formal,modelos pensados para hombres con ajuste masculino,activo
+910.0,deportivo,calzado y ropa diseñada para actividad física y deporte,inactivo
+911.0,deportivo,calzado y ropa diseñada para actividad física y deporte,activo
+913.0,niños,opciones resistentes y cómodas para niños,inactivo
+914.0,hombre,calzado elegante y formal para ocasiones especiales,activo
+915.0,mujer,modelos pensados para hombres con ajuste masculino,activo
+916.0,casual,estilo urbano cómodo para el uso diario,activo
+918.0,niños,modelos pensados para hombres con ajuste masculino,inactivo
+919.0,formal,calzado y ropa diseñada para actividad física y deporte,inactivo
+920.0,formal,calzado elegante y formal para ocasiones especiales,activo
+921.0,deportivo,opciones resistentes y cómodas para niños,activo
+922.0,deportivo,calzado y ropa diseñada para actividad física y deporte,activo
+923.0,mujer,estilo urbano cómodo para el uso diario,inactivo
+924.0,formal,diseños femeninos con estilo y confort,activo
+925.0,casual,estilo urbano cómodo para el uso diario,inactivo
+926.0,hombre,diseños femeninos con estilo y confort,activo
+927.0,formal,calzado y ropa diseñada para actividad física y deporte,inactivo
+928.0,casual,opciones resistentes y cómodas para niños,activo
+929.0,niños,estilo urbano cómodo para el uso diario,inactivo
+930.0,hombre,diseños femeninos con estilo y confort,activo
+931.0,formal,modelos pensados para hombres con ajuste masculino,inactivo
+932.0,formal,calzado y ropa diseñada para actividad física y deporte,activo
+933.0,deportivo,estilo urbano cómodo para el uso diario,inactivo
+934.0,deportivo,modelos pensados para hombres con ajuste masculino,inactivo
+935.0,niños,modelos pensados para hombres con ajuste masculino,inactivo
+936.0,mujer,calzado y ropa diseñada para actividad física y deporte,inactivo
+937.0,mujer,estilo urbano cómodo para el uso diario,activo
+938.0,formal,diseños femeninos con estilo y confort,activo
+939.0,deportivo,opciones resistentes y cómodas para niños,inactivo
+940.0,mujer,diseños femeninos con estilo y confort,activo
+941.0,deportivo,calzado elegante y formal para ocasiones especiales,inactivo
+942.0,hombre,estilo urbano cómodo para el uso diario,activo
+943.0,casual,calzado y ropa diseñada para actividad física y deporte,inactivo
+944.0,niños,calzado y ropa diseñada para actividad física y deporte,inactivo
+945.0,casual,opciones resistentes y cómodas para niños,inactivo
+946.0,niños,modelos pensados para hombres con ajuste masculino,inactivo
+948.0,casual,opciones resistentes y cómodas para niños,inactivo
+949.0,niños,modelos pensados para hombres con ajuste masculino,activo
+950.0,casual,calzado y ropa diseñada para actividad física y deporte,inactivo
+951.0,hombre,opciones resistentes y cómodas para niños,activo
+952.0,casual,estilo urbano cómodo para el uso diario,activo
+953.0,formal,estilo urbano cómodo para el uso diario,inactivo
+954.0,formal,modelos pensados para hombres con ajuste masculino,activo
+955.0,hombre,calzado y ropa diseñada para actividad física y deporte,activo
+956.0,hombre,calzado y ropa diseñada para actividad física y deporte,inactivo
+957.0,niños,modelos pensados para hombres con ajuste masculino,activo
+958.0,deportivo,diseños femeninos con estilo y confort,activo
+959.0,niños,calzado y ropa diseñada para actividad física y deporte,activo
+960.0,hombre,modelos pensados para hombres con ajuste masculino,activo
+961.0,deportivo,estilo urbano cómodo para el uso diario,inactivo
+963.0,casual,estilo urbano cómodo para el uso diario,activo
+964.0,deportivo,opciones resistentes y cómodas para niños,activo
+965.0,mujer,diseños femeninos con estilo y confort,inactivo
+966.0,casual,estilo urbano cómodo para el uso diario,inactivo
+969.0,formal,opciones resistentes y cómodas para niños,inactivo
+970.0,deportivo,calzado y ropa diseñada para actividad física y deporte,activo
+971.0,mujer,estilo urbano cómodo para el uso diario,inactivo
+972.0,niños,opciones resistentes y cómodas para niños,inactivo
+973.0,deportivo,calzado y ropa diseñada para actividad física y deporte,inactivo
+974.0,formal,opciones resistentes y cómodas para niños,inactivo
+975.0,niños,modelos pensados para hombres con ajuste masculino,activo
+976.0,mujer,calzado y ropa diseñada para actividad física y deporte,activo
+977.0,formal,calzado y ropa diseñada para actividad física y deporte,inactivo
+978.0,formal,estilo urbano cómodo para el uso diario,activo
+979.0,casual,calzado y ropa diseñada para actividad física y deporte,activo
+982.0,formal,estilo urbano cómodo para el uso diario,inactivo
+984.0,hombre,estilo urbano cómodo para el uso diario,activo
+987.0,hombre,calzado y ropa diseñada para actividad física y deporte,inactivo
+988.0,casual,opciones resistentes y cómodas para niños,activo
+990.0,deportivo,diseños femeninos con estilo y confort,activo
+991.0,deportivo,modelos pensados para hombres con ajuste masculino,inactivo
+992.0,hombre,calzado y ropa diseñada para actividad física y deporte,activo
+993.0,niños,modelos pensados para hombres con ajuste masculino,activo
+994.0,niños,opciones resistentes y cómodas para niños,activo
+995.0,deportivo,calzado y ropa diseñada para actividad física y deporte,activo
+996.0,casual,opciones resistentes y cómodas para niños,inactivo
+997.0,mujer,diseños femeninos con estilo y confort,activo
+998.0,mujer,calzado y ropa diseñada para actividad física y deporte,inactivo
+999.0,deportivo,estilo urbano cómodo para el uso diario,activo
