@@ -1,11 +1,3 @@
-#toda rutina de analizis debe describir el data set
-# es imortante conocer cuantos registros tengo
-#es importante conocer cuantos atributos tengo en el dataset
-#es importante tener acceso a una lista con los nombres de los atributos
-#es util hacer conteso de algunas columnas de interes
-#es util conocer la estadisticas descriptivas de los campos numericos
-#media-max-min-std-percentiles
-#si tengo fechas es util conocer cual es la fecha mas antigua y cual es la fecha mas reciente
 import pandas as pd
 
 def describir_datos_usuario(data_frame_limpio):
