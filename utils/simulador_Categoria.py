@@ -4,7 +4,7 @@ import random
 def simular_Categorias(num_categorias):
     nombres = ["Deportivo", "Casual", "Hombre", "Mujer", "Niños", "Formal"]
     descripciones = [
-        "Calzado y ropa diseñada para actividad física y deporte",
+    "Calzado y ropa diseñada para actividad física y deporte",
         "Estilo urbano cómodo para el uso diario",
         "Modelos pensados para hombres con ajuste masculine",
         "Diseños femeninos con estilo y confort",

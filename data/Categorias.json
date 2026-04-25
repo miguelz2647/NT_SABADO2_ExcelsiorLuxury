@@ -1,32 +1,32 @@
 [
  {
-  "Id":983.0,
-  "Nombre":"deportivo",
+  "Id":708.0,
+  "Nombre":"ni\u00f1os",
+  "Descripcion":"estilo urbano c\u00f3modo para el uso diario",
+  "Estado":"inactivo"
+ },
+ {
+  "Id":252.0,
+  "Nombre":"hombre",
+  "Descripcion":"estilo urbano c\u00f3modo para el uso diario",
+  "Estado":"activo"
+ },
+ {
+  "Id":577.0,
+  "Nombre":"ni\u00f1os",
   "Descripcion":"modelos pensados para hombres con ajuste masculine",
+  "Estado":"activo"
+ },
+ {
+  "Id":44.0,
+  "Nombre":"ni\u00f1os",
+  "Descripcion":"opciones resistentes y c\u00f3modas para ni\u00f1os",
+  "Estado":"activo"
+ },
+ {
+  "Id":149.0,
+  "Nombre":"ni\u00f1os",
+  "Descripcion":"dise\u00f1os femeninos con estilo y confort",
   "Estado":"inactivo"
- },
- {
-  "Id":852.0,
-  "Nombre":"mujer",
-  "Descripcion":"calzado y ropa dise\u00f1ada para actividad f\u00edsica y deporte",
-  "Estado":"inactivo"
- },
- {
-  "Id":852.0,
-  "Nombre":"mujer",
-  "Descripcion":"calzado y ropa dise\u00f1ada para actividad f\u00edsica y deporte",
-  "Estado":"activo"
- },
- {
-  "Id":614.0,
-  "Nombre":"mujer",
-  "Descripcion":"calzado y ropa dise\u00f1ada para actividad f\u00edsica y deporte",
-  "Estado":"activo"
- },
- {
-  "Id":206.0,
-  "Nombre":"formal",
-  "Descripcion":"calzado y ropa dise\u00f1ada para actividad f\u00edsica y deporte",
-  "Estado":"activo"
  }
 ]
