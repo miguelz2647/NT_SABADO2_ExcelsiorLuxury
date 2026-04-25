@@ -52,5 +52,5 @@ df_envios = limpiar_envios(df_envios)
 
 print("Envios después:", len(df_envios))
 
-df_envios.to_json("data/Envios.json", orient="records", indent=1)
+df_envios.to_json("data/Envios.json", orient="records", indent=1, date_format="iso")
 df_envios.to_csv("data/Envios.csv", index=False)

@@ -1,26 +1,234 @@
 [
  {
-  "id_envio":8.0,
+  "id_envio":10.0,
+  "id_usuario":2.0,
+  "direccion":"",
+  "ciudad":null,
+  "fecha_envio":"2026-04-20T10:56:53.186",
+  "estado":"enviado"
+ },
+ {
+  "id_envio":1.0,
   "id_usuario":3.0,
-  "direccion":"carrera 45",
-  "ciudad":"bogot\u00e1",
-  "fecha_envio":1777285177236,
+  "direccion":"none",
+  "ciudad":"cali",
+  "fecha_envio":"2026-04-27T10:56:53.186",
   "estado":"enviado"
  },
  {
   "id_envio":3.0,
   "id_usuario":2.0,
   "direccion":"carrera 45",
+  "ciudad":"bogot\u00e1",
+  "fecha_envio":"2026-04-22T10:56:53.186",
+  "estado":"pendiente"
+ },
+ {
+  "id_envio":7.0,
+  "id_usuario":2.0,
+  "direccion":"",
   "ciudad":null,
-  "fecha_envio":1777025977236,
+  "fecha_envio":null,
+  "estado":"enviado"
+ },
+ {
+  "id_envio":1.0,
+  "id_usuario":3.0,
+  "direccion":"calle 123",
+  "ciudad":null,
+  "fecha_envio":"2026-04-30T10:56:53.186",
+  "estado":"enviado"
+ },
+ {
+  "id_envio":5.0,
+  "id_usuario":2.0,
+  "direccion":"carrera 45",
+  "ciudad":null,
+  "fecha_envio":"2026-04-28T10:56:53.186",
+  "estado":"pendiente"
+ },
+ {
+  "id_envio":8.0,
+  "id_usuario":3.0,
+  "direccion":"",
+  "ciudad":"bogot\u00e1",
+  "fecha_envio":null,
+  "estado":"pendiente"
+ },
+ {
+  "id_envio":1.0,
+  "id_usuario":3.0,
+  "direccion":"calle 123",
+  "ciudad":"bogot\u00e1",
+  "fecha_envio":"2026-04-26T10:56:53.186",
+  "estado":"enviado"
+ },
+ {
+  "id_envio":5.0,
+  "id_usuario":1.0,
+  "direccion":"carrera 45",
+  "ciudad":"cali",
+  "fecha_envio":"2026-04-25T10:56:53.186",
+  "estado":"entregado"
+ },
+ {
+  "id_envio":9.0,
+  "id_usuario":3.0,
+  "direccion":"carrera 45",
+  "ciudad":"bogot\u00e1",
+  "fecha_envio":"2026-04-28T10:56:53.186",
+  "estado":"pendiente"
+ },
+ {
+  "id_envio":5.0,
+  "id_usuario":3.0,
+  "direccion":"none",
+  "ciudad":"bogot\u00e1",
+  "fecha_envio":"2026-04-27T10:56:53.186",
+  "estado":"pendiente"
+ },
+ {
+  "id_envio":2.0,
+  "id_usuario":2.0,
+  "direccion":"calle 123",
+  "ciudad":"bogot\u00e1",
+  "fecha_envio":"2026-04-30T10:56:53.186",
+  "estado":"entregado"
+ },
+ {
+  "id_envio":9.0,
+  "id_usuario":2.0,
+  "direccion":"calle 123",
+  "ciudad":"cali",
+  "fecha_envio":"2026-04-22T10:56:53.186",
+  "estado":"enviado"
+ },
+ {
+  "id_envio":6.0,
+  "id_usuario":3.0,
+  "direccion":"",
+  "ciudad":"cali",
+  "fecha_envio":"2026-04-25T10:56:53.186",
+  "estado":"pendiente"
+ },
+ {
+  "id_envio":5.0,
+  "id_usuario":2.0,
+  "direccion":"none",
+  "ciudad":null,
+  "fecha_envio":"2026-04-28T10:56:53.186",
+  "estado":"entregado"
+ },
+ {
+  "id_envio":6.0,
+  "id_usuario":1.0,
+  "direccion":"carrera 45",
+  "ciudad":"cali",
+  "fecha_envio":"2026-04-26T10:56:53.186",
+  "estado":"entregado"
+ },
+ {
+  "id_envio":10.0,
+  "id_usuario":1.0,
+  "direccion":"calle 123",
+  "ciudad":"cali",
+  "fecha_envio":"2026-04-23T10:56:53.186",
   "estado":"enviado"
  },
  {
   "id_envio":6.0,
   "id_usuario":2.0,
+  "direccion":"calle 123",
+  "ciudad":"medell\u00edn",
+  "fecha_envio":"2026-04-28T10:56:53.186",
+  "estado":"pendiente"
+ },
+ {
+  "id_envio":1.0,
+  "id_usuario":1.0,
+  "direccion":"",
+  "ciudad":"bogot\u00e1",
+  "fecha_envio":"2026-04-24T10:56:53.186",
+  "estado":"enviado"
+ },
+ {
+  "id_envio":3.0,
+  "id_usuario":1.0,
   "direccion":"none",
+  "ciudad":"cali",
+  "fecha_envio":"2026-04-20T10:56:53.186",
+  "estado":"entregado"
+ },
+ {
+  "id_envio":8.0,
+  "id_usuario":3.0,
+  "direccion":"",
+  "ciudad":"medell\u00edn",
+  "fecha_envio":"2026-04-27T10:56:53.186",
+  "estado":"entregado"
+ },
+ {
+  "id_envio":5.0,
+  "id_usuario":1.0,
+  "direccion":"",
+  "ciudad":"cali",
+  "fecha_envio":"2026-04-25T10:56:53.186",
+  "estado":"enviado"
+ },
+ {
+  "id_envio":4.0,
+  "id_usuario":3.0,
+  "direccion":"calle 123",
   "ciudad":null,
-  "fecha_envio":1776853177236,
+  "fecha_envio":"2026-04-29T10:56:53.186",
+  "estado":"enviado"
+ },
+ {
+  "id_envio":7.0,
+  "id_usuario":3.0,
+  "direccion":"none",
+  "ciudad":"bogot\u00e1",
+  "fecha_envio":"2026-04-26T10:56:53.186",
+  "estado":"pendiente"
+ },
+ {
+  "id_envio":1.0,
+  "id_usuario":1.0,
+  "direccion":"calle 123",
+  "ciudad":"cali",
+  "fecha_envio":"2026-04-22T10:56:53.186",
+  "estado":"pendiente"
+ },
+ {
+  "id_envio":7.0,
+  "id_usuario":2.0,
+  "direccion":"carrera 45",
+  "ciudad":"medell\u00edn",
+  "fecha_envio":"2026-04-30T10:56:53.186",
+  "estado":"entregado"
+ },
+ {
+  "id_envio":6.0,
+  "id_usuario":3.0,
+  "direccion":"",
+  "ciudad":"bogot\u00e1",
+  "fecha_envio":"2026-04-26T10:56:53.186",
+  "estado":"enviado"
+ },
+ {
+  "id_envio":3.0,
+  "id_usuario":3.0,
+  "direccion":"calle 123",
+  "ciudad":"bogot\u00e1",
+  "fecha_envio":null,
+  "estado":"entregado"
+ },
+ {
+  "id_envio":5.0,
+  "id_usuario":2.0,
+  "direccion":"",
+  "ciudad":"medell\u00edn",
+  "fecha_envio":null,
   "estado":"enviado"
  },
  {
@@ -28,1384 +236,16 @@
   "id_usuario":1.0,
   "direccion":"carrera 45",
   "ciudad":null,
-  "fecha_envio":1776766777236,
-  "estado":"entregado"
- },
- {
-  "id_envio":3.0,
-  "id_usuario":1.0,
-  "direccion":"",
-  "ciudad":"cali",
-  "fecha_envio":1777112377236,
-  "estado":"entregado"
- },
- {
-  "id_envio":8.0,
-  "id_usuario":2.0,
-  "direccion":"calle 123",
-  "ciudad":"bogot\u00e1",
-  "fecha_envio":1777457977236,
-  "estado":"enviado"
- },
- {
-  "id_envio":8.0,
-  "id_usuario":3.0,
-  "direccion":"calle 123",
-  "ciudad":"bogot\u00e1",
-  "fecha_envio":1777371577237,
-  "estado":"entregado"
- },
- {
-  "id_envio":10.0,
-  "id_usuario":1.0,
-  "direccion":"",
-  "ciudad":"bogot\u00e1",
-  "fecha_envio":1776939577237,
-  "estado":"enviado"
- },
- {
-  "id_envio":8.0,
-  "id_usuario":2.0,
-  "direccion":"calle 123",
-  "ciudad":null,
-  "fecha_envio":1776939577237,
-  "estado":"entregado"
- },
- {
-  "id_envio":6.0,
-  "id_usuario":2.0,
-  "direccion":"",
-  "ciudad":"cali",
-  "fecha_envio":1777112377237,
-  "estado":"pendiente"
- },
- {
-  "id_envio":7.0,
-  "id_usuario":2.0,
-  "direccion":"",
-  "ciudad":"cali",
-  "fecha_envio":1777457977237,
-  "estado":"enviado"
- },
- {
-  "id_envio":8.0,
-  "id_usuario":2.0,
-  "direccion":"carrera 45",
-  "ciudad":"medell\u00edn",
-  "fecha_envio":1776853177237,
-  "estado":"pendiente"
- },
- {
-  "id_envio":2.0,
-  "id_usuario":3.0,
-  "direccion":"carrera 45",
-  "ciudad":"medell\u00edn",
-  "fecha_envio":1776766777237,
-  "estado":"pendiente"
- },
- {
-  "id_envio":3.0,
-  "id_usuario":3.0,
-  "direccion":"carrera 45",
-  "ciudad":"medell\u00edn",
-  "fecha_envio":1777457977237,
-  "estado":"pendiente"
- },
- {
-  "id_envio":4.0,
-  "id_usuario":1.0,
-  "direccion":"carrera 45",
-  "ciudad":"medell\u00edn",
-  "fecha_envio":1777112377237,
-  "estado":"enviado"
- },
- {
-  "id_envio":1.0,
-  "id_usuario":3.0,
-  "direccion":"calle 123",
-  "ciudad":"bogot\u00e1",
-  "fecha_envio":1776680377237,
-  "estado":"pendiente"
- },
- {
-  "id_envio":4.0,
-  "id_usuario":3.0,
-  "direccion":"carrera 45",
-  "ciudad":"medell\u00edn",
-  "fecha_envio":1776939577237,
-  "estado":"enviado"
- },
- {
-  "id_envio":5.0,
-  "id_usuario":2.0,
-  "direccion":"calle 123",
-  "ciudad":null,
-  "fecha_envio":null,
-  "estado":"pendiente"
- },
- {
-  "id_envio":6.0,
-  "id_usuario":3.0,
-  "direccion":"none",
-  "ciudad":"medell\u00edn",
-  "fecha_envio":1777544377237,
-  "estado":"enviado"
- },
- {
-  "id_envio":5.0,
-  "id_usuario":1.0,
-  "direccion":"",
-  "ciudad":"medell\u00edn",
-  "fecha_envio":1776853177237,
-  "estado":"entregado"
- },
- {
-  "id_envio":2.0,
-  "id_usuario":3.0,
-  "direccion":"",
-  "ciudad":"medell\u00edn",
-  "fecha_envio":1776766777237,
-  "estado":"enviado"
- },
- {
-  "id_envio":9.0,
-  "id_usuario":3.0,
-  "direccion":"",
-  "ciudad":"cali",
-  "fecha_envio":1777285177237,
-  "estado":"enviado"
- },
- {
-  "id_envio":5.0,
-  "id_usuario":2.0,
-  "direccion":"carrera 45",
-  "ciudad":"medell\u00edn",
-  "fecha_envio":1776766777237,
-  "estado":"pendiente"
- },
- {
-  "id_envio":9.0,
-  "id_usuario":1.0,
-  "direccion":"none",
-  "ciudad":"bogot\u00e1",
-  "fecha_envio":1776853177237,
-  "estado":"enviado"
- },
- {
-  "id_envio":6.0,
-  "id_usuario":1.0,
-  "direccion":"calle 123",
-  "ciudad":null,
-  "fecha_envio":1777285177237,
-  "estado":"pendiente"
- },
- {
-  "id_envio":6.0,
-  "id_usuario":2.0,
-  "direccion":"calle 123",
-  "ciudad":null,
-  "fecha_envio":1777112377237,
-  "estado":"entregado"
- },
- {
-  "id_envio":9.0,
-  "id_usuario":3.0,
-  "direccion":"calle 123",
-  "ciudad":"cali",
-  "fecha_envio":1777285177237,
-  "estado":"pendiente"
- },
- {
-  "id_envio":1.0,
-  "id_usuario":1.0,
-  "direccion":"calle 123",
-  "ciudad":null,
-  "fecha_envio":1777544377237,
-  "estado":"pendiente"
- },
- {
-  "id_envio":1.0,
-  "id_usuario":2.0,
-  "direccion":"none",
-  "ciudad":"bogot\u00e1",
-  "fecha_envio":1777198777237,
-  "estado":"entregado"
- },
- {
-  "id_envio":7.0,
-  "id_usuario":1.0,
-  "direccion":"carrera 45",
-  "ciudad":null,
-  "fecha_envio":1777025977237,
-  "estado":"pendiente"
- },
- {
-  "id_envio":1.0,
-  "id_usuario":2.0,
-  "direccion":"",
-  "ciudad":"medell\u00edn",
-  "fecha_envio":1777457977237,
-  "estado":"pendiente"
- },
- {
-  "id_envio":5.0,
-  "id_usuario":3.0,
-  "direccion":"",
-  "ciudad":"bogot\u00e1",
-  "fecha_envio":1777457977237,
-  "estado":"pendiente"
- },
- {
-  "id_envio":6.0,
-  "id_usuario":2.0,
-  "direccion":"",
-  "ciudad":"medell\u00edn",
-  "fecha_envio":1777544377237,
-  "estado":"pendiente"
- },
- {
-  "id_envio":2.0,
-  "id_usuario":3.0,
-  "direccion":"carrera 45",
-  "ciudad":null,
-  "fecha_envio":1776766777237,
-  "estado":"entregado"
- },
- {
-  "id_envio":8.0,
-  "id_usuario":2.0,
-  "direccion":"carrera 45",
-  "ciudad":"medell\u00edn",
-  "fecha_envio":null,
-  "estado":"enviado"
- },
- {
-  "id_envio":2.0,
-  "id_usuario":2.0,
-  "direccion":"calle 123",
-  "ciudad":"medell\u00edn",
-  "fecha_envio":1776680377237,
-  "estado":"enviado"
- },
- {
-  "id_envio":3.0,
-  "id_usuario":3.0,
-  "direccion":"calle 123",
-  "ciudad":"cali",
-  "fecha_envio":null,
-  "estado":"entregado"
- },
- {
-  "id_envio":4.0,
-  "id_usuario":3.0,
-  "direccion":"",
-  "ciudad":"medell\u00edn",
-  "fecha_envio":1776853177237,
-  "estado":"pendiente"
- },
- {
-  "id_envio":3.0,
-  "id_usuario":2.0,
-  "direccion":"carrera 45",
-  "ciudad":"cali",
-  "fecha_envio":1776680377237,
-  "estado":"entregado"
- },
- {
-  "id_envio":5.0,
-  "id_usuario":3.0,
-  "direccion":"calle 123",
-  "ciudad":null,
-  "fecha_envio":1777371577237,
-  "estado":"enviado"
- },
- {
-  "id_envio":4.0,
-  "id_usuario":2.0,
-  "direccion":"",
-  "ciudad":"bogot\u00e1",
-  "fecha_envio":1777198777237,
-  "estado":"entregado"
- },
- {
-  "id_envio":4.0,
-  "id_usuario":1.0,
-  "direccion":"none",
-  "ciudad":"cali",
-  "fecha_envio":1777544377237,
-  "estado":"pendiente"
- },
- {
-  "id_envio":9.0,
-  "id_usuario":3.0,
-  "direccion":"calle 123",
-  "ciudad":"cali",
-  "fecha_envio":1777198777237,
-  "estado":"pendiente"
- },
- {
-  "id_envio":5.0,
-  "id_usuario":1.0,
-  "direccion":"none",
-  "ciudad":"cali",
-  "fecha_envio":1776680377237,
-  "estado":"pendiente"
- },
- {
-  "id_envio":7.0,
-  "id_usuario":1.0,
-  "direccion":"none",
-  "ciudad":"medell\u00edn",
-  "fecha_envio":1777112377237,
-  "estado":"pendiente"
- },
- {
-  "id_envio":9.0,
-  "id_usuario":2.0,
-  "direccion":"",
-  "ciudad":null,
-  "fecha_envio":1777285177237,
-  "estado":"enviado"
- },
- {
-  "id_envio":2.0,
-  "id_usuario":3.0,
-  "direccion":"calle 123",
-  "ciudad":"bogot\u00e1",
-  "fecha_envio":1777285177237,
-  "estado":"pendiente"
- },
- {
-  "id_envio":3.0,
-  "id_usuario":3.0,
-  "direccion":"carrera 45",
-  "ciudad":"bogot\u00e1",
-  "fecha_envio":1777544377237,
-  "estado":"entregado"
- },
- {
-  "id_envio":10.0,
-  "id_usuario":3.0,
-  "direccion":"calle 123",
-  "ciudad":null,
-  "fecha_envio":1777285177237,
-  "estado":"pendiente"
- },
- {
-  "id_envio":7.0,
-  "id_usuario":2.0,
-  "direccion":"carrera 45",
-  "ciudad":null,
-  "fecha_envio":null,
+  "fecha_envio":"2026-04-30T10:56:53.186",
   "estado":"pendiente"
  },
  {
   "id_envio":10.0,
   "id_usuario":3.0,
-  "direccion":"",
-  "ciudad":null,
-  "fecha_envio":1777112377237,
-  "estado":"entregado"
- },
- {
-  "id_envio":8.0,
-  "id_usuario":2.0,
-  "direccion":"",
-  "ciudad":"bogot\u00e1",
-  "fecha_envio":1777025977237,
-  "estado":"pendiente"
- },
- {
-  "id_envio":9.0,
-  "id_usuario":3.0,
-  "direccion":"calle 123",
-  "ciudad":null,
-  "fecha_envio":1776680377237,
-  "estado":"entregado"
- },
- {
-  "id_envio":3.0,
-  "id_usuario":2.0,
-  "direccion":"",
-  "ciudad":"medell\u00edn",
-  "fecha_envio":1776766777237,
-  "estado":"pendiente"
- },
- {
-  "id_envio":5.0,
-  "id_usuario":2.0,
-  "direccion":"calle 123",
-  "ciudad":"cali",
-  "fecha_envio":1777112377237,
-  "estado":"enviado"
- },
- {
-  "id_envio":10.0,
-  "id_usuario":2.0,
-  "direccion":"calle 123",
-  "ciudad":"cali",
-  "fecha_envio":1777285177237,
-  "estado":"pendiente"
- },
- {
-  "id_envio":8.0,
-  "id_usuario":1.0,
   "direccion":"carrera 45",
   "ciudad":"bogot\u00e1",
-  "fecha_envio":null,
-  "estado":"entregado"
- },
- {
-  "id_envio":2.0,
-  "id_usuario":1.0,
-  "direccion":"calle 123",
-  "ciudad":"cali",
-  "fecha_envio":1777371577237,
-  "estado":"entregado"
- },
- {
-  "id_envio":4.0,
-  "id_usuario":2.0,
-  "direccion":"carrera 45",
-  "ciudad":null,
-  "fecha_envio":1776766777237,
+  "fecha_envio":"2026-04-25T10:56:53.186",
   "estado":"pendiente"
- },
- {
-  "id_envio":7.0,
-  "id_usuario":2.0,
-  "direccion":"calle 123",
-  "ciudad":"cali",
-  "fecha_envio":1777457977237,
-  "estado":"pendiente"
- },
- {
-  "id_envio":5.0,
-  "id_usuario":2.0,
-  "direccion":"",
-  "ciudad":"bogot\u00e1",
-  "fecha_envio":1777457977237,
-  "estado":"enviado"
- },
- {
-  "id_envio":1.0,
-  "id_usuario":1.0,
-  "direccion":"carrera 45",
-  "ciudad":"medell\u00edn",
-  "fecha_envio":1777371577238,
-  "estado":"entregado"
- },
- {
-  "id_envio":4.0,
-  "id_usuario":1.0,
-  "direccion":"carrera 45",
-  "ciudad":"cali",
-  "fecha_envio":1776939577238,
-  "estado":"pendiente"
- },
- {
-  "id_envio":4.0,
-  "id_usuario":1.0,
-  "direccion":"carrera 45",
-  "ciudad":"cali",
-  "fecha_envio":null,
-  "estado":"pendiente"
- },
- {
-  "id_envio":5.0,
-  "id_usuario":1.0,
-  "direccion":"carrera 45",
-  "ciudad":null,
-  "fecha_envio":1776680377238,
-  "estado":"pendiente"
- },
- {
-  "id_envio":9.0,
-  "id_usuario":2.0,
-  "direccion":"",
-  "ciudad":"bogot\u00e1",
-  "fecha_envio":1777112377238,
-  "estado":"pendiente"
- },
- {
-  "id_envio":2.0,
-  "id_usuario":1.0,
-  "direccion":"",
-  "ciudad":null,
-  "fecha_envio":1777025977238,
-  "estado":"pendiente"
- },
- {
-  "id_envio":8.0,
-  "id_usuario":2.0,
-  "direccion":"carrera 45",
-  "ciudad":"cali",
-  "fecha_envio":1777371577238,
-  "estado":"enviado"
- },
- {
-  "id_envio":7.0,
-  "id_usuario":3.0,
-  "direccion":"calle 123",
-  "ciudad":"cali",
-  "fecha_envio":1777112377238,
-  "estado":"entregado"
- },
- {
-  "id_envio":4.0,
-  "id_usuario":3.0,
-  "direccion":"carrera 45",
-  "ciudad":"medell\u00edn",
-  "fecha_envio":1777544377238,
-  "estado":"pendiente"
- },
- {
-  "id_envio":1.0,
-  "id_usuario":2.0,
-  "direccion":"",
-  "ciudad":"cali",
-  "fecha_envio":null,
-  "estado":"enviado"
- },
- {
-  "id_envio":6.0,
-  "id_usuario":2.0,
-  "direccion":"none",
-  "ciudad":"medell\u00edn",
-  "fecha_envio":1776939577238,
-  "estado":"pendiente"
- },
- {
-  "id_envio":2.0,
-  "id_usuario":3.0,
-  "direccion":"calle 123",
-  "ciudad":"bogot\u00e1",
-  "fecha_envio":1776766777238,
-  "estado":"pendiente"
- },
- {
-  "id_envio":5.0,
-  "id_usuario":3.0,
-  "direccion":"calle 123",
-  "ciudad":"medell\u00edn",
-  "fecha_envio":null,
-  "estado":"entregado"
- },
- {
-  "id_envio":7.0,
-  "id_usuario":2.0,
-  "direccion":"",
-  "ciudad":"cali",
-  "fecha_envio":1776853177238,
-  "estado":"pendiente"
- },
- {
-  "id_envio":6.0,
-  "id_usuario":1.0,
-  "direccion":"calle 123",
-  "ciudad":null,
-  "fecha_envio":1776853177238,
-  "estado":"pendiente"
- },
- {
-  "id_envio":2.0,
-  "id_usuario":3.0,
-  "direccion":"carrera 45",
-  "ciudad":"medell\u00edn",
-  "fecha_envio":1777112377238,
-  "estado":"pendiente"
- },
- {
-  "id_envio":2.0,
-  "id_usuario":3.0,
-  "direccion":"none",
-  "ciudad":null,
-  "fecha_envio":1777285177238,
-  "estado":"pendiente"
- },
- {
-  "id_envio":8.0,
-  "id_usuario":2.0,
-  "direccion":"carrera 45",
-  "ciudad":"bogot\u00e1",
-  "fecha_envio":1777285177238,
-  "estado":"entregado"
- },
- {
-  "id_envio":9.0,
-  "id_usuario":2.0,
-  "direccion":"",
-  "ciudad":null,
-  "fecha_envio":1777371577238,
-  "estado":"pendiente"
- },
- {
-  "id_envio":1.0,
-  "id_usuario":2.0,
-  "direccion":"carrera 45",
-  "ciudad":null,
-  "fecha_envio":1777457977238,
-  "estado":"enviado"
- },
- {
-  "id_envio":5.0,
-  "id_usuario":1.0,
-  "direccion":"",
-  "ciudad":"medell\u00edn",
-  "fecha_envio":1776853177238,
-  "estado":"enviado"
- },
- {
-  "id_envio":6.0,
-  "id_usuario":3.0,
-  "direccion":"calle 123",
-  "ciudad":"medell\u00edn",
-  "fecha_envio":1777371577238,
-  "estado":"pendiente"
- },
- {
-  "id_envio":4.0,
-  "id_usuario":2.0,
-  "direccion":"calle 123",
-  "ciudad":"medell\u00edn",
-  "fecha_envio":1777198777238,
-  "estado":"pendiente"
- },
- {
-  "id_envio":9.0,
-  "id_usuario":3.0,
-  "direccion":"calle 123",
-  "ciudad":"cali",
-  "fecha_envio":1777025977238,
-  "estado":"pendiente"
- },
- {
-  "id_envio":4.0,
-  "id_usuario":1.0,
-  "direccion":"calle 123",
-  "ciudad":"medell\u00edn",
-  "fecha_envio":1776853177238,
-  "estado":"pendiente"
- },
- {
-  "id_envio":8.0,
-  "id_usuario":3.0,
-  "direccion":"carrera 45",
-  "ciudad":"cali",
-  "fecha_envio":1777025977238,
-  "estado":"enviado"
- },
- {
-  "id_envio":2.0,
-  "id_usuario":1.0,
-  "direccion":"",
-  "ciudad":"bogot\u00e1",
-  "fecha_envio":1777457977238,
-  "estado":"pendiente"
- },
- {
-  "id_envio":7.0,
-  "id_usuario":1.0,
-  "direccion":"calle 123",
-  "ciudad":null,
-  "fecha_envio":null,
-  "estado":"enviado"
- },
- {
-  "id_envio":10.0,
-  "id_usuario":3.0,
-  "direccion":"",
-  "ciudad":"cali",
-  "fecha_envio":1776680377238,
-  "estado":"pendiente"
- },
- {
-  "id_envio":4.0,
-  "id_usuario":1.0,
-  "direccion":"none",
-  "ciudad":null,
-  "fecha_envio":1776766777238,
-  "estado":"enviado"
- },
- {
-  "id_envio":2.0,
-  "id_usuario":3.0,
-  "direccion":"carrera 45",
-  "ciudad":null,
-  "fecha_envio":1777457977238,
-  "estado":"pendiente"
- },
- {
-  "id_envio":2.0,
-  "id_usuario":3.0,
-  "direccion":"calle 123",
-  "ciudad":"medell\u00edn",
-  "fecha_envio":1776680377238,
-  "estado":"pendiente"
- },
- {
-  "id_envio":2.0,
-  "id_usuario":2.0,
-  "direccion":"carrera 45",
-  "ciudad":"cali",
-  "fecha_envio":1776853177238,
-  "estado":"pendiente"
- },
- {
-  "id_envio":7.0,
-  "id_usuario":1.0,
-  "direccion":"calle 123",
-  "ciudad":null,
-  "fecha_envio":1777198777238,
-  "estado":"entregado"
- },
- {
-  "id_envio":10.0,
-  "id_usuario":2.0,
-  "direccion":"calle 123",
-  "ciudad":"medell\u00edn",
-  "fecha_envio":null,
-  "estado":"pendiente"
- },
- {
-  "id_envio":1.0,
-  "id_usuario":2.0,
-  "direccion":"",
-  "ciudad":"bogot\u00e1",
-  "fecha_envio":1777285177238,
-  "estado":"entregado"
- },
- {
-  "id_envio":2.0,
-  "id_usuario":3.0,
-  "direccion":"carrera 45",
-  "ciudad":"bogot\u00e1",
-  "fecha_envio":1777025977238,
-  "estado":"entregado"
- },
- {
-  "id_envio":1.0,
-  "id_usuario":1.0,
-  "direccion":"carrera 45",
-  "ciudad":"bogot\u00e1",
-  "fecha_envio":1777544377238,
-  "estado":"entregado"
- },
- {
-  "id_envio":1.0,
-  "id_usuario":1.0,
-  "direccion":"carrera 45",
-  "ciudad":"cali",
-  "fecha_envio":1777285177238,
-  "estado":"pendiente"
- },
- {
-  "id_envio":1.0,
-  "id_usuario":3.0,
-  "direccion":"calle 123",
-  "ciudad":null,
-  "fecha_envio":null,
-  "estado":"pendiente"
- },
- {
-  "id_envio":10.0,
-  "id_usuario":3.0,
-  "direccion":"calle 123",
-  "ciudad":"bogot\u00e1",
-  "fecha_envio":null,
-  "estado":"pendiente"
- },
- {
-  "id_envio":4.0,
-  "id_usuario":1.0,
-  "direccion":"carrera 45",
-  "ciudad":"bogot\u00e1",
-  "fecha_envio":1777112377238,
-  "estado":"pendiente"
- },
- {
-  "id_envio":6.0,
-  "id_usuario":2.0,
-  "direccion":"carrera 45",
-  "ciudad":"bogot\u00e1",
-  "fecha_envio":1776939577238,
-  "estado":"pendiente"
- },
- {
-  "id_envio":4.0,
-  "id_usuario":2.0,
-  "direccion":"none",
-  "ciudad":"medell\u00edn",
-  "fecha_envio":1777457977238,
-  "estado":"pendiente"
- },
- {
-  "id_envio":2.0,
-  "id_usuario":1.0,
-  "direccion":"carrera 45",
-  "ciudad":"cali",
-  "fecha_envio":1777025977238,
-  "estado":"pendiente"
- },
- {
-  "id_envio":7.0,
-  "id_usuario":1.0,
-  "direccion":"calle 123",
-  "ciudad":"medell\u00edn",
-  "fecha_envio":1777112377238,
-  "estado":"entregado"
- },
- {
-  "id_envio":4.0,
-  "id_usuario":3.0,
-  "direccion":"carrera 45",
-  "ciudad":"cali",
-  "fecha_envio":1777025977238,
-  "estado":"enviado"
- },
- {
-  "id_envio":2.0,
-  "id_usuario":1.0,
-  "direccion":"carrera 45",
-  "ciudad":null,
-  "fecha_envio":null,
-  "estado":"enviado"
- },
- {
-  "id_envio":5.0,
-  "id_usuario":1.0,
-  "direccion":"",
-  "ciudad":"bogot\u00e1",
-  "fecha_envio":1776680377238,
-  "estado":"pendiente"
- },
- {
-  "id_envio":5.0,
-  "id_usuario":2.0,
-  "direccion":"carrera 45",
-  "ciudad":"bogot\u00e1",
-  "fecha_envio":null,
-  "estado":"pendiente"
- },
- {
-  "id_envio":8.0,
-  "id_usuario":1.0,
-  "direccion":"carrera 45",
-  "ciudad":"medell\u00edn",
-  "fecha_envio":1777457977238,
-  "estado":"pendiente"
- },
- {
-  "id_envio":6.0,
-  "id_usuario":2.0,
-  "direccion":"calle 123",
-  "ciudad":"medell\u00edn",
-  "fecha_envio":1777198777238,
-  "estado":"entregado"
- },
- {
-  "id_envio":9.0,
-  "id_usuario":1.0,
-  "direccion":"none",
-  "ciudad":"cali",
-  "fecha_envio":1777112377238,
-  "estado":"enviado"
- },
- {
-  "id_envio":4.0,
-  "id_usuario":3.0,
-  "direccion":"carrera 45",
-  "ciudad":"cali",
-  "fecha_envio":1776853177238,
-  "estado":"pendiente"
- },
- {
-  "id_envio":4.0,
-  "id_usuario":2.0,
-  "direccion":"",
-  "ciudad":null,
-  "fecha_envio":1777198777238,
-  "estado":"entregado"
- },
- {
-  "id_envio":5.0,
-  "id_usuario":2.0,
-  "direccion":"calle 123",
-  "ciudad":"medell\u00edn",
-  "fecha_envio":1777371577238,
-  "estado":"enviado"
- },
- {
-  "id_envio":1.0,
-  "id_usuario":1.0,
-  "direccion":"carrera 45",
-  "ciudad":"medell\u00edn",
-  "fecha_envio":null,
-  "estado":"pendiente"
- },
- {
-  "id_envio":4.0,
-  "id_usuario":3.0,
-  "direccion":"",
-  "ciudad":null,
-  "fecha_envio":1777544377238,
-  "estado":"enviado"
- },
- {
-  "id_envio":2.0,
-  "id_usuario":2.0,
-  "direccion":"",
-  "ciudad":null,
-  "fecha_envio":null,
-  "estado":"pendiente"
- },
- {
-  "id_envio":1.0,
-  "id_usuario":1.0,
-  "direccion":"calle 123",
-  "ciudad":null,
-  "fecha_envio":null,
-  "estado":"pendiente"
- },
- {
-  "id_envio":7.0,
-  "id_usuario":2.0,
-  "direccion":"",
-  "ciudad":null,
-  "fecha_envio":null,
-  "estado":"enviado"
- },
- {
-  "id_envio":10.0,
-  "id_usuario":2.0,
-  "direccion":"carrera 45",
-  "ciudad":"medell\u00edn",
-  "fecha_envio":null,
-  "estado":"pendiente"
- },
- {
-  "id_envio":5.0,
-  "id_usuario":3.0,
-  "direccion":"calle 123",
-  "ciudad":null,
-  "fecha_envio":1776853177239,
-  "estado":"entregado"
- },
- {
-  "id_envio":9.0,
-  "id_usuario":2.0,
-  "direccion":"carrera 45",
-  "ciudad":null,
-  "fecha_envio":1777285177239,
-  "estado":"entregado"
- },
- {
-  "id_envio":4.0,
-  "id_usuario":2.0,
-  "direccion":"carrera 45",
-  "ciudad":"medell\u00edn",
-  "fecha_envio":1776939577239,
-  "estado":"enviado"
- },
- {
-  "id_envio":3.0,
-  "id_usuario":1.0,
-  "direccion":"",
-  "ciudad":null,
-  "fecha_envio":1776939577239,
-  "estado":"enviado"
- },
- {
-  "id_envio":5.0,
-  "id_usuario":1.0,
-  "direccion":"carrera 45",
-  "ciudad":"medell\u00edn",
-  "fecha_envio":1777457977239,
-  "estado":"pendiente"
- },
- {
-  "id_envio":10.0,
-  "id_usuario":3.0,
-  "direccion":"carrera 45",
-  "ciudad":"cali",
-  "fecha_envio":1777112377239,
-  "estado":"enviado"
- },
- {
-  "id_envio":6.0,
-  "id_usuario":1.0,
-  "direccion":"",
-  "ciudad":"cali",
-  "fecha_envio":1776853177239,
-  "estado":"pendiente"
- },
- {
-  "id_envio":3.0,
-  "id_usuario":1.0,
-  "direccion":"carrera 45",
-  "ciudad":"cali",
-  "fecha_envio":1776766777239,
-  "estado":"entregado"
- },
- {
-  "id_envio":5.0,
-  "id_usuario":2.0,
-  "direccion":"",
-  "ciudad":"cali",
-  "fecha_envio":1776766777239,
-  "estado":"entregado"
- },
- {
-  "id_envio":2.0,
-  "id_usuario":2.0,
-  "direccion":"",
-  "ciudad":"cali",
-  "fecha_envio":1776680377239,
-  "estado":"pendiente"
- },
- {
-  "id_envio":5.0,
-  "id_usuario":2.0,
-  "direccion":"none",
-  "ciudad":"medell\u00edn",
-  "fecha_envio":1776680377239,
-  "estado":"pendiente"
- },
- {
-  "id_envio":10.0,
-  "id_usuario":2.0,
-  "direccion":"",
-  "ciudad":"medell\u00edn",
-  "fecha_envio":1776766777239,
-  "estado":"pendiente"
- },
- {
-  "id_envio":7.0,
-  "id_usuario":2.0,
-  "direccion":"",
-  "ciudad":"bogot\u00e1",
-  "fecha_envio":1776939577239,
-  "estado":"pendiente"
- },
- {
-  "id_envio":4.0,
-  "id_usuario":3.0,
-  "direccion":"calle 123",
-  "ciudad":null,
-  "fecha_envio":1776853177239,
-  "estado":"pendiente"
- },
- {
-  "id_envio":9.0,
-  "id_usuario":1.0,
-  "direccion":"carrera 45",
-  "ciudad":"cali",
-  "fecha_envio":1777544377239,
-  "estado":"enviado"
- },
- {
-  "id_envio":9.0,
-  "id_usuario":1.0,
-  "direccion":"",
-  "ciudad":"medell\u00edn",
-  "fecha_envio":1777025977239,
-  "estado":"enviado"
- },
- {
-  "id_envio":4.0,
-  "id_usuario":1.0,
-  "direccion":"carrera 45",
-  "ciudad":"medell\u00edn",
-  "fecha_envio":1776853177239,
-  "estado":"enviado"
- },
- {
-  "id_envio":5.0,
-  "id_usuario":2.0,
-  "direccion":"none",
-  "ciudad":"medell\u00edn",
-  "fecha_envio":1777198777239,
-  "estado":"pendiente"
- },
- {
-  "id_envio":4.0,
-  "id_usuario":1.0,
-  "direccion":"",
-  "ciudad":null,
-  "fecha_envio":1777198777239,
-  "estado":"pendiente"
- },
- {
-  "id_envio":1.0,
-  "id_usuario":3.0,
-  "direccion":"carrera 45",
-  "ciudad":null,
-  "fecha_envio":1777371577239,
-  "estado":"enviado"
- },
- {
-  "id_envio":2.0,
-  "id_usuario":3.0,
-  "direccion":"calle 123",
-  "ciudad":null,
-  "fecha_envio":1777544377239,
-  "estado":"pendiente"
- },
- {
-  "id_envio":6.0,
-  "id_usuario":2.0,
-  "direccion":"",
-  "ciudad":"cali",
-  "fecha_envio":1776853177239,
-  "estado":"entregado"
- },
- {
-  "id_envio":10.0,
-  "id_usuario":2.0,
-  "direccion":"carrera 45",
-  "ciudad":"bogot\u00e1",
-  "fecha_envio":null,
-  "estado":"pendiente"
- },
- {
-  "id_envio":7.0,
-  "id_usuario":3.0,
-  "direccion":"",
-  "ciudad":null,
-  "fecha_envio":1777371577239,
-  "estado":"pendiente"
- },
- {
-  "id_envio":7.0,
-  "id_usuario":2.0,
-  "direccion":"carrera 45",
-  "ciudad":"cali",
-  "fecha_envio":1777285177239,
-  "estado":"enviado"
- },
- {
-  "id_envio":9.0,
-  "id_usuario":1.0,
-  "direccion":"none",
-  "ciudad":"bogot\u00e1",
-  "fecha_envio":1776853177239,
-  "estado":"pendiente"
- },
- {
-  "id_envio":1.0,
-  "id_usuario":3.0,
-  "direccion":"carrera 45",
-  "ciudad":null,
-  "fecha_envio":1777285177239,
-  "estado":"pendiente"
- },
- {
-  "id_envio":5.0,
-  "id_usuario":2.0,
-  "direccion":"calle 123",
-  "ciudad":"medell\u00edn",
-  "fecha_envio":null,
-  "estado":"pendiente"
- },
- {
-  "id_envio":3.0,
-  "id_usuario":1.0,
-  "direccion":"",
-  "ciudad":"bogot\u00e1",
-  "fecha_envio":1777285177239,
-  "estado":"enviado"
- },
- {
-  "id_envio":4.0,
-  "id_usuario":2.0,
-  "direccion":"none",
-  "ciudad":null,
-  "fecha_envio":1777112377239,
-  "estado":"pendiente"
- },
- {
-  "id_envio":2.0,
-  "id_usuario":3.0,
-  "direccion":"",
-  "ciudad":null,
-  "fecha_envio":1776853177239,
-  "estado":"pendiente"
- },
- {
-  "id_envio":2.0,
-  "id_usuario":3.0,
-  "direccion":"none",
-  "ciudad":"bogot\u00e1",
-  "fecha_envio":1777371577239,
-  "estado":"enviado"
- },
- {
-  "id_envio":8.0,
-  "id_usuario":3.0,
-  "direccion":"calle 123",
-  "ciudad":"bogot\u00e1",
-  "fecha_envio":null,
-  "estado":"entregado"
- },
- {
-  "id_envio":6.0,
-  "id_usuario":3.0,
-  "direccion":"",
-  "ciudad":"cali",
-  "fecha_envio":1776853177239,
-  "estado":"enviado"
- },
- {
-  "id_envio":8.0,
-  "id_usuario":2.0,
-  "direccion":"carrera 45",
-  "ciudad":"medell\u00edn",
-  "fecha_envio":1776680377239,
-  "estado":"enviado"
- },
- {
-  "id_envio":7.0,
-  "id_usuario":3.0,
-  "direccion":"",
-  "ciudad":"cali",
-  "fecha_envio":1777112377239,
-  "estado":"enviado"
- },
- {
-  "id_envio":1.0,
-  "id_usuario":3.0,
-  "direccion":"none",
-  "ciudad":"medell\u00edn",
-  "fecha_envio":1777285177239,
-  "estado":"pendiente"
- },
- {
-  "id_envio":8.0,
-  "id_usuario":1.0,
-  "direccion":"carrera 45",
-  "ciudad":"medell\u00edn",
-  "fecha_envio":1777544377239,
-  "estado":"entregado"
- },
- {
-  "id_envio":9.0,
-  "id_usuario":2.0,
-  "direccion":"calle 123",
-  "ciudad":"medell\u00edn",
-  "fecha_envio":1777371577239,
-  "estado":"pendiente"
- },
- {
-  "id_envio":7.0,
-  "id_usuario":2.0,
-  "direccion":"",
-  "ciudad":"bogot\u00e1",
-  "fecha_envio":1777457977239,
-  "estado":"enviado"
- },
- {
-  "id_envio":1.0,
-  "id_usuario":3.0,
-  "direccion":"none",
-  "ciudad":null,
-  "fecha_envio":1777544377239,
-  "estado":"entregado"
- },
- {
-  "id_envio":9.0,
-  "id_usuario":2.0,
-  "direccion":"calle 123",
-  "ciudad":"bogot\u00e1",
-  "fecha_envio":1776939577239,
-  "estado":"enviado"
- },
- {
-  "id_envio":1.0,
-  "id_usuario":3.0,
-  "direccion":"calle 123",
-  "ciudad":"cali",
-  "fecha_envio":null,
-  "estado":"pendiente"
- },
- {
-  "id_envio":1.0,
-  "id_usuario":1.0,
-  "direccion":"calle 123",
-  "ciudad":"bogot\u00e1",
-  "fecha_envio":1777457977240,
-  "estado":"entregado"
- },
- {
-  "id_envio":7.0,
-  "id_usuario":1.0,
-  "direccion":"",
-  "ciudad":null,
-  "fecha_envio":1777285177240,
-  "estado":"pendiente"
- },
- {
-  "id_envio":2.0,
-  "id_usuario":1.0,
-  "direccion":"carrera 45",
-  "ciudad":"bogot\u00e1",
-  "fecha_envio":1777112377240,
-  "estado":"pendiente"
- },
- {
-  "id_envio":9.0,
-  "id_usuario":2.0,
-  "direccion":"carrera 45",
-  "ciudad":null,
-  "fecha_envio":1776766777240,
-  "estado":"enviado"
- },
- {
-  "id_envio":9.0,
-  "id_usuario":3.0,
-  "direccion":"",
-  "ciudad":"cali",
-  "fecha_envio":1776853177240,
-  "estado":"entregado"
- },
- {
-  "id_envio":10.0,
-  "id_usuario":2.0,
-  "direccion":"",
-  "ciudad":"bogot\u00e1",
-  "fecha_envio":1777198777240,
-  "estado":"pendiente"
- },
- {
-  "id_envio":10.0,
-  "id_usuario":1.0,
-  "direccion":"calle 123",
-  "ciudad":"medell\u00edn",
-  "fecha_envio":1777544377240,
-  "estado":"enviado"
- },
- {
-  "id_envio":4.0,
-  "id_usuario":1.0,
-  "direccion":"none",
-  "ciudad":"bogot\u00e1",
-  "fecha_envio":1777198777240,
-  "estado":"enviado"
- },
- {
-  "id_envio":9.0,
-  "id_usuario":2.0,
-  "direccion":"carrera 45",
-  "ciudad":"cali",
-  "fecha_envio":1776766777240,
-  "estado":"pendiente"
- },
- {
-  "id_envio":9.0,
-  "id_usuario":1.0,
-  "direccion":"carrera 45",
-  "ciudad":null,
-  "fecha_envio":1777457977240,
-  "estado":"enviado"
  },
  {
   "id_envio":4.0,
@@ -1417,122 +257,98 @@
  },
  {
   "id_envio":3.0,
-  "id_usuario":2.0,
+  "id_usuario":3.0,
+  "direccion":"",
+  "ciudad":"cali",
+  "fecha_envio":"2026-04-28T10:56:53.186",
+  "estado":"entregado"
+ },
+ {
+  "id_envio":7.0,
+  "id_usuario":3.0,
   "direccion":"carrera 45",
-  "ciudad":null,
-  "fecha_envio":1777544377240,
-  "estado":"enviado"
+  "ciudad":"medell\u00edn",
+  "fecha_envio":"2026-04-23T10:56:53.186",
+  "estado":"pendiente"
  },
  {
   "id_envio":6.0,
-  "id_usuario":1.0,
-  "direccion":"calle 123",
-  "ciudad":"cali",
-  "fecha_envio":1777025977240,
+  "id_usuario":3.0,
+  "direccion":"none",
+  "ciudad":null,
+  "fecha_envio":"2026-04-24T10:56:53.186",
   "estado":"pendiente"
  },
  {
-  "id_envio":5.0,
+  "id_envio":1.0,
+  "id_usuario":3.0,
+  "direccion":"",
+  "ciudad":null,
+  "fecha_envio":"2026-04-28T10:56:53.186",
+  "estado":"entregado"
+ },
+ {
+  "id_envio":7.0,
+  "id_usuario":2.0,
+  "direccion":"none",
+  "ciudad":"cali",
+  "fecha_envio":"2026-04-26T10:56:53.186",
+  "estado":"entregado"
+ },
+ {
+  "id_envio":4.0,
   "id_usuario":2.0,
   "direccion":"carrera 45",
   "ciudad":"medell\u00edn",
-  "fecha_envio":1776853177240,
-  "estado":"pendiente"
- },
- {
-  "id_envio":1.0,
-  "id_usuario":1.0,
-  "direccion":"calle 123",
-  "ciudad":null,
-  "fecha_envio":1776853177240,
-  "estado":"enviado"
- },
- {
-  "id_envio":10.0,
-  "id_usuario":3.0,
-  "direccion":"",
-  "ciudad":"bogot\u00e1",
-  "fecha_envio":1777544377240,
-  "estado":"pendiente"
- },
- {
-  "id_envio":5.0,
-  "id_usuario":2.0,
-  "direccion":"",
-  "ciudad":"medell\u00edn",
-  "fecha_envio":1777371577240,
-  "estado":"pendiente"
- },
- {
-  "id_envio":1.0,
-  "id_usuario":2.0,
-  "direccion":"",
-  "ciudad":"bogot\u00e1",
-  "fecha_envio":1777285177240,
-  "estado":"pendiente"
- },
- {
-  "id_envio":5.0,
-  "id_usuario":3.0,
-  "direccion":"",
-  "ciudad":"medell\u00edn",
-  "fecha_envio":1776939577240,
+  "fecha_envio":"2026-04-20T10:56:53.186",
   "estado":"enviado"
  },
  {
   "id_envio":3.0,
   "id_usuario":2.0,
-  "direccion":"",
-  "ciudad":"bogot\u00e1",
-  "fecha_envio":1776766777240,
-  "estado":"pendiente"
+  "direccion":"none",
+  "ciudad":null,
+  "fecha_envio":"2026-04-22T10:56:53.186",
+  "estado":"enviado"
  },
  {
   "id_envio":6.0,
-  "id_usuario":1.0,
+  "id_usuario":2.0,
   "direccion":"calle 123",
-  "ciudad":"cali",
-  "fecha_envio":1776853177240,
-  "estado":"pendiente"
+  "ciudad":"medell\u00edn",
+  "fecha_envio":"2026-04-29T10:56:53.186",
+  "estado":"entregado"
  },
  {
   "id_envio":5.0,
   "id_usuario":3.0,
-  "direccion":"",
-  "ciudad":"bogot\u00e1",
-  "fecha_envio":1777112377240,
+  "direccion":"calle 123",
+  "ciudad":"medell\u00edn",
+  "fecha_envio":"2026-04-23T10:56:53.186",
   "estado":"entregado"
  },
  {
-  "id_envio":1.0,
-  "id_usuario":1.0,
-  "direccion":"",
-  "ciudad":null,
-  "fecha_envio":null,
-  "estado":"enviado"
- },
- {
   "id_envio":5.0,
-  "id_usuario":1.0,
+  "id_usuario":2.0,
   "direccion":"",
   "ciudad":"cali",
-  "fecha_envio":1777112377240,
-  "estado":"enviado"
+  "fecha_envio":"2026-04-26T10:56:53.186",
+  "estado":"entregado"
+ },
+ {
+  "id_envio":6.0,
+  "id_usuario":2.0,
+  "direccion":"calle 123",
+  "ciudad":"medell\u00edn",
+  "fecha_envio":"2026-04-25T10:56:53.186",
+  "estado":"pendiente"
  },
  {
   "id_envio":2.0,
-  "id_usuario":1.0,
-  "direccion":"carrera 45",
-  "ciudad":"cali",
-  "fecha_envio":1776766777240,
-  "estado":"enviado"
- },
- {
-  "id_envio":2.0,
-  "id_usuario":1.0,
-  "direccion":"none",
-  "ciudad":"cali",
-  "fecha_envio":1776853177240,
+  "id_usuario":2.0,
+  "direccion":"calle 123",
+  "ciudad":"medell\u00edn",
+  "fecha_envio":"2026-04-22T10:56:53.186",
   "estado":"pendiente"
  },
  {
@@ -1540,919 +356,271 @@
   "id_usuario":1.0,
   "direccion":"carrera 45",
   "ciudad":null,
-  "fecha_envio":1777198777240,
+  "fecha_envio":"2026-04-26T10:56:53.186",
+  "estado":"pendiente"
+ },
+ {
+  "id_envio":1.0,
+  "id_usuario":2.0,
+  "direccion":"calle 123",
+  "ciudad":"medell\u00edn",
+  "fecha_envio":"2026-04-27T10:56:53.186",
+  "estado":"pendiente"
+ },
+ {
+  "id_envio":5.0,
+  "id_usuario":2.0,
+  "direccion":"",
+  "ciudad":"medell\u00edn",
+  "fecha_envio":"2026-04-28T10:56:53.186",
   "estado":"pendiente"
  },
  {
   "id_envio":8.0,
-  "id_usuario":3.0,
-  "direccion":"",
+  "id_usuario":1.0,
+  "direccion":"none",
   "ciudad":null,
-  "fecha_envio":1777198777240,
-  "estado":"pendiente"
+  "fecha_envio":"2026-04-24T10:56:53.186",
+  "estado":"enviado"
  },
  {
   "id_envio":2.0,
   "id_usuario":1.0,
-  "direccion":"calle 123",
+  "direccion":"none",
+  "ciudad":"bogot\u00e1",
+  "fecha_envio":"2026-04-27T10:56:53.186",
+  "estado":"pendiente"
+ },
+ {
+  "id_envio":10.0,
+  "id_usuario":2.0,
+  "direccion":"carrera 45",
+  "ciudad":null,
+  "fecha_envio":"2026-04-30T10:56:53.186",
+  "estado":"entregado"
+ },
+ {
+  "id_envio":1.0,
+  "id_usuario":2.0,
+  "direccion":"none",
+  "ciudad":"medell\u00edn",
+  "fecha_envio":"2026-04-28T10:56:53.186",
+  "estado":"entregado"
+ },
+ {
+  "id_envio":4.0,
+  "id_usuario":1.0,
+  "direccion":"",
   "ciudad":"cali",
-  "fecha_envio":1777544377240,
-  "estado":"enviado"
+  "fecha_envio":null,
+  "estado":"pendiente"
+ },
+ {
+  "id_envio":8.0,
+  "id_usuario":2.0,
+  "direccion":"calle 123",
+  "ciudad":"bogot\u00e1",
+  "fecha_envio":"2026-04-25T10:56:53.186",
+  "estado":"pendiente"
  },
  {
   "id_envio":9.0,
-  "id_usuario":1.0,
-  "direccion":"carrera 45",
-  "ciudad":"bogot\u00e1",
-  "fecha_envio":1777198777240,
-  "estado":"entregado"
- },
- {
-  "id_envio":10.0,
-  "id_usuario":2.0,
-  "direccion":"carrera 45",
-  "ciudad":"cali",
-  "fecha_envio":1777112377240,
-  "estado":"enviado"
- },
- {
-  "id_envio":4.0,
-  "id_usuario":1.0,
-  "direccion":"calle 123",
-  "ciudad":null,
-  "fecha_envio":1776680377240,
-  "estado":"enviado"
- },
- {
-  "id_envio":5.0,
-  "id_usuario":2.0,
-  "direccion":"",
-  "ciudad":"medell\u00edn",
-  "fecha_envio":1777371577240,
-  "estado":"entregado"
- },
- {
-  "id_envio":10.0,
-  "id_usuario":1.0,
-  "direccion":"",
-  "ciudad":"bogot\u00e1",
-  "fecha_envio":null,
-  "estado":"entregado"
- },
- {
-  "id_envio":8.0,
-  "id_usuario":3.0,
-  "direccion":"calle 123",
-  "ciudad":"bogot\u00e1",
-  "fecha_envio":1776766777240,
-  "estado":"pendiente"
- },
- {
-  "id_envio":2.0,
-  "id_usuario":2.0,
-  "direccion":"",
-  "ciudad":null,
-  "fecha_envio":1777025977240,
-  "estado":"entregado"
- },
- {
-  "id_envio":8.0,
-  "id_usuario":2.0,
-  "direccion":"calle 123",
-  "ciudad":"medell\u00edn",
-  "fecha_envio":1777112377240,
-  "estado":"enviado"
- },
- {
-  "id_envio":3.0,
-  "id_usuario":1.0,
-  "direccion":"carrera 45",
-  "ciudad":"cali",
-  "fecha_envio":1776766777240,
-  "estado":"pendiente"
- },
- {
-  "id_envio":5.0,
-  "id_usuario":1.0,
-  "direccion":"calle 123",
-  "ciudad":"cali",
-  "fecha_envio":1777112377240,
-  "estado":"pendiente"
- },
- {
-  "id_envio":7.0,
-  "id_usuario":1.0,
-  "direccion":"calle 123",
-  "ciudad":"cali",
-  "fecha_envio":1777544377240,
-  "estado":"pendiente"
- },
- {
-  "id_envio":1.0,
-  "id_usuario":3.0,
-  "direccion":"carrera 45",
-  "ciudad":"cali",
-  "fecha_envio":1777544377240,
-  "estado":"enviado"
- },
- {
-  "id_envio":4.0,
-  "id_usuario":3.0,
-  "direccion":"calle 123",
-  "ciudad":"medell\u00edn",
-  "fecha_envio":1777112377240,
-  "estado":"pendiente"
- },
- {
-  "id_envio":6.0,
-  "id_usuario":2.0,
-  "direccion":"carrera 45",
-  "ciudad":"medell\u00edn",
-  "fecha_envio":1777025977240,
-  "estado":"pendiente"
- },
- {
-  "id_envio":2.0,
-  "id_usuario":1.0,
-  "direccion":"carrera 45",
-  "ciudad":"bogot\u00e1",
-  "fecha_envio":1776939577240,
-  "estado":"enviado"
- },
- {
-  "id_envio":7.0,
-  "id_usuario":3.0,
-  "direccion":"carrera 45",
-  "ciudad":null,
-  "fecha_envio":1777544377240,
-  "estado":"pendiente"
- },
- {
-  "id_envio":10.0,
-  "id_usuario":2.0,
-  "direccion":"calle 123",
-  "ciudad":null,
-  "fecha_envio":1776766777240,
-  "estado":"pendiente"
- },
- {
-  "id_envio":5.0,
-  "id_usuario":1.0,
-  "direccion":"carrera 45",
-  "ciudad":"cali",
-  "fecha_envio":1777457977240,
-  "estado":"entregado"
- },
- {
-  "id_envio":7.0,
-  "id_usuario":3.0,
-  "direccion":"",
-  "ciudad":"medell\u00edn",
-  "fecha_envio":1776853177240,
-  "estado":"pendiente"
- },
- {
-  "id_envio":2.0,
-  "id_usuario":3.0,
-  "direccion":"calle 123",
-  "ciudad":"cali",
-  "fecha_envio":null,
-  "estado":"enviado"
- },
- {
-  "id_envio":10.0,
-  "id_usuario":3.0,
-  "direccion":"carrera 45",
-  "ciudad":null,
-  "fecha_envio":1777457977240,
-  "estado":"enviado"
- },
- {
-  "id_envio":10.0,
-  "id_usuario":2.0,
-  "direccion":"",
-  "ciudad":"bogot\u00e1",
-  "fecha_envio":1777457977240,
-  "estado":"pendiente"
- },
- {
-  "id_envio":2.0,
-  "id_usuario":3.0,
-  "direccion":"calle 123",
-  "ciudad":"cali",
-  "fecha_envio":1777371577240,
-  "estado":"pendiente"
- },
- {
-  "id_envio":2.0,
-  "id_usuario":1.0,
-  "direccion":"carrera 45",
-  "ciudad":"medell\u00edn",
-  "fecha_envio":1777198777240,
-  "estado":"entregado"
- },
- {
-  "id_envio":1.0,
-  "id_usuario":3.0,
-  "direccion":"calle 123",
-  "ciudad":"medell\u00edn",
-  "fecha_envio":1776680377240,
-  "estado":"entregado"
- },
- {
-  "id_envio":10.0,
-  "id_usuario":3.0,
-  "direccion":"none",
-  "ciudad":"bogot\u00e1",
-  "fecha_envio":1777371577240,
-  "estado":"pendiente"
- },
- {
-  "id_envio":6.0,
-  "id_usuario":3.0,
-  "direccion":"calle 123",
-  "ciudad":"medell\u00edn",
-  "fecha_envio":1777198777240,
-  "estado":"entregado"
- },
- {
-  "id_envio":8.0,
-  "id_usuario":3.0,
-  "direccion":"none",
-  "ciudad":"bogot\u00e1",
-  "fecha_envio":1776680377240,
-  "estado":"entregado"
- },
- {
-  "id_envio":8.0,
-  "id_usuario":1.0,
-  "direccion":"",
-  "ciudad":null,
-  "fecha_envio":1777285177240,
-  "estado":"enviado"
- },
- {
-  "id_envio":7.0,
-  "id_usuario":3.0,
-  "direccion":"",
-  "ciudad":"medell\u00edn",
-  "fecha_envio":1776766777240,
-  "estado":"enviado"
- },
- {
-  "id_envio":6.0,
-  "id_usuario":2.0,
-  "direccion":"carrera 45",
-  "ciudad":null,
-  "fecha_envio":1776939577240,
-  "estado":"enviado"
- },
- {
-  "id_envio":6.0,
-  "id_usuario":1.0,
-  "direccion":"none",
-  "ciudad":null,
-  "fecha_envio":1777285177240,
-  "estado":"pendiente"
- },
- {
-  "id_envio":5.0,
-  "id_usuario":2.0,
-  "direccion":"carrera 45",
-  "ciudad":null,
-  "fecha_envio":1777457977240,
-  "estado":"entregado"
- },
- {
-  "id_envio":2.0,
-  "id_usuario":3.0,
-  "direccion":"none",
-  "ciudad":null,
-  "fecha_envio":1777025977240,
-  "estado":"pendiente"
- },
- {
-  "id_envio":3.0,
-  "id_usuario":3.0,
-  "direccion":"carrera 45",
-  "ciudad":"cali",
-  "fecha_envio":1777198777240,
-  "estado":"enviado"
- },
- {
-  "id_envio":1.0,
-  "id_usuario":2.0,
-  "direccion":"carrera 45",
-  "ciudad":"medell\u00edn",
-  "fecha_envio":1777285177240,
-  "estado":"pendiente"
- },
- {
-  "id_envio":4.0,
-  "id_usuario":2.0,
-  "direccion":"",
-  "ciudad":"cali",
-  "fecha_envio":1777285177240,
-  "estado":"entregado"
- },
- {
-  "id_envio":1.0,
-  "id_usuario":1.0,
-  "direccion":"none",
-  "ciudad":"bogot\u00e1",
-  "fecha_envio":1777457977240,
-  "estado":"pendiente"
- },
- {
-  "id_envio":10.0,
-  "id_usuario":2.0,
-  "direccion":"calle 123",
-  "ciudad":"cali",
-  "fecha_envio":1777285177240,
-  "estado":"pendiente"
- },
- {
-  "id_envio":2.0,
-  "id_usuario":2.0,
-  "direccion":"",
-  "ciudad":"cali",
-  "fecha_envio":1776766777240,
-  "estado":"pendiente"
- },
- {
-  "id_envio":6.0,
-  "id_usuario":1.0,
-  "direccion":"carrera 45",
-  "ciudad":"medell\u00edn",
-  "fecha_envio":1777457977240,
-  "estado":"entregado"
- },
- {
-  "id_envio":7.0,
-  "id_usuario":3.0,
-  "direccion":"",
-  "ciudad":"medell\u00edn",
-  "fecha_envio":1777025977240,
-  "estado":"pendiente"
- },
- {
-  "id_envio":5.0,
-  "id_usuario":1.0,
-  "direccion":"carrera 45",
-  "ciudad":"cali",
-  "fecha_envio":1777112377240,
-  "estado":"pendiente"
- },
- {
-  "id_envio":8.0,
-  "id_usuario":2.0,
-  "direccion":"carrera 45",
-  "ciudad":null,
-  "fecha_envio":null,
-  "estado":"entregado"
- },
- {
-  "id_envio":4.0,
-  "id_usuario":1.0,
-  "direccion":"none",
-  "ciudad":"medell\u00edn",
-  "fecha_envio":1777544377240,
-  "estado":"pendiente"
- },
- {
-  "id_envio":3.0,
-  "id_usuario":2.0,
-  "direccion":"",
-  "ciudad":"medell\u00edn",
-  "fecha_envio":1776853177240,
-  "estado":"pendiente"
- },
- {
-  "id_envio":10.0,
-  "id_usuario":1.0,
-  "direccion":"calle 123",
-  "ciudad":"bogot\u00e1",
-  "fecha_envio":1777544377241,
-  "estado":"enviado"
- },
- {
-  "id_envio":6.0,
   "id_usuario":3.0,
   "direccion":"carrera 45",
   "ciudad":"bogot\u00e1",
-  "fecha_envio":1776766777241,
-  "estado":"enviado"
- },
- {
-  "id_envio":10.0,
-  "id_usuario":1.0,
-  "direccion":"carrera 45",
-  "ciudad":"cali",
-  "fecha_envio":1777112377241,
+  "fecha_envio":"2026-04-22T10:56:53.186",
   "estado":"pendiente"
- },
- {
-  "id_envio":8.0,
-  "id_usuario":1.0,
-  "direccion":"carrera 45",
-  "ciudad":null,
-  "fecha_envio":1776766777241,
-  "estado":"entregado"
- },
- {
-  "id_envio":5.0,
-  "id_usuario":1.0,
-  "direccion":"",
-  "ciudad":"cali",
-  "fecha_envio":1777457977241,
-  "estado":"pendiente"
- },
- {
-  "id_envio":5.0,
-  "id_usuario":1.0,
-  "direccion":"calle 123",
-  "ciudad":"cali",
-  "fecha_envio":null,
-  "estado":"enviado"
- },
- {
-  "id_envio":1.0,
-  "id_usuario":1.0,
-  "direccion":"",
-  "ciudad":"medell\u00edn",
-  "fecha_envio":null,
-  "estado":"pendiente"
- },
- {
-  "id_envio":1.0,
-  "id_usuario":1.0,
-  "direccion":"",
-  "ciudad":"cali",
-  "fecha_envio":1777544377241,
-  "estado":"entregado"
- },
- {
-  "id_envio":2.0,
-  "id_usuario":3.0,
-  "direccion":"",
-  "ciudad":"medell\u00edn",
-  "fecha_envio":1777112377241,
-  "estado":"enviado"
- },
- {
-  "id_envio":5.0,
-  "id_usuario":1.0,
-  "direccion":"",
-  "ciudad":"bogot\u00e1",
-  "fecha_envio":1777112377241,
-  "estado":"pendiente"
- },
- {
-  "id_envio":8.0,
-  "id_usuario":2.0,
-  "direccion":"",
-  "ciudad":"bogot\u00e1",
-  "fecha_envio":1777544377241,
-  "estado":"pendiente"
- },
- {
-  "id_envio":4.0,
-  "id_usuario":3.0,
-  "direccion":"none",
-  "ciudad":"cali",
-  "fecha_envio":1777198777241,
-  "estado":"entregado"
- },
- {
-  "id_envio":10.0,
-  "id_usuario":3.0,
-  "direccion":"calle 123",
-  "ciudad":"cali",
-  "fecha_envio":null,
-  "estado":"enviado"
- },
- {
-  "id_envio":8.0,
-  "id_usuario":1.0,
-  "direccion":"carrera 45",
-  "ciudad":"medell\u00edn",
-  "fecha_envio":1777198777241,
-  "estado":"enviado"
- },
- {
-  "id_envio":6.0,
-  "id_usuario":2.0,
-  "direccion":"calle 123",
-  "ciudad":"cali",
-  "fecha_envio":1777285177241,
-  "estado":"pendiente"
- },
- {
-  "id_envio":6.0,
-  "id_usuario":2.0,
-  "direccion":"carrera 45",
-  "ciudad":null,
-  "fecha_envio":1777025977241,
-  "estado":"enviado"
- },
- {
-  "id_envio":1.0,
-  "id_usuario":1.0,
-  "direccion":"carrera 45",
-  "ciudad":"bogot\u00e1",
-  "fecha_envio":1776853177241,
-  "estado":"entregado"
- },
- {
-  "id_envio":4.0,
-  "id_usuario":2.0,
-  "direccion":"",
-  "ciudad":"medell\u00edn",
-  "fecha_envio":1776680377241,
-  "estado":"enviado"
  },
  {
   "id_envio":9.0,
   "id_usuario":2.0,
-  "direccion":"none",
-  "ciudad":"medell\u00edn",
-  "fecha_envio":1776766777241,
-  "estado":"enviado"
- },
- {
-  "id_envio":5.0,
-  "id_usuario":1.0,
-  "direccion":"carrera 45",
-  "ciudad":"bogot\u00e1",
-  "fecha_envio":null,
-  "estado":"enviado"
- },
- {
-  "id_envio":7.0,
-  "id_usuario":3.0,
-  "direccion":"calle 123",
-  "ciudad":"bogot\u00e1",
-  "fecha_envio":1776766777241,
-  "estado":"entregado"
- },
- {
-  "id_envio":10.0,
-  "id_usuario":2.0,
-  "direccion":"",
-  "ciudad":"cali",
-  "fecha_envio":1777285177241,
-  "estado":"enviado"
- },
- {
-  "id_envio":9.0,
-  "id_usuario":1.0,
-  "direccion":"none",
-  "ciudad":null,
-  "fecha_envio":1777025977241,
-  "estado":"pendiente"
- },
- {
-  "id_envio":2.0,
-  "id_usuario":2.0,
-  "direccion":"carrera 45",
-  "ciudad":"bogot\u00e1",
-  "fecha_envio":1777285177241,
-  "estado":"pendiente"
- },
- {
-  "id_envio":5.0,
-  "id_usuario":1.0,
   "direccion":"calle 123",
   "ciudad":null,
-  "fecha_envio":1776853177241,
-  "estado":"enviado"
- },
- {
-  "id_envio":2.0,
-  "id_usuario":3.0,
-  "direccion":"",
-  "ciudad":"cali",
-  "fecha_envio":1777457977241,
-  "estado":"enviado"
- },
- {
-  "id_envio":1.0,
-  "id_usuario":3.0,
-  "direccion":"",
-  "ciudad":null,
-  "fecha_envio":1777112377241,
-  "estado":"pendiente"
- },
- {
-  "id_envio":4.0,
-  "id_usuario":3.0,
-  "direccion":"calle 123",
-  "ciudad":null,
-  "fecha_envio":null,
-  "estado":"enviado"
- },
- {
-  "id_envio":5.0,
-  "id_usuario":2.0,
-  "direccion":"calle 123",
-  "ciudad":"bogot\u00e1",
-  "fecha_envio":1777285177241,
-  "estado":"enviado"
- },
- {
-  "id_envio":3.0,
-  "id_usuario":2.0,
-  "direccion":"calle 123",
-  "ciudad":null,
-  "fecha_envio":1777544377241,
-  "estado":"pendiente"
- },
- {
-  "id_envio":2.0,
-  "id_usuario":3.0,
-  "direccion":"calle 123",
-  "ciudad":"bogot\u00e1",
-  "fecha_envio":1777112377241,
-  "estado":"entregado"
- },
- {
-  "id_envio":1.0,
-  "id_usuario":3.0,
-  "direccion":"calle 123",
-  "ciudad":"cali",
-  "fecha_envio":1776853177241,
-  "estado":"entregado"
- },
- {
-  "id_envio":5.0,
-  "id_usuario":1.0,
-  "direccion":"",
-  "ciudad":"cali",
-  "fecha_envio":1776766777241,
+  "fecha_envio":"2026-04-20T10:56:53.186",
   "estado":"entregado"
  },
  {
   "id_envio":3.0,
   "id_usuario":1.0,
   "direccion":"calle 123",
-  "ciudad":"cali",
-  "fecha_envio":1776939577241,
-  "estado":"entregado"
- },
- {
-  "id_envio":9.0,
-  "id_usuario":2.0,
-  "direccion":"",
   "ciudad":"medell\u00edn",
-  "fecha_envio":1777025977241,
-  "estado":"pendiente"
- },
- {
-  "id_envio":6.0,
-  "id_usuario":2.0,
-  "direccion":"carrera 45",
-  "ciudad":null,
-  "fecha_envio":1777371577241,
-  "estado":"pendiente"
- },
- {
-  "id_envio":5.0,
-  "id_usuario":2.0,
-  "direccion":"",
-  "ciudad":"cali",
-  "fecha_envio":1777285177241,
-  "estado":"pendiente"
- },
- {
-  "id_envio":6.0,
-  "id_usuario":1.0,
-  "direccion":"calle 123",
-  "ciudad":"bogot\u00e1",
-  "fecha_envio":1777285177241,
-  "estado":"pendiente"
- },
- {
-  "id_envio":6.0,
-  "id_usuario":3.0,
-  "direccion":"carrera 45",
-  "ciudad":"medell\u00edn",
-  "fecha_envio":null,
-  "estado":"pendiente"
- },
- {
-  "id_envio":2.0,
-  "id_usuario":3.0,
-  "direccion":"carrera 45",
-  "ciudad":null,
-  "fecha_envio":1777198777241,
-  "estado":"pendiente"
- },
- {
-  "id_envio":9.0,
-  "id_usuario":1.0,
-  "direccion":"",
-  "ciudad":"medell\u00edn",
-  "fecha_envio":1777112377241,
-  "estado":"pendiente"
- },
- {
-  "id_envio":2.0,
-  "id_usuario":1.0,
-  "direccion":"carrera 45",
-  "ciudad":"medell\u00edn",
-  "fecha_envio":1777285177241,
-  "estado":"pendiente"
- },
- {
-  "id_envio":9.0,
-  "id_usuario":2.0,
-  "direccion":"",
-  "ciudad":null,
-  "fecha_envio":1777544377241,
-  "estado":"entregado"
- },
- {
-  "id_envio":4.0,
-  "id_usuario":3.0,
-  "direccion":"carrera 45",
-  "ciudad":"cali",
-  "fecha_envio":1776680377241,
-  "estado":"pendiente"
- },
- {
-  "id_envio":9.0,
-  "id_usuario":2.0,
-  "direccion":"none",
-  "ciudad":null,
-  "fecha_envio":1776680377241,
-  "estado":"enviado"
- },
- {
-  "id_envio":10.0,
-  "id_usuario":1.0,
-  "direccion":"calle 123",
-  "ciudad":"medell\u00edn",
-  "fecha_envio":1777285177241,
+  "fecha_envio":"2026-04-22T10:56:53.186",
   "estado":"pendiente"
  },
  {
   "id_envio":10.0,
-  "id_usuario":3.0,
-  "direccion":"calle 123",
-  "ciudad":"medell\u00edn",
-  "fecha_envio":null,
-  "estado":"entregado"
- },
- {
-  "id_envio":6.0,
   "id_usuario":2.0,
-  "direccion":"carrera 45",
-  "ciudad":"bogot\u00e1",
-  "fecha_envio":1777112377241,
-  "estado":"pendiente"
- },
- {
-  "id_envio":1.0,
-  "id_usuario":3.0,
-  "direccion":"carrera 45",
+  "direccion":"calle 123",
   "ciudad":"medell\u00edn",
-  "fecha_envio":1776680377241,
-  "estado":"pendiente"
- },
- {
-  "id_envio":1.0,
-  "id_usuario":3.0,
-  "direccion":"calle 123",
-  "ciudad":"bogot\u00e1",
-  "fecha_envio":1776939577241,
-  "estado":"pendiente"
- },
- {
-  "id_envio":6.0,
-  "id_usuario":1.0,
-  "direccion":"calle 123",
-  "ciudad":null,
-  "fecha_envio":1776766777241,
+  "fecha_envio":"2026-04-26T10:56:53.186",
   "estado":"enviado"
  },
  {
   "id_envio":4.0,
   "id_usuario":2.0,
-  "direccion":"calle 123",
+  "direccion":"none",
   "ciudad":"bogot\u00e1",
-  "fecha_envio":1777457977241,
+  "fecha_envio":"2026-04-29T10:56:53.186",
   "estado":"pendiente"
  },
  {
-  "id_envio":1.0,
-  "id_usuario":1.0,
-  "direccion":"calle 123",
+  "id_envio":3.0,
+  "id_usuario":3.0,
+  "direccion":"",
   "ciudad":"cali",
-  "fecha_envio":1777025977241,
-  "estado":"enviado"
+  "fecha_envio":"2026-04-20T10:56:53.186",
+  "estado":"entregado"
  },
  {
   "id_envio":9.0,
   "id_usuario":2.0,
-  "direccion":"none",
-  "ciudad":"cali",
-  "fecha_envio":1776939577241,
-  "estado":"pendiente"
- },
- {
-  "id_envio":8.0,
-  "id_usuario":3.0,
-  "direccion":"carrera 45",
-  "ciudad":null,
-  "fecha_envio":1776766777241,
-  "estado":"enviado"
- },
- {
-  "id_envio":5.0,
-  "id_usuario":3.0,
-  "direccion":"carrera 45",
-  "ciudad":"cali",
-  "fecha_envio":1777112377241,
-  "estado":"pendiente"
- },
- {
-  "id_envio":8.0,
-  "id_usuario":3.0,
-  "direccion":"",
-  "ciudad":"bogot\u00e1",
-  "fecha_envio":1776939577241,
-  "estado":"entregado"
- },
- {
-  "id_envio":8.0,
-  "id_usuario":1.0,
-  "direccion":"none",
-  "ciudad":"medell\u00edn",
-  "fecha_envio":1777112377241,
-  "estado":"pendiente"
- },
- {
-  "id_envio":1.0,
-  "id_usuario":2.0,
-  "direccion":"",
-  "ciudad":"medell\u00edn",
-  "fecha_envio":1777198777241,
-  "estado":"entregado"
- },
- {
-  "id_envio":10.0,
-  "id_usuario":1.0,
-  "direccion":"carrera 45",
-  "ciudad":"medell\u00edn",
-  "fecha_envio":null,
-  "estado":"pendiente"
- },
- {
-  "id_envio":7.0,
-  "id_usuario":3.0,
-  "direccion":"carrera 45",
-  "ciudad":"cali",
-  "fecha_envio":null,
-  "estado":"pendiente"
- },
- {
-  "id_envio":1.0,
-  "id_usuario":1.0,
-  "direccion":"",
-  "ciudad":null,
-  "fecha_envio":1777198777241,
-  "estado":"pendiente"
- },
- {
-  "id_envio":2.0,
-  "id_usuario":3.0,
   "direccion":"calle 123",
-  "ciudad":"bogot\u00e1",
-  "fecha_envio":1776853177241,
-  "estado":"entregado"
- },
- {
-  "id_envio":2.0,
-  "id_usuario":3.0,
-  "direccion":"calle 123",
-  "ciudad":null,
-  "fecha_envio":1776939577241,
-  "estado":"enviado"
- },
- {
-  "id_envio":2.0,
-  "id_usuario":1.0,
-  "direccion":"",
-  "ciudad":null,
-  "fecha_envio":1777371577241,
+  "ciudad":"medell\u00edn",
+  "fecha_envio":"2026-04-24T10:56:53.186",
   "estado":"pendiente"
  },
  {
   "id_envio":3.0,
   "id_usuario":1.0,
   "direccion":"carrera 45",
+  "ciudad":"medell\u00edn",
+  "fecha_envio":"2026-04-25T10:56:53.186",
+  "estado":"entregado"
+ },
+ {
+  "id_envio":9.0,
+  "id_usuario":3.0,
+  "direccion":"carrera 45",
+  "ciudad":"medell\u00edn",
+  "fecha_envio":"2026-04-20T10:56:53.186",
+  "estado":"enviado"
+ },
+ {
+  "id_envio":8.0,
+  "id_usuario":3.0,
+  "direccion":"",
   "ciudad":null,
-  "fecha_envio":1776853177241,
+  "fecha_envio":"2026-04-23T10:56:53.186",
+  "estado":"enviado"
+ },
+ {
+  "id_envio":6.0,
+  "id_usuario":1.0,
+  "direccion":"calle 123",
+  "ciudad":"medell\u00edn",
+  "fecha_envio":"2026-04-24T10:56:53.186",
+  "estado":"enviado"
+ },
+ {
+  "id_envio":8.0,
+  "id_usuario":1.0,
+  "direccion":"carrera 45",
+  "ciudad":"medell\u00edn",
+  "fecha_envio":"2026-04-29T10:56:53.187",
+  "estado":"pendiente"
+ },
+ {
+  "id_envio":5.0,
+  "id_usuario":3.0,
+  "direccion":"carrera 45",
+  "ciudad":"medell\u00edn",
+  "fecha_envio":"2026-04-26T10:56:53.187",
+  "estado":"enviado"
+ },
+ {
+  "id_envio":4.0,
+  "id_usuario":1.0,
+  "direccion":"carrera 45",
+  "ciudad":"bogot\u00e1",
+  "fecha_envio":"2026-04-24T10:56:53.187",
+  "estado":"pendiente"
+ },
+ {
+  "id_envio":2.0,
+  "id_usuario":2.0,
+  "direccion":"none",
+  "ciudad":"cali",
+  "fecha_envio":"2026-04-30T10:56:53.187",
+  "estado":"pendiente"
+ },
+ {
+  "id_envio":3.0,
+  "id_usuario":3.0,
+  "direccion":"carrera 45",
+  "ciudad":"bogot\u00e1",
+  "fecha_envio":"2026-04-29T10:56:53.187",
+  "estado":"pendiente"
+ },
+ {
+  "id_envio":6.0,
+  "id_usuario":3.0,
+  "direccion":"calle 123",
+  "ciudad":null,
+  "fecha_envio":"2026-04-29T10:56:53.187",
+  "estado":"entregado"
+ },
+ {
+  "id_envio":9.0,
+  "id_usuario":1.0,
+  "direccion":"none",
+  "ciudad":"cali",
+  "fecha_envio":"2026-04-27T10:56:53.187",
+  "estado":"pendiente"
+ },
+ {
+  "id_envio":7.0,
+  "id_usuario":1.0,
+  "direccion":"",
+  "ciudad":"medell\u00edn",
+  "fecha_envio":null,
+  "estado":"entregado"
+ },
+ {
+  "id_envio":6.0,
+  "id_usuario":2.0,
+  "direccion":"",
+  "ciudad":null,
+  "fecha_envio":"2026-04-20T10:56:53.187",
+  "estado":"enviado"
+ },
+ {
+  "id_envio":8.0,
+  "id_usuario":2.0,
+  "direccion":"carrera 45",
+  "ciudad":"bogot\u00e1",
+  "fecha_envio":"2026-04-30T10:56:53.187",
+  "estado":"enviado"
+ },
+ {
+  "id_envio":7.0,
+  "id_usuario":3.0,
+  "direccion":"",
+  "ciudad":"medell\u00edn",
+  "fecha_envio":null,
+  "estado":"enviado"
+ },
+ {
+  "id_envio":7.0,
+  "id_usuario":2.0,
+  "direccion":"none",
+  "ciudad":"medell\u00edn",
+  "fecha_envio":"2026-04-25T10:56:53.187",
+  "estado":"enviado"
+ },
+ {
+  "id_envio":8.0,
+  "id_usuario":1.0,
+  "direccion":"carrera 45",
+  "ciudad":"bogot\u00e1",
+  "fecha_envio":"2026-04-25T10:56:53.187",
+  "estado":"enviado"
+ },
+ {
+  "id_envio":4.0,
+  "id_usuario":1.0,
+  "direccion":"",
+  "ciudad":"medell\u00edn",
+  "fecha_envio":"2026-04-30T10:56:53.187",
   "estado":"enviado"
  },
  {
@@ -2460,63 +628,647 @@
   "id_usuario":2.0,
   "direccion":"",
   "ciudad":"cali",
-  "fecha_envio":1776766777241,
+  "fecha_envio":"2026-04-22T10:56:53.187",
   "estado":"pendiente"
  },
  {
-  "id_envio":7.0,
+  "id_envio":6.0,
+  "id_usuario":2.0,
+  "direccion":"carrera 45",
+  "ciudad":"cali",
+  "fecha_envio":"2026-04-30T10:56:53.187",
+  "estado":"pendiente"
+ },
+ {
+  "id_envio":1.0,
+  "id_usuario":3.0,
+  "direccion":"calle 123",
+  "ciudad":"medell\u00edn",
+  "fecha_envio":"2026-04-29T10:56:53.187",
+  "estado":"pendiente"
+ },
+ {
+  "id_envio":2.0,
   "id_usuario":1.0,
   "direccion":"carrera 45",
+  "ciudad":"bogot\u00e1",
+  "fecha_envio":null,
+  "estado":"entregado"
+ },
+ {
+  "id_envio":5.0,
+  "id_usuario":3.0,
+  "direccion":"calle 123",
   "ciudad":null,
-  "fecha_envio":1777112377241,
+  "fecha_envio":"2026-04-23T10:56:53.187",
+  "estado":"enviado"
+ },
+ {
+  "id_envio":7.0,
+  "id_usuario":2.0,
+  "direccion":"calle 123",
+  "ciudad":"cali",
+  "fecha_envio":"2026-04-23T10:56:53.187",
+  "estado":"pendiente"
+ },
+ {
+  "id_envio":4.0,
+  "id_usuario":2.0,
+  "direccion":"",
+  "ciudad":"cali",
+  "fecha_envio":"2026-04-25T10:56:53.187",
+  "estado":"entregado"
+ },
+ {
+  "id_envio":9.0,
+  "id_usuario":3.0,
+  "direccion":"carrera 45",
+  "ciudad":"bogot\u00e1",
+  "fecha_envio":"2026-04-21T10:56:53.187",
+  "estado":"pendiente"
+ },
+ {
+  "id_envio":3.0,
+  "id_usuario":2.0,
+  "direccion":"none",
+  "ciudad":"cali",
+  "fecha_envio":"2026-04-22T10:56:53.187",
+  "estado":"entregado"
+ },
+ {
+  "id_envio":9.0,
+  "id_usuario":1.0,
+  "direccion":"",
+  "ciudad":"cali",
+  "fecha_envio":"2026-04-26T10:56:53.187",
+  "estado":"entregado"
+ },
+ {
+  "id_envio":8.0,
+  "id_usuario":3.0,
+  "direccion":"calle 123",
+  "ciudad":"bogot\u00e1",
+  "fecha_envio":"2026-04-21T10:56:53.187",
+  "estado":"entregado"
+ },
+ {
+  "id_envio":8.0,
+  "id_usuario":1.0,
+  "direccion":"carrera 45",
+  "ciudad":"medell\u00edn",
+  "fecha_envio":"2026-04-28T10:56:53.187",
+  "estado":"entregado"
+ },
+ {
+  "id_envio":8.0,
+  "id_usuario":2.0,
+  "direccion":"none",
+  "ciudad":"bogot\u00e1",
+  "fecha_envio":"2026-04-21T10:56:53.187",
+  "estado":"enviado"
+ },
+ {
+  "id_envio":10.0,
+  "id_usuario":1.0,
+  "direccion":"calle 123",
+  "ciudad":"medell\u00edn",
+  "fecha_envio":"2026-04-21T10:56:53.187",
   "estado":"pendiente"
  },
  {
   "id_envio":2.0,
   "id_usuario":3.0,
+  "direccion":"none",
+  "ciudad":"bogot\u00e1",
+  "fecha_envio":"2026-04-28T10:56:53.187",
+  "estado":"enviado"
+ },
+ {
+  "id_envio":7.0,
+  "id_usuario":1.0,
+  "direccion":"none",
+  "ciudad":null,
+  "fecha_envio":"2026-04-27T10:56:53.187",
+  "estado":"enviado"
+ },
+ {
+  "id_envio":8.0,
+  "id_usuario":2.0,
+  "direccion":"calle 123",
+  "ciudad":"bogot\u00e1",
+  "fecha_envio":"2026-04-27T10:56:53.187",
+  "estado":"pendiente"
+ },
+ {
+  "id_envio":5.0,
+  "id_usuario":1.0,
+  "direccion":"",
+  "ciudad":null,
+  "fecha_envio":"2026-04-23T10:56:53.187",
+  "estado":"entregado"
+ },
+ {
+  "id_envio":9.0,
+  "id_usuario":2.0,
   "direccion":"carrera 45",
   "ciudad":"medell\u00edn",
+  "fecha_envio":"2026-04-30T10:56:53.187",
+  "estado":"enviado"
+ },
+ {
+  "id_envio":1.0,
+  "id_usuario":1.0,
+  "direccion":"carrera 45",
+  "ciudad":"bogot\u00e1",
+  "fecha_envio":"2026-04-26T10:56:53.187",
+  "estado":"enviado"
+ },
+ {
+  "id_envio":7.0,
+  "id_usuario":2.0,
+  "direccion":"calle 123",
+  "ciudad":"bogot\u00e1",
+  "fecha_envio":"2026-04-23T10:56:53.187",
+  "estado":"entregado"
+ },
+ {
+  "id_envio":1.0,
+  "id_usuario":1.0,
+  "direccion":"calle 123",
+  "ciudad":"medell\u00edn",
+  "fecha_envio":"2026-04-29T10:56:53.187",
+  "estado":"entregado"
+ },
+ {
+  "id_envio":6.0,
+  "id_usuario":3.0,
+  "direccion":"carrera 45",
+  "ciudad":"cali",
+  "fecha_envio":"2026-04-29T10:56:53.187",
+  "estado":"enviado"
+ },
+ {
+  "id_envio":4.0,
+  "id_usuario":1.0,
+  "direccion":"",
+  "ciudad":null,
+  "fecha_envio":"2026-04-26T10:56:53.187",
+  "estado":"pendiente"
+ },
+ {
+  "id_envio":6.0,
+  "id_usuario":2.0,
+  "direccion":"carrera 45",
+  "ciudad":"medell\u00edn",
+  "fecha_envio":"2026-04-25T10:56:53.187",
+  "estado":"enviado"
+ },
+ {
+  "id_envio":4.0,
+  "id_usuario":3.0,
+  "direccion":"carrera 45",
+  "ciudad":"bogot\u00e1",
+  "fecha_envio":"2026-04-30T10:56:53.187",
+  "estado":"pendiente"
+ },
+ {
+  "id_envio":6.0,
+  "id_usuario":2.0,
+  "direccion":"carrera 45",
+  "ciudad":"cali",
+  "fecha_envio":"2026-04-20T10:56:53.187",
+  "estado":"enviado"
+ },
+ {
+  "id_envio":7.0,
+  "id_usuario":1.0,
+  "direccion":"calle 123",
+  "ciudad":"cali",
   "fecha_envio":null,
+  "estado":"pendiente"
+ },
+ {
+  "id_envio":9.0,
+  "id_usuario":3.0,
+  "direccion":"calle 123",
+  "ciudad":"bogot\u00e1",
+  "fecha_envio":"2026-04-28T10:56:53.187",
+  "estado":"entregado"
+ },
+ {
+  "id_envio":3.0,
+  "id_usuario":2.0,
+  "direccion":"carrera 45",
+  "ciudad":null,
+  "fecha_envio":"2026-04-26T10:56:53.187",
+  "estado":"entregado"
+ },
+ {
+  "id_envio":7.0,
+  "id_usuario":2.0,
+  "direccion":"carrera 45",
+  "ciudad":"cali",
+  "fecha_envio":"2026-04-27T10:56:53.187",
+  "estado":"pendiente"
+ },
+ {
+  "id_envio":8.0,
+  "id_usuario":3.0,
+  "direccion":"",
+  "ciudad":"bogot\u00e1",
+  "fecha_envio":null,
+  "estado":"enviado"
+ },
+ {
+  "id_envio":1.0,
+  "id_usuario":1.0,
+  "direccion":"carrera 45",
+  "ciudad":"cali",
+  "fecha_envio":"2026-04-23T10:56:53.187",
+  "estado":"pendiente"
+ },
+ {
+  "id_envio":5.0,
+  "id_usuario":2.0,
+  "direccion":"",
+  "ciudad":"medell\u00edn",
+  "fecha_envio":"2026-04-25T10:56:53.187",
+  "estado":"entregado"
+ },
+ {
+  "id_envio":4.0,
+  "id_usuario":3.0,
+  "direccion":"calle 123",
+  "ciudad":"cali",
+  "fecha_envio":"2026-04-23T10:56:53.187",
+  "estado":"entregado"
+ },
+ {
+  "id_envio":4.0,
+  "id_usuario":1.0,
+  "direccion":"",
+  "ciudad":"medell\u00edn",
+  "fecha_envio":"2026-04-25T10:56:53.187",
+  "estado":"entregado"
+ },
+ {
+  "id_envio":2.0,
+  "id_usuario":2.0,
+  "direccion":"carrera 45",
+  "ciudad":"cali",
+  "fecha_envio":"2026-04-27T10:56:53.187",
+  "estado":"pendiente"
+ },
+ {
+  "id_envio":3.0,
+  "id_usuario":1.0,
+  "direccion":"calle 123",
+  "ciudad":"cali",
+  "fecha_envio":"2026-04-26T10:56:53.187",
+  "estado":"enviado"
+ },
+ {
+  "id_envio":5.0,
+  "id_usuario":2.0,
+  "direccion":"",
+  "ciudad":"cali",
+  "fecha_envio":null,
+  "estado":"pendiente"
+ },
+ {
+  "id_envio":9.0,
+  "id_usuario":2.0,
+  "direccion":"",
+  "ciudad":"medell\u00edn",
+  "fecha_envio":null,
+  "estado":"enviado"
+ },
+ {
+  "id_envio":5.0,
+  "id_usuario":2.0,
+  "direccion":"",
+  "ciudad":"bogot\u00e1",
+  "fecha_envio":"2026-04-29T10:56:53.187",
+  "estado":"pendiente"
+ },
+ {
+  "id_envio":3.0,
+  "id_usuario":2.0,
+  "direccion":"carrera 45",
+  "ciudad":"bogot\u00e1",
+  "fecha_envio":"2026-04-25T10:56:53.187",
+  "estado":"enviado"
+ },
+ {
+  "id_envio":1.0,
+  "id_usuario":2.0,
+  "direccion":"carrera 45",
+  "ciudad":"cali",
+  "fecha_envio":"2026-04-21T10:56:53.187",
   "estado":"pendiente"
  },
  {
   "id_envio":6.0,
   "id_usuario":3.0,
   "direccion":"",
-  "ciudad":null,
-  "fecha_envio":1777544377241,
-  "estado":"entregado"
- },
- {
-  "id_envio":5.0,
-  "id_usuario":3.0,
-  "direccion":"",
   "ciudad":"medell\u00edn",
-  "fecha_envio":1776939577241,
+  "fecha_envio":"2026-04-28T10:56:53.188",
   "estado":"pendiente"
  },
  {
-  "id_envio":1.0,
-  "id_usuario":3.0,
+  "id_envio":7.0,
+  "id_usuario":1.0,
   "direccion":"",
+  "ciudad":"medell\u00edn",
+  "fecha_envio":"2026-04-29T10:56:53.188",
+  "estado":"enviado"
+ },
+ {
+  "id_envio":9.0,
+  "id_usuario":1.0,
+  "direccion":"",
+  "ciudad":"medell\u00edn",
+  "fecha_envio":"2026-04-21T10:56:53.188",
+  "estado":"entregado"
+ },
+ {
+  "id_envio":7.0,
+  "id_usuario":2.0,
+  "direccion":"calle 123",
+  "ciudad":"cali",
+  "fecha_envio":"2026-04-20T10:56:53.188",
+  "estado":"pendiente"
+ },
+ {
+  "id_envio":2.0,
+  "id_usuario":2.0,
+  "direccion":"carrera 45",
   "ciudad":"medell\u00edn",
   "fecha_envio":null,
   "estado":"pendiente"
  },
  {
-  "id_envio":4.0,
-  "id_usuario":2.0,
+  "id_envio":2.0,
+  "id_usuario":1.0,
+  "direccion":"",
+  "ciudad":"medell\u00edn",
+  "fecha_envio":"2026-04-30T10:56:53.188",
+  "estado":"pendiente"
+ },
+ {
+  "id_envio":9.0,
+  "id_usuario":3.0,
   "direccion":"",
   "ciudad":null,
-  "fecha_envio":1777025977241,
+  "fecha_envio":"2026-04-20T10:56:53.188",
+  "estado":"entregado"
+ },
+ {
+  "id_envio":6.0,
+  "id_usuario":1.0,
+  "direccion":"carrera 45",
+  "ciudad":"cali",
+  "fecha_envio":"2026-04-20T10:56:53.188",
+  "estado":"pendiente"
+ },
+ {
+  "id_envio":2.0,
+  "id_usuario":3.0,
+  "direccion":"",
+  "ciudad":"cali",
+  "fecha_envio":null,
+  "estado":"entregado"
+ },
+ {
+  "id_envio":3.0,
+  "id_usuario":1.0,
+  "direccion":"",
+  "ciudad":"bogot\u00e1",
+  "fecha_envio":"2026-04-22T10:56:53.188",
+  "estado":"pendiente"
+ },
+ {
+  "id_envio":6.0,
+  "id_usuario":1.0,
+  "direccion":"",
+  "ciudad":"medell\u00edn",
+  "fecha_envio":"2026-04-27T10:56:53.188",
+  "estado":"pendiente"
+ },
+ {
+  "id_envio":4.0,
+  "id_usuario":2.0,
+  "direccion":"calle 123",
+  "ciudad":"medell\u00edn",
+  "fecha_envio":"2026-04-29T10:56:53.188",
+  "estado":"pendiente"
+ },
+ {
+  "id_envio":10.0,
+  "id_usuario":2.0,
+  "direccion":"carrera 45",
+  "ciudad":null,
+  "fecha_envio":"2026-04-20T10:56:53.188",
+  "estado":"pendiente"
+ },
+ {
+  "id_envio":7.0,
+  "id_usuario":1.0,
+  "direccion":"calle 123",
+  "ciudad":"cali",
+  "fecha_envio":"2026-04-29T10:56:53.188",
+  "estado":"pendiente"
+ },
+ {
+  "id_envio":1.0,
+  "id_usuario":2.0,
+  "direccion":"calle 123",
+  "ciudad":null,
+  "fecha_envio":"2026-04-29T10:56:53.188",
+  "estado":"pendiente"
+ },
+ {
+  "id_envio":5.0,
+  "id_usuario":2.0,
+  "direccion":"carrera 45",
+  "ciudad":"bogot\u00e1",
+  "fecha_envio":"2026-04-27T10:56:53.188",
+  "estado":"entregado"
+ },
+ {
+  "id_envio":8.0,
+  "id_usuario":3.0,
+  "direccion":"carrera 45",
+  "ciudad":"medell\u00edn",
+  "fecha_envio":"2026-04-21T10:56:53.188",
+  "estado":"pendiente"
+ },
+ {
+  "id_envio":4.0,
+  "id_usuario":2.0,
+  "direccion":"none",
+  "ciudad":"cali",
+  "fecha_envio":"2026-04-22T10:56:53.188",
   "estado":"enviado"
  },
  {
   "id_envio":10.0,
   "id_usuario":3.0,
+  "direccion":"none",
+  "ciudad":null,
+  "fecha_envio":"2026-04-26T10:56:53.188",
+  "estado":"entregado"
+ },
+ {
+  "id_envio":7.0,
+  "id_usuario":1.0,
+  "direccion":"carrera 45",
+  "ciudad":"medell\u00edn",
+  "fecha_envio":"2026-04-30T10:56:53.188",
+  "estado":"enviado"
+ },
+ {
+  "id_envio":1.0,
+  "id_usuario":3.0,
+  "direccion":"none",
+  "ciudad":"cali",
+  "fecha_envio":"2026-04-22T10:56:53.188",
+  "estado":"enviado"
+ },
+ {
+  "id_envio":6.0,
+  "id_usuario":2.0,
+  "direccion":"calle 123",
+  "ciudad":"medell\u00edn",
+  "fecha_envio":"2026-04-20T10:56:53.188",
+  "estado":"entregado"
+ },
+ {
+  "id_envio":1.0,
+  "id_usuario":3.0,
+  "direccion":"none",
+  "ciudad":"medell\u00edn",
+  "fecha_envio":"2026-04-22T10:56:53.188",
+  "estado":"enviado"
+ },
+ {
+  "id_envio":9.0,
+  "id_usuario":3.0,
+  "direccion":"carrera 45",
+  "ciudad":null,
+  "fecha_envio":"2026-04-23T10:56:53.188",
+  "estado":"entregado"
+ },
+ {
+  "id_envio":7.0,
+  "id_usuario":1.0,
+  "direccion":"",
+  "ciudad":null,
+  "fecha_envio":"2026-04-24T10:56:53.188",
+  "estado":"entregado"
+ },
+ {
+  "id_envio":8.0,
+  "id_usuario":3.0,
+  "direccion":"none",
+  "ciudad":null,
+  "fecha_envio":"2026-04-29T10:56:53.188",
+  "estado":"enviado"
+ },
+ {
+  "id_envio":7.0,
+  "id_usuario":2.0,
+  "direccion":"calle 123",
+  "ciudad":"medell\u00edn",
+  "fecha_envio":"2026-04-27T10:56:53.188",
+  "estado":"pendiente"
+ },
+ {
+  "id_envio":9.0,
+  "id_usuario":2.0,
+  "direccion":"calle 123",
+  "ciudad":null,
+  "fecha_envio":null,
+  "estado":"pendiente"
+ },
+ {
+  "id_envio":6.0,
+  "id_usuario":2.0,
+  "direccion":"",
+  "ciudad":"bogot\u00e1",
+  "fecha_envio":"2026-04-29T10:56:53.188",
+  "estado":"enviado"
+ },
+ {
+  "id_envio":10.0,
+  "id_usuario":2.0,
+  "direccion":"carrera 45",
+  "ciudad":"cali",
+  "fecha_envio":"2026-04-29T10:56:53.188",
+  "estado":"enviado"
+ },
+ {
+  "id_envio":10.0,
+  "id_usuario":2.0,
+  "direccion":"none",
+  "ciudad":null,
+  "fecha_envio":"2026-04-30T10:56:53.188",
+  "estado":"entregado"
+ },
+ {
+  "id_envio":1.0,
+  "id_usuario":1.0,
+  "direccion":"none",
+  "ciudad":null,
+  "fecha_envio":"2026-04-21T10:56:53.188",
+  "estado":"entregado"
+ },
+ {
+  "id_envio":9.0,
+  "id_usuario":2.0,
+  "direccion":"",
+  "ciudad":"cali",
+  "fecha_envio":"2026-04-27T10:56:53.188",
+  "estado":"pendiente"
+ },
+ {
+  "id_envio":10.0,
+  "id_usuario":2.0,
   "direccion":"calle 123",
   "ciudad":"bogot\u00e1",
-  "fecha_envio":1777285177241,
+  "fecha_envio":"2026-04-23T10:56:53.188",
+  "estado":"pendiente"
+ },
+ {
+  "id_envio":6.0,
+  "id_usuario":3.0,
+  "direccion":"",
+  "ciudad":"cali",
+  "fecha_envio":"2026-04-24T10:56:53.188",
+  "estado":"enviado"
+ },
+ {
+  "id_envio":5.0,
+  "id_usuario":3.0,
+  "direccion":"none",
+  "ciudad":null,
+  "fecha_envio":"2026-04-28T10:56:53.189",
+  "estado":"pendiente"
+ },
+ {
+  "id_envio":2.0,
+  "id_usuario":3.0,
+  "direccion":"calle 123",
+  "ciudad":null,
+  "fecha_envio":"2026-04-23T10:56:53.189",
+  "estado":"pendiente"
+ },
+ {
+  "id_envio":4.0,
+  "id_usuario":1.0,
+  "direccion":"carrera 45",
+  "ciudad":null,
+  "fecha_envio":"2026-04-24T10:56:53.189",
   "estado":"enviado"
  },
  {
@@ -2524,7 +1276,479 @@
   "id_usuario":3.0,
   "direccion":"carrera 45",
   "ciudad":"cali",
-  "fecha_envio":1777457977241,
+  "fecha_envio":"2026-04-22T10:56:53.189",
+  "estado":"pendiente"
+ },
+ {
+  "id_envio":2.0,
+  "id_usuario":1.0,
+  "direccion":"calle 123",
+  "ciudad":"bogot\u00e1",
+  "fecha_envio":"2026-04-27T10:56:53.189",
+  "estado":"enviado"
+ },
+ {
+  "id_envio":4.0,
+  "id_usuario":2.0,
+  "direccion":"",
+  "ciudad":"cali",
+  "fecha_envio":"2026-04-26T10:56:53.189",
+  "estado":"enviado"
+ },
+ {
+  "id_envio":9.0,
+  "id_usuario":3.0,
+  "direccion":"calle 123",
+  "ciudad":"cali",
+  "fecha_envio":"2026-04-24T10:56:53.189",
+  "estado":"entregado"
+ },
+ {
+  "id_envio":3.0,
+  "id_usuario":1.0,
+  "direccion":"calle 123",
+  "ciudad":"cali",
+  "fecha_envio":"2026-04-30T10:56:53.189",
+  "estado":"entregado"
+ },
+ {
+  "id_envio":5.0,
+  "id_usuario":1.0,
+  "direccion":"",
+  "ciudad":"medell\u00edn",
+  "fecha_envio":"2026-04-28T10:56:53.189",
+  "estado":"pendiente"
+ },
+ {
+  "id_envio":4.0,
+  "id_usuario":1.0,
+  "direccion":"carrera 45",
+  "ciudad":"cali",
+  "fecha_envio":"2026-04-22T10:56:53.189",
+  "estado":"pendiente"
+ },
+ {
+  "id_envio":1.0,
+  "id_usuario":2.0,
+  "direccion":"none",
+  "ciudad":"medell\u00edn",
+  "fecha_envio":"2026-04-22T10:56:53.189",
+  "estado":"pendiente"
+ },
+ {
+  "id_envio":1.0,
+  "id_usuario":2.0,
+  "direccion":"calle 123",
+  "ciudad":"bogot\u00e1",
+  "fecha_envio":"2026-04-23T10:56:53.189",
+  "estado":"enviado"
+ },
+ {
+  "id_envio":6.0,
+  "id_usuario":1.0,
+  "direccion":"calle 123",
+  "ciudad":"cali",
+  "fecha_envio":"2026-04-27T10:56:53.189",
+  "estado":"pendiente"
+ },
+ {
+  "id_envio":5.0,
+  "id_usuario":2.0,
+  "direccion":"carrera 45",
+  "ciudad":"cali",
+  "fecha_envio":"2026-04-25T10:56:53.189",
+  "estado":"enviado"
+ },
+ {
+  "id_envio":9.0,
+  "id_usuario":2.0,
+  "direccion":"calle 123",
+  "ciudad":null,
+  "fecha_envio":"2026-04-21T10:56:53.189",
+  "estado":"entregado"
+ },
+ {
+  "id_envio":8.0,
+  "id_usuario":3.0,
+  "direccion":"carrera 45",
+  "ciudad":"medell\u00edn",
+  "fecha_envio":"2026-04-23T10:56:53.189",
+  "estado":"pendiente"
+ },
+ {
+  "id_envio":10.0,
+  "id_usuario":1.0,
+  "direccion":"carrera 45",
+  "ciudad":"bogot\u00e1",
+  "fecha_envio":null,
+  "estado":"pendiente"
+ },
+ {
+  "id_envio":9.0,
+  "id_usuario":3.0,
+  "direccion":"carrera 45",
+  "ciudad":"cali",
+  "fecha_envio":"2026-04-21T10:56:53.189",
+  "estado":"pendiente"
+ },
+ {
+  "id_envio":5.0,
+  "id_usuario":2.0,
+  "direccion":"calle 123",
+  "ciudad":null,
+  "fecha_envio":"2026-04-27T10:56:53.189",
+  "estado":"pendiente"
+ },
+ {
+  "id_envio":2.0,
+  "id_usuario":1.0,
+  "direccion":"calle 123",
+  "ciudad":null,
+  "fecha_envio":"2026-04-30T10:56:53.189",
+  "estado":"pendiente"
+ },
+ {
+  "id_envio":5.0,
+  "id_usuario":3.0,
+  "direccion":"",
+  "ciudad":null,
+  "fecha_envio":"2026-04-29T10:56:53.189",
+  "estado":"entregado"
+ },
+ {
+  "id_envio":10.0,
+  "id_usuario":3.0,
+  "direccion":"calle 123",
+  "ciudad":"medell\u00edn",
+  "fecha_envio":"2026-04-27T10:56:53.189",
+  "estado":"entregado"
+ },
+ {
+  "id_envio":8.0,
+  "id_usuario":2.0,
+  "direccion":"calle 123",
+  "ciudad":null,
+  "fecha_envio":"2026-04-22T10:56:53.189",
+  "estado":"enviado"
+ },
+ {
+  "id_envio":4.0,
+  "id_usuario":3.0,
+  "direccion":"carrera 45",
+  "ciudad":"bogot\u00e1",
+  "fecha_envio":"2026-04-25T10:56:53.189",
+  "estado":"pendiente"
+ },
+ {
+  "id_envio":9.0,
+  "id_usuario":1.0,
+  "direccion":"calle 123",
+  "ciudad":"cali",
+  "fecha_envio":null,
+  "estado":"pendiente"
+ },
+ {
+  "id_envio":9.0,
+  "id_usuario":1.0,
+  "direccion":"calle 123",
+  "ciudad":null,
+  "fecha_envio":"2026-04-26T10:56:53.189",
+  "estado":"pendiente"
+ },
+ {
+  "id_envio":5.0,
+  "id_usuario":3.0,
+  "direccion":"",
+  "ciudad":"bogot\u00e1",
+  "fecha_envio":"2026-04-20T10:56:53.189",
+  "estado":"pendiente"
+ },
+ {
+  "id_envio":1.0,
+  "id_usuario":1.0,
+  "direccion":"calle 123",
+  "ciudad":null,
+  "fecha_envio":"2026-04-29T10:56:53.189",
+  "estado":"pendiente"
+ },
+ {
+  "id_envio":2.0,
+  "id_usuario":3.0,
+  "direccion":"",
+  "ciudad":null,
+  "fecha_envio":"2026-04-27T10:56:53.189",
+  "estado":"enviado"
+ },
+ {
+  "id_envio":1.0,
+  "id_usuario":1.0,
+  "direccion":"",
+  "ciudad":"medell\u00edn",
+  "fecha_envio":"2026-04-28T10:56:53.189",
+  "estado":"pendiente"
+ },
+ {
+  "id_envio":5.0,
+  "id_usuario":1.0,
+  "direccion":"calle 123",
+  "ciudad":"medell\u00edn",
+  "fecha_envio":"2026-04-26T10:56:53.189",
+  "estado":"pendiente"
+ },
+ {
+  "id_envio":3.0,
+  "id_usuario":3.0,
+  "direccion":"carrera 45",
+  "ciudad":"bogot\u00e1",
+  "fecha_envio":"2026-04-24T10:56:53.189",
+  "estado":"pendiente"
+ },
+ {
+  "id_envio":8.0,
+  "id_usuario":1.0,
+  "direccion":"calle 123",
+  "ciudad":null,
+  "fecha_envio":"2026-04-21T10:56:53.189",
+  "estado":"pendiente"
+ },
+ {
+  "id_envio":8.0,
+  "id_usuario":1.0,
+  "direccion":"calle 123",
+  "ciudad":"bogot\u00e1",
+  "fecha_envio":"2026-04-28T10:56:53.189",
+  "estado":"pendiente"
+ },
+ {
+  "id_envio":4.0,
+  "id_usuario":3.0,
+  "direccion":"carrera 45",
+  "ciudad":"bogot\u00e1",
+  "fecha_envio":"2026-04-25T10:56:53.190",
+  "estado":"pendiente"
+ },
+ {
+  "id_envio":1.0,
+  "id_usuario":2.0,
+  "direccion":"",
+  "ciudad":"cali",
+  "fecha_envio":"2026-04-23T10:56:53.190",
+  "estado":"pendiente"
+ },
+ {
+  "id_envio":8.0,
+  "id_usuario":1.0,
+  "direccion":"",
+  "ciudad":null,
+  "fecha_envio":"2026-04-22T10:56:53.190",
+  "estado":"pendiente"
+ },
+ {
+  "id_envio":7.0,
+  "id_usuario":2.0,
+  "direccion":"",
+  "ciudad":"bogot\u00e1",
+  "fecha_envio":"2026-04-21T10:56:53.190",
+  "estado":"pendiente"
+ },
+ {
+  "id_envio":5.0,
+  "id_usuario":1.0,
+  "direccion":"",
+  "ciudad":"medell\u00edn",
+  "fecha_envio":null,
+  "estado":"pendiente"
+ },
+ {
+  "id_envio":5.0,
+  "id_usuario":2.0,
+  "direccion":"none",
+  "ciudad":"medell\u00edn",
+  "fecha_envio":"2026-04-30T10:56:53.190",
+  "estado":"pendiente"
+ },
+ {
+  "id_envio":3.0,
+  "id_usuario":2.0,
+  "direccion":"none",
+  "ciudad":"cali",
+  "fecha_envio":"2026-04-26T10:56:53.190",
+  "estado":"entregado"
+ },
+ {
+  "id_envio":2.0,
+  "id_usuario":2.0,
+  "direccion":"carrera 45",
+  "ciudad":"bogot\u00e1",
+  "fecha_envio":"2026-04-21T10:56:53.190",
+  "estado":"enviado"
+ },
+ {
+  "id_envio":6.0,
+  "id_usuario":1.0,
+  "direccion":"",
+  "ciudad":null,
+  "fecha_envio":"2026-04-29T10:56:53.190",
+  "estado":"entregado"
+ },
+ {
+  "id_envio":6.0,
+  "id_usuario":3.0,
+  "direccion":"none",
+  "ciudad":"bogot\u00e1",
+  "fecha_envio":"2026-04-25T10:56:53.190",
+  "estado":"enviado"
+ },
+ {
+  "id_envio":3.0,
+  "id_usuario":1.0,
+  "direccion":"calle 123",
+  "ciudad":"medell\u00edn",
+  "fecha_envio":"2026-04-25T10:56:53.190",
+  "estado":"pendiente"
+ },
+ {
+  "id_envio":4.0,
+  "id_usuario":3.0,
+  "direccion":"carrera 45",
+  "ciudad":"bogot\u00e1",
+  "fecha_envio":null,
+  "estado":"pendiente"
+ },
+ {
+  "id_envio":10.0,
+  "id_usuario":3.0,
+  "direccion":"",
+  "ciudad":"bogot\u00e1",
+  "fecha_envio":"2026-04-28T10:56:53.190",
+  "estado":"entregado"
+ },
+ {
+  "id_envio":10.0,
+  "id_usuario":3.0,
+  "direccion":"calle 123",
+  "ciudad":null,
+  "fecha_envio":"2026-04-30T10:56:53.190",
+  "estado":"entregado"
+ },
+ {
+  "id_envio":7.0,
+  "id_usuario":2.0,
+  "direccion":"carrera 45",
+  "ciudad":"cali",
+  "fecha_envio":"2026-04-24T10:56:53.190",
+  "estado":"pendiente"
+ },
+ {
+  "id_envio":9.0,
+  "id_usuario":1.0,
+  "direccion":"",
+  "ciudad":"medell\u00edn",
+  "fecha_envio":"2026-04-20T10:56:53.190",
+  "estado":"pendiente"
+ },
+ {
+  "id_envio":9.0,
+  "id_usuario":2.0,
+  "direccion":"calle 123",
+  "ciudad":"cali",
+  "fecha_envio":"2026-04-22T10:56:53.190",
+  "estado":"entregado"
+ },
+ {
+  "id_envio":8.0,
+  "id_usuario":3.0,
+  "direccion":"",
+  "ciudad":"medell\u00edn",
+  "fecha_envio":"2026-04-22T10:56:53.190",
+  "estado":"pendiente"
+ },
+ {
+  "id_envio":6.0,
+  "id_usuario":3.0,
+  "direccion":"carrera 45",
+  "ciudad":"cali",
+  "fecha_envio":null,
+  "estado":"pendiente"
+ },
+ {
+  "id_envio":3.0,
+  "id_usuario":3.0,
+  "direccion":"none",
+  "ciudad":null,
+  "fecha_envio":"2026-04-22T10:56:53.190",
+  "estado":"pendiente"
+ },
+ {
+  "id_envio":10.0,
+  "id_usuario":2.0,
+  "direccion":"none",
+  "ciudad":"bogot\u00e1",
+  "fecha_envio":"2026-04-25T10:56:53.190",
+  "estado":"pendiente"
+ },
+ {
+  "id_envio":7.0,
+  "id_usuario":3.0,
+  "direccion":"",
+  "ciudad":"bogot\u00e1",
+  "fecha_envio":"2026-04-23T10:56:53.190",
+  "estado":"pendiente"
+ },
+ {
+  "id_envio":6.0,
+  "id_usuario":3.0,
+  "direccion":"carrera 45",
+  "ciudad":"cali",
+  "fecha_envio":"2026-04-26T10:56:53.190",
+  "estado":"enviado"
+ },
+ {
+  "id_envio":9.0,
+  "id_usuario":2.0,
+  "direccion":"calle 123",
+  "ciudad":"medell\u00edn",
+  "fecha_envio":"2026-04-28T10:56:53.190",
+  "estado":"pendiente"
+ },
+ {
+  "id_envio":2.0,
+  "id_usuario":1.0,
+  "direccion":"carrera 45",
+  "ciudad":"medell\u00edn",
+  "fecha_envio":"2026-04-22T10:56:53.190",
+  "estado":"pendiente"
+ },
+ {
+  "id_envio":5.0,
+  "id_usuario":1.0,
+  "direccion":"none",
+  "ciudad":null,
+  "fecha_envio":"2026-04-24T10:56:53.190",
+  "estado":"pendiente"
+ },
+ {
+  "id_envio":8.0,
+  "id_usuario":3.0,
+  "direccion":"carrera 45",
+  "ciudad":"cali",
+  "fecha_envio":"2026-04-21T10:56:53.190",
+  "estado":"pendiente"
+ },
+ {
+  "id_envio":9.0,
+  "id_usuario":2.0,
+  "direccion":"",
+  "ciudad":null,
+  "fecha_envio":"2026-04-22T10:56:53.190",
+  "estado":"entregado"
+ },
+ {
+  "id_envio":1.0,
+  "id_usuario":3.0,
+  "direccion":"calle 123",
+  "ciudad":"bogot\u00e1",
+  "fecha_envio":"2026-04-23T10:56:53.190",
   "estado":"pendiente"
  },
  {
@@ -2532,43 +1756,435 @@
   "id_usuario":2.0,
   "direccion":"",
   "ciudad":null,
-  "fecha_envio":1776766777241,
+  "fecha_envio":null,
+  "estado":"pendiente"
+ },
+ {
+  "id_envio":1.0,
+  "id_usuario":2.0,
+  "direccion":"none",
+  "ciudad":"cali",
+  "fecha_envio":"2026-04-28T10:56:53.190",
+  "estado":"pendiente"
+ },
+ {
+  "id_envio":3.0,
+  "id_usuario":3.0,
+  "direccion":"carrera 45",
+  "ciudad":"bogot\u00e1",
+  "fecha_envio":"2026-04-30T10:56:53.190",
+  "estado":"entregado"
+ },
+ {
+  "id_envio":4.0,
+  "id_usuario":1.0,
+  "direccion":"carrera 45",
+  "ciudad":null,
+  "fecha_envio":"2026-04-20T10:56:53.190",
+  "estado":"enviado"
+ },
+ {
+  "id_envio":5.0,
+  "id_usuario":3.0,
+  "direccion":"",
+  "ciudad":"medell\u00edn",
+  "fecha_envio":null,
+  "estado":"pendiente"
+ },
+ {
+  "id_envio":5.0,
+  "id_usuario":1.0,
+  "direccion":"carrera 45",
+  "ciudad":"bogot\u00e1",
+  "fecha_envio":null,
+  "estado":"enviado"
+ },
+ {
+  "id_envio":5.0,
+  "id_usuario":2.0,
+  "direccion":"none",
+  "ciudad":null,
+  "fecha_envio":"2026-04-26T10:56:53.190",
+  "estado":"entregado"
+ },
+ {
+  "id_envio":8.0,
+  "id_usuario":1.0,
+  "direccion":"calle 123",
+  "ciudad":"bogot\u00e1",
+  "fecha_envio":"2026-04-26T10:56:53.190",
+  "estado":"pendiente"
+ },
+ {
+  "id_envio":7.0,
+  "id_usuario":2.0,
+  "direccion":"carrera 45",
+  "ciudad":"bogot\u00e1",
+  "fecha_envio":"2026-04-27T10:56:53.190",
+  "estado":"pendiente"
+ },
+ {
+  "id_envio":1.0,
+  "id_usuario":1.0,
+  "direccion":"",
+  "ciudad":"medell\u00edn",
+  "fecha_envio":"2026-04-21T10:56:53.190",
+  "estado":"enviado"
+ },
+ {
+  "id_envio":1.0,
+  "id_usuario":1.0,
+  "direccion":"carrera 45",
+  "ciudad":"bogot\u00e1",
+  "fecha_envio":"2026-04-23T10:56:53.190",
+  "estado":"pendiente"
+ },
+ {
+  "id_envio":6.0,
+  "id_usuario":1.0,
+  "direccion":"carrera 45",
+  "ciudad":"medell\u00edn",
+  "fecha_envio":"2026-04-27T10:56:53.190",
+  "estado":"pendiente"
+ },
+ {
+  "id_envio":6.0,
+  "id_usuario":3.0,
+  "direccion":"calle 123",
+  "ciudad":"cali",
+  "fecha_envio":"2026-04-24T10:56:53.190",
+  "estado":"pendiente"
+ },
+ {
+  "id_envio":8.0,
+  "id_usuario":1.0,
+  "direccion":"carrera 45",
+  "ciudad":null,
+  "fecha_envio":"2026-04-21T10:56:53.190",
+  "estado":"enviado"
+ },
+ {
+  "id_envio":7.0,
+  "id_usuario":1.0,
+  "direccion":"none",
+  "ciudad":null,
+  "fecha_envio":"2026-04-21T10:56:53.190",
+  "estado":"enviado"
+ },
+ {
+  "id_envio":7.0,
+  "id_usuario":3.0,
+  "direccion":"calle 123",
+  "ciudad":"bogot\u00e1",
+  "fecha_envio":"2026-04-23T10:56:53.190",
   "estado":"pendiente"
  },
  {
   "id_envio":9.0,
+  "id_usuario":2.0,
+  "direccion":"carrera 45",
+  "ciudad":null,
+  "fecha_envio":"2026-04-20T10:56:53.190",
+  "estado":"pendiente"
+ },
+ {
+  "id_envio":5.0,
+  "id_usuario":1.0,
+  "direccion":"calle 123",
+  "ciudad":null,
+  "fecha_envio":"2026-04-30T10:56:53.190",
+  "estado":"pendiente"
+ },
+ {
+  "id_envio":2.0,
   "id_usuario":1.0,
   "direccion":"carrera 45",
-  "ciudad":"bogot\u00e1",
+  "ciudad":"cali",
+  "fecha_envio":"2026-04-20T10:56:53.190",
+  "estado":"pendiente"
+ },
+ {
+  "id_envio":3.0,
+  "id_usuario":2.0,
+  "direccion":"carrera 45",
+  "ciudad":"medell\u00edn",
+  "fecha_envio":"2026-04-20T10:56:53.190",
+  "estado":"pendiente"
+ },
+ {
+  "id_envio":6.0,
+  "id_usuario":3.0,
+  "direccion":"",
+  "ciudad":"cali",
+  "fecha_envio":null,
+  "estado":"pendiente"
+ },
+ {
+  "id_envio":2.0,
+  "id_usuario":3.0,
+  "direccion":"calle 123",
+  "ciudad":null,
+  "fecha_envio":null,
+  "estado":"entregado"
+ },
+ {
+  "id_envio":10.0,
+  "id_usuario":2.0,
+  "direccion":"calle 123",
+  "ciudad":"medell\u00edn",
+  "fecha_envio":"2026-04-22T10:56:53.190",
+  "estado":"enviado"
+ },
+ {
+  "id_envio":10.0,
+  "id_usuario":1.0,
+  "direccion":"",
+  "ciudad":"medell\u00edn",
   "fecha_envio":null,
   "estado":"entregado"
  },
  {
   "id_envio":7.0,
   "id_usuario":2.0,
+  "direccion":"calle 123",
+  "ciudad":"medell\u00edn",
+  "fecha_envio":"2026-04-29T10:56:53.190",
+  "estado":"entregado"
+ },
+ {
+  "id_envio":8.0,
+  "id_usuario":1.0,
+  "direccion":"carrera 45",
+  "ciudad":"medell\u00edn",
+  "fecha_envio":"2026-04-21T10:56:53.191",
+  "estado":"entregado"
+ },
+ {
+  "id_envio":9.0,
+  "id_usuario":2.0,
+  "direccion":"calle 123",
+  "ciudad":"bogot\u00e1",
+  "fecha_envio":"2026-04-24T10:56:53.191",
+  "estado":"pendiente"
+ },
+ {
+  "id_envio":7.0,
+  "id_usuario":2.0,
+  "direccion":"carrera 45",
+  "ciudad":null,
+  "fecha_envio":"2026-04-29T10:56:53.191",
+  "estado":"pendiente"
+ },
+ {
+  "id_envio":6.0,
+  "id_usuario":2.0,
   "direccion":"",
   "ciudad":null,
-  "fecha_envio":1777285177241,
+  "fecha_envio":"2026-04-26T10:56:53.191",
+  "estado":"enviado"
+ },
+ {
+  "id_envio":2.0,
+  "id_usuario":3.0,
+  "direccion":"carrera 45",
+  "ciudad":null,
+  "fecha_envio":"2026-04-25T10:56:53.191",
+  "estado":"enviado"
+ },
+ {
+  "id_envio":8.0,
+  "id_usuario":1.0,
+  "direccion":"none",
+  "ciudad":"bogot\u00e1",
+  "fecha_envio":"2026-04-21T10:56:53.191",
+  "estado":"entregado"
+ },
+ {
+  "id_envio":9.0,
+  "id_usuario":3.0,
+  "direccion":"none",
+  "ciudad":"cali",
+  "fecha_envio":"2026-04-22T10:56:53.191",
+  "estado":"pendiente"
+ },
+ {
+  "id_envio":9.0,
+  "id_usuario":1.0,
+  "direccion":"none",
+  "ciudad":"cali",
+  "fecha_envio":"2026-04-29T10:56:53.191",
+  "estado":"enviado"
+ },
+ {
+  "id_envio":1.0,
+  "id_usuario":2.0,
+  "direccion":"calle 123",
+  "ciudad":"cali",
+  "fecha_envio":"2026-04-29T10:56:53.191",
+  "estado":"entregado"
+ },
+ {
+  "id_envio":8.0,
+  "id_usuario":1.0,
+  "direccion":"",
+  "ciudad":null,
+  "fecha_envio":"2026-04-28T10:56:53.191",
+  "estado":"enviado"
+ },
+ {
+  "id_envio":8.0,
+  "id_usuario":2.0,
+  "direccion":"none",
+  "ciudad":"cali",
+  "fecha_envio":"2026-04-20T10:56:53.191",
+  "estado":"pendiente"
+ },
+ {
+  "id_envio":1.0,
+  "id_usuario":2.0,
+  "direccion":"calle 123",
+  "ciudad":"bogot\u00e1",
+  "fecha_envio":"2026-04-22T10:56:53.191",
+  "estado":"enviado"
+ },
+ {
+  "id_envio":6.0,
+  "id_usuario":1.0,
+  "direccion":"carrera 45",
+  "ciudad":"cali",
+  "fecha_envio":"2026-04-23T10:56:53.191",
   "estado":"pendiente"
  },
  {
   "id_envio":2.0,
-  "id_usuario":2.0,
+  "id_usuario":1.0,
+  "direccion":"carrera 45",
+  "ciudad":null,
+  "fecha_envio":"2026-04-20T10:56:53.191",
+  "estado":"entregado"
+ },
+ {
+  "id_envio":9.0,
+  "id_usuario":1.0,
   "direccion":"calle 123",
-  "ciudad":"cali",
-  "fecha_envio":1777198777241,
+  "ciudad":"medell\u00edn",
+  "fecha_envio":"2026-04-20T10:56:53.191",
   "estado":"enviado"
  },
  {
-  "id_envio":9.0,
+  "id_envio":7.0,
   "id_usuario":2.0,
-  "direccion":"carrera 45",
-  "ciudad":"bogot\u00e1",
-  "fecha_envio":1776766777241,
+  "direccion":"",
+  "ciudad":"medell\u00edn",
+  "fecha_envio":"2026-04-21T10:56:53.191",
+  "estado":"enviado"
+ },
+ {
+  "id_envio":1.0,
+  "id_usuario":3.0,
+  "direccion":"none",
+  "ciudad":null,
+  "fecha_envio":"2026-04-30T10:56:53.191",
   "estado":"pendiente"
  },
  {
+  "id_envio":5.0,
+  "id_usuario":2.0,
+  "direccion":"none",
+  "ciudad":"bogot\u00e1",
+  "fecha_envio":"2026-04-28T10:56:53.191",
+  "estado":"entregado"
+ },
+ {
+  "id_envio":2.0,
+  "id_usuario":1.0,
+  "direccion":"carrera 45",
+  "ciudad":"bogot\u00e1",
+  "fecha_envio":"2026-04-20T10:56:53.191",
+  "estado":"pendiente"
+ },
+ {
+  "id_envio":1.0,
+  "id_usuario":1.0,
+  "direccion":"",
+  "ciudad":null,
+  "fecha_envio":"2026-04-23T10:56:53.191",
+  "estado":"entregado"
+ },
+ {
   "id_envio":9.0,
+  "id_usuario":1.0,
+  "direccion":"",
+  "ciudad":"cali",
+  "fecha_envio":"2026-04-21T10:56:53.191",
+  "estado":"pendiente"
+ },
+ {
+  "id_envio":8.0,
+  "id_usuario":2.0,
+  "direccion":"",
+  "ciudad":null,
+  "fecha_envio":"2026-04-22T10:56:53.191",
+  "estado":"pendiente"
+ },
+ {
+  "id_envio":8.0,
+  "id_usuario":3.0,
+  "direccion":"calle 123",
+  "ciudad":"cali",
+  "fecha_envio":"2026-04-23T10:56:53.191",
+  "estado":"pendiente"
+ },
+ {
+  "id_envio":5.0,
+  "id_usuario":3.0,
+  "direccion":"none",
+  "ciudad":"cali",
+  "fecha_envio":"2026-04-30T10:56:53.191",
+  "estado":"pendiente"
+ },
+ {
+  "id_envio":10.0,
+  "id_usuario":3.0,
+  "direccion":"carrera 45",
+  "ciudad":"cali",
+  "fecha_envio":"2026-04-20T10:56:53.191",
+  "estado":"pendiente"
+ },
+ {
+  "id_envio":1.0,
+  "id_usuario":2.0,
+  "direccion":"carrera 45",
+  "ciudad":"medell\u00edn",
+  "fecha_envio":"2026-04-21T10:56:53.191",
+  "estado":"enviado"
+ },
+ {
+  "id_envio":1.0,
+  "id_usuario":3.0,
+  "direccion":"",
+  "ciudad":"bogot\u00e1",
+  "fecha_envio":"2026-04-25T10:56:53.191",
+  "estado":"enviado"
+ },
+ {
+  "id_envio":7.0,
+  "id_usuario":3.0,
+  "direccion":"calle 123",
+  "ciudad":"bogot\u00e1",
+  "fecha_envio":null,
+  "estado":"pendiente"
+ },
+ {
+  "id_envio":7.0,
+  "id_usuario":1.0,
+  "direccion":"carrera 45",
+  "ciudad":null,
+  "fecha_envio":"2026-04-26T10:56:53.191",
+  "estado":"enviado"
+ },
+ {
+  "id_envio":7.0,
   "id_usuario":1.0,
   "direccion":"",
   "ciudad":"medell\u00edn",
@@ -2576,35 +2192,251 @@
   "estado":"enviado"
  },
  {
+  "id_envio":6.0,
+  "id_usuario":2.0,
+  "direccion":"none",
+  "ciudad":"cali",
+  "fecha_envio":"2026-04-27T10:56:53.191",
+  "estado":"pendiente"
+ },
+ {
+  "id_envio":5.0,
+  "id_usuario":2.0,
+  "direccion":"carrera 45",
+  "ciudad":"medell\u00edn",
+  "fecha_envio":"2026-04-23T10:56:53.191",
+  "estado":"entregado"
+ },
+ {
+  "id_envio":8.0,
+  "id_usuario":2.0,
+  "direccion":"carrera 45",
+  "ciudad":null,
+  "fecha_envio":"2026-04-28T10:56:53.191",
+  "estado":"pendiente"
+ },
+ {
+  "id_envio":2.0,
+  "id_usuario":1.0,
+  "direccion":"calle 123",
+  "ciudad":"medell\u00edn",
+  "fecha_envio":"2026-04-26T10:56:53.191",
+  "estado":"enviado"
+ },
+ {
+  "id_envio":2.0,
+  "id_usuario":2.0,
+  "direccion":"",
+  "ciudad":"medell\u00edn",
+  "fecha_envio":"2026-04-21T10:56:53.191",
+  "estado":"pendiente"
+ },
+ {
+  "id_envio":2.0,
+  "id_usuario":3.0,
+  "direccion":"",
+  "ciudad":"medell\u00edn",
+  "fecha_envio":"2026-04-28T10:56:53.191",
+  "estado":"entregado"
+ },
+ {
+  "id_envio":3.0,
+  "id_usuario":3.0,
+  "direccion":"none",
+  "ciudad":"medell\u00edn",
+  "fecha_envio":"2026-04-27T10:56:53.191",
+  "estado":"entregado"
+ },
+ {
+  "id_envio":4.0,
+  "id_usuario":3.0,
+  "direccion":"",
+  "ciudad":"medell\u00edn",
+  "fecha_envio":"2026-04-26T10:56:53.191",
+  "estado":"pendiente"
+ },
+ {
+  "id_envio":7.0,
+  "id_usuario":1.0,
+  "direccion":"carrera 45",
+  "ciudad":null,
+  "fecha_envio":"2026-04-22T10:56:53.191",
+  "estado":"pendiente"
+ },
+ {
   "id_envio":9.0,
   "id_usuario":3.0,
   "direccion":"",
   "ciudad":"medell\u00edn",
-  "fecha_envio":1776766777241,
+  "fecha_envio":"2026-04-21T10:56:53.191",
+  "estado":"pendiente"
+ },
+ {
+  "id_envio":6.0,
+  "id_usuario":3.0,
+  "direccion":"carrera 45",
+  "ciudad":null,
+  "fecha_envio":"2026-04-26T10:56:53.191",
   "estado":"entregado"
  },
  {
-  "id_envio":5.0,
+  "id_envio":10.0,
+  "id_usuario":2.0,
+  "direccion":"",
+  "ciudad":"cali",
+  "fecha_envio":"2026-04-28T10:56:53.192",
+  "estado":"pendiente"
+ },
+ {
+  "id_envio":8.0,
   "id_usuario":3.0,
+  "direccion":"",
+  "ciudad":"medell\u00edn",
+  "fecha_envio":"2026-04-27T10:56:53.192",
+  "estado":"entregado"
+ },
+ {
+  "id_envio":9.0,
+  "id_usuario":1.0,
+  "direccion":"",
+  "ciudad":"cali",
+  "fecha_envio":"2026-04-21T10:56:53.192",
+  "estado":"pendiente"
+ },
+ {
+  "id_envio":5.0,
+  "id_usuario":1.0,
   "direccion":"carrera 45",
   "ciudad":"cali",
-  "fecha_envio":1777544377241,
+  "fecha_envio":"2026-04-27T10:56:53.192",
   "estado":"pendiente"
+ },
+ {
+  "id_envio":10.0,
+  "id_usuario":2.0,
+  "direccion":"carrera 45",
+  "ciudad":null,
+  "fecha_envio":"2026-04-29T10:56:53.192",
+  "estado":"pendiente"
+ },
+ {
+  "id_envio":6.0,
+  "id_usuario":1.0,
+  "direccion":"carrera 45",
+  "ciudad":"cali",
+  "fecha_envio":"2026-04-24T10:56:53.192",
+  "estado":"entregado"
+ },
+ {
+  "id_envio":1.0,
+  "id_usuario":3.0,
+  "direccion":"",
+  "ciudad":"medell\u00edn",
+  "fecha_envio":"2026-04-29T10:56:53.192",
+  "estado":"entregado"
  },
  {
   "id_envio":4.0,
   "id_usuario":1.0,
+  "direccion":"",
+  "ciudad":"cali",
+  "fecha_envio":"2026-04-26T10:56:53.192",
+  "estado":"entregado"
+ },
+ {
+  "id_envio":6.0,
+  "id_usuario":1.0,
   "direccion":"calle 123",
-  "ciudad":"bogot\u00e1",
-  "fecha_envio":1776939577241,
+  "ciudad":null,
+  "fecha_envio":"2026-04-23T10:56:53.192",
   "estado":"enviado"
  },
  {
-  "id_envio":3.0,
+  "id_envio":2.0,
+  "id_usuario":3.0,
+  "direccion":"calle 123",
+  "ciudad":"cali",
+  "fecha_envio":null,
+  "estado":"enviado"
+ },
+ {
+  "id_envio":5.0,
+  "id_usuario":3.0,
+  "direccion":"calle 123",
+  "ciudad":"bogot\u00e1",
+  "fecha_envio":"2026-04-22T10:56:53.192",
+  "estado":"enviado"
+ },
+ {
+  "id_envio":8.0,
   "id_usuario":2.0,
   "direccion":"calle 123",
   "ciudad":"cali",
-  "fecha_envio":1776939577241,
+  "fecha_envio":"2026-04-27T10:56:53.192",
   "estado":"pendiente"
+ },
+ {
+  "id_envio":8.0,
+  "id_usuario":3.0,
+  "direccion":"calle 123",
+  "ciudad":"medell\u00edn",
+  "fecha_envio":"2026-04-21T10:56:53.192",
+  "estado":"pendiente"
+ },
+ {
+  "id_envio":1.0,
+  "id_usuario":2.0,
+  "direccion":"",
+  "ciudad":null,
+  "fecha_envio":"2026-04-22T10:56:53.192",
+  "estado":"pendiente"
+ },
+ {
+  "id_envio":10.0,
+  "id_usuario":1.0,
+  "direccion":"none",
+  "ciudad":"bogot\u00e1",
+  "fecha_envio":"2026-04-30T10:56:53.192",
+  "estado":"entregado"
+ },
+ {
+  "id_envio":8.0,
+  "id_usuario":3.0,
+  "direccion":"none",
+  "ciudad":"medell\u00edn",
+  "fecha_envio":"2026-04-27T10:56:53.192",
+  "estado":"pendiente"
+ },
+ {
+  "id_envio":8.0,
+  "id_usuario":3.0,
+  "direccion":"none",
+  "ciudad":null,
+  "fecha_envio":"2026-04-21T10:56:53.192",
+  "estado":"enviado"
+ },
+ {
+  "id_envio":6.0,
+  "id_usuario":3.0,
+  "direccion":"carrera 45",
+  "ciudad":"medell\u00edn",
+  "fecha_envio":"2026-04-24T10:56:53.192",
+  "estado":"enviado"
+ },
+ {
+  "id_envio":9.0,
+  "id_usuario":3.0,
+  "direccion":"carrera 45",
+  "ciudad":null,
+  "fecha_envio":"2026-04-28T10:56:53.192",
+  "estado":"entregado"
+ },
+ {
+  "id_envio":2.0,
+  "id_usuario":1.0,
+  "direccion":"carrera 45",
+  "ciudad":null,
+  "fecha_envio":"2026-04-25T10:56:53.192",
+  "estado":"enviado"
  }
 ]

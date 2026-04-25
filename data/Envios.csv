@@ -1,327 +1,306 @@
 id_envio,id_usuario,direccion,ciudad,fecha_envio,estado
-8.0,3.0,carrera 45,bogotá,2026-04-27 10:19:37.236883,enviado
-3.0,2.0,carrera 45,,2026-04-24 10:19:37.236907,enviado
-6.0,2.0,none,,2026-04-22 10:19:37.236912,enviado
-3.0,1.0,carrera 45,,2026-04-21 10:19:37.236950,entregado
-3.0,1.0,,cali,2026-04-25 10:19:37.236955,entregado
-8.0,2.0,calle 123,bogotá,2026-04-29 10:19:37.236965,enviado
-8.0,3.0,calle 123,bogotá,2026-04-28 10:19:37.237015,entregado
-10.0,1.0,,bogotá,2026-04-23 10:19:37.237033,enviado
-8.0,2.0,calle 123,,2026-04-23 10:19:37.237041,entregado
-6.0,2.0,,cali,2026-04-25 10:19:37.237051,pendiente
-7.0,2.0,,cali,2026-04-29 10:19:37.237061,enviado
-8.0,2.0,carrera 45,medellín,2026-04-22 10:19:37.237071,pendiente
-2.0,3.0,carrera 45,medellín,2026-04-21 10:19:37.237075,pendiente
-3.0,3.0,carrera 45,medellín,2026-04-29 10:19:37.237095,pendiente
-4.0,1.0,carrera 45,medellín,2026-04-25 10:19:37.237101,enviado
-1.0,3.0,calle 123,bogotá,2026-04-20 10:19:37.237118,pendiente
-4.0,3.0,carrera 45,medellín,2026-04-23 10:19:37.237134,enviado
-5.0,2.0,calle 123,,,pendiente
-6.0,3.0,none,medellín,2026-04-30 10:19:37.237153,enviado
-5.0,1.0,,medellín,2026-04-22 10:19:37.237162,entregado
-2.0,3.0,,medellín,2026-04-21 10:19:37.237182,enviado
-9.0,3.0,,cali,2026-04-27 10:19:37.237199,enviado
-5.0,2.0,carrera 45,medellín,2026-04-21 10:19:37.237218,pendiente
-9.0,1.0,none,bogotá,2026-04-22 10:19:37.237230,enviado
-6.0,1.0,calle 123,,2026-04-27 10:19:37.237243,pendiente
-6.0,2.0,calle 123,,2026-04-25 10:19:37.237277,entregado
-9.0,3.0,calle 123,cali,2026-04-27 10:19:37.237281,pendiente
-1.0,1.0,calle 123,,2026-04-30 10:19:37.237311,pendiente
-1.0,2.0,none,bogotá,2026-04-26 10:19:37.237318,entregado
-7.0,1.0,carrera 45,,2026-04-24 10:19:37.237397,pendiente
-1.0,2.0,,medellín,2026-04-29 10:19:37.237490,pendiente
-5.0,3.0,,bogotá,2026-04-29 10:19:37.237503,pendiente
-6.0,2.0,,medellín,2026-04-30 10:19:37.237538,pendiente
-2.0,3.0,carrera 45,,2026-04-21 10:19:37.237545,entregado
-8.0,2.0,carrera 45,medellín,,enviado
-2.0,2.0,calle 123,medellín,2026-04-20 10:19:37.237596,enviado
-3.0,3.0,calle 123,cali,,entregado
-4.0,3.0,,medellín,2026-04-22 10:19:37.237629,pendiente
-3.0,2.0,carrera 45,cali,2026-04-20 10:19:37.237641,entregado
-5.0,3.0,calle 123,,2026-04-28 10:19:37.237670,enviado
-4.0,2.0,,bogotá,2026-04-26 10:19:37.237732,entregado
-4.0,1.0,none,cali,2026-04-30 10:19:37.237737,pendiente
-9.0,3.0,calle 123,cali,2026-04-26 10:19:37.237744,pendiente
-5.0,1.0,none,cali,2026-04-20 10:19:37.237755,pendiente
-7.0,1.0,none,medellín,2026-04-25 10:19:37.237773,pendiente
-9.0,2.0,,,2026-04-27 10:19:37.237786,enviado
-2.0,3.0,calle 123,bogotá,2026-04-27 10:19:37.237804,pendiente
-3.0,3.0,carrera 45,bogotá,2026-04-30 10:19:37.237839,entregado
-10.0,3.0,calle 123,,2026-04-27 10:19:37.237844,pendiente
-7.0,2.0,carrera 45,,,pendiente
-10.0,3.0,,,2026-04-25 10:19:37.237860,entregado
-8.0,2.0,,bogotá,2026-04-24 10:19:37.237872,pendiente
-9.0,3.0,calle 123,,2026-04-20 10:19:37.237877,entregado
-3.0,2.0,,medellín,2026-04-21 10:19:37.237899,pendiente
-5.0,2.0,calle 123,cali,2026-04-25 10:19:37.237927,enviado
-10.0,2.0,calle 123,cali,2026-04-27 10:19:37.237938,pendiente
-8.0,1.0,carrera 45,bogotá,,entregado
-2.0,1.0,calle 123,cali,2026-04-28 10:19:37.237958,entregado
-4.0,2.0,carrera 45,,2026-04-21 10:19:37.237967,pendiente
-7.0,2.0,calle 123,cali,2026-04-29 10:19:37.237983,pendiente
-5.0,2.0,,bogotá,2026-04-29 10:19:37.237994,enviado
-1.0,1.0,carrera 45,medellín,2026-04-28 10:19:37.238008,entregado
-4.0,1.0,carrera 45,cali,2026-04-23 10:19:37.238013,pendiente
-4.0,1.0,carrera 45,cali,,pendiente
-5.0,1.0,carrera 45,,2026-04-20 10:19:37.238024,pendiente
-9.0,2.0,,bogotá,2026-04-25 10:19:37.238035,pendiente
-2.0,1.0,,,2026-04-24 10:19:37.238062,pendiente
-8.0,2.0,carrera 45,cali,2026-04-28 10:19:37.238068,enviado
-7.0,3.0,calle 123,cali,2026-04-25 10:19:37.238099,entregado
-4.0,3.0,carrera 45,medellín,2026-04-30 10:19:37.238104,pendiente
-1.0,2.0,,cali,,enviado
-6.0,2.0,none,medellín,2026-04-23 10:19:37.238151,pendiente
-2.0,3.0,calle 123,bogotá,2026-04-21 10:19:37.238162,pendiente
-5.0,3.0,calle 123,medellín,,entregado
-7.0,2.0,,cali,2026-04-22 10:19:37.238174,pendiente
-6.0,1.0,calle 123,,2026-04-22 10:19:37.238197,pendiente
-2.0,3.0,carrera 45,medellín,2026-04-25 10:19:37.238219,pendiente
-2.0,3.0,none,,2026-04-27 10:19:37.238236,pendiente
-8.0,2.0,carrera 45,bogotá,2026-04-27 10:19:37.238274,entregado
-9.0,2.0,,,2026-04-28 10:19:37.238286,pendiente
-1.0,2.0,carrera 45,,2026-04-29 10:19:37.238302,enviado
-5.0,1.0,,medellín,2026-04-22 10:19:37.238315,enviado
-6.0,3.0,calle 123,medellín,2026-04-28 10:19:37.238321,pendiente
-4.0,2.0,calle 123,medellín,2026-04-26 10:19:37.238326,pendiente
-9.0,3.0,calle 123,cali,2026-04-24 10:19:37.238337,pendiente
-4.0,1.0,calle 123,medellín,2026-04-22 10:19:37.238342,pendiente
-8.0,3.0,carrera 45,cali,2026-04-24 10:19:37.238356,enviado
-2.0,1.0,,bogotá,2026-04-29 10:19:37.238401,pendiente
-7.0,1.0,calle 123,,,enviado
-10.0,3.0,,cali,2026-04-20 10:19:37.238469,pendiente
-4.0,1.0,none,,2026-04-21 10:19:37.238489,enviado
-2.0,3.0,carrera 45,,2026-04-29 10:19:37.238500,pendiente
-2.0,3.0,calle 123,medellín,2026-04-20 10:19:37.238506,pendiente
-2.0,2.0,carrera 45,cali,2026-04-22 10:19:37.238511,pendiente
-7.0,1.0,calle 123,,2026-04-26 10:19:37.238541,entregado
-10.0,2.0,calle 123,medellín,,pendiente
-1.0,2.0,,bogotá,2026-04-27 10:19:37.238587,entregado
-2.0,3.0,carrera 45,bogotá,2026-04-24 10:19:37.238601,entregado
-1.0,1.0,carrera 45,bogotá,2026-04-30 10:19:37.238607,entregado
-1.0,1.0,carrera 45,cali,2026-04-27 10:19:37.238640,pendiente
-1.0,3.0,calle 123,,,pendiente
-10.0,3.0,calle 123,bogotá,,pendiente
-4.0,1.0,carrera 45,bogotá,2026-04-25 10:19:37.238707,pendiente
-6.0,2.0,carrera 45,bogotá,2026-04-23 10:19:37.238754,pendiente
-4.0,2.0,none,medellín,2026-04-29 10:19:37.238769,pendiente
-2.0,1.0,carrera 45,cali,2026-04-24 10:19:37.238774,pendiente
-7.0,1.0,calle 123,medellín,2026-04-25 10:19:37.238780,entregado
-4.0,3.0,carrera 45,cali,2026-04-24 10:19:37.238791,enviado
-2.0,1.0,carrera 45,,,enviado
-5.0,1.0,,bogotá,2026-04-20 10:19:37.238837,pendiente
-5.0,2.0,carrera 45,bogotá,,pendiente
-8.0,1.0,carrera 45,medellín,2026-04-29 10:19:37.238853,pendiente
-6.0,2.0,calle 123,medellín,2026-04-26 10:19:37.238878,entregado
-9.0,1.0,none,cali,2026-04-25 10:19:37.238884,enviado
-4.0,3.0,carrera 45,cali,2026-04-22 10:19:37.238900,pendiente
-4.0,2.0,,,2026-04-26 10:19:37.238911,entregado
-5.0,2.0,calle 123,medellín,2026-04-28 10:19:37.238917,enviado
-1.0,1.0,carrera 45,medellín,,pendiente
-4.0,3.0,,,2026-04-30 10:19:37.238929,enviado
-2.0,2.0,,,,pendiente
-1.0,1.0,calle 123,,,pendiente
+10.0,2.0,,,2026-04-20 10:56:53.186033,enviado
+1.0,3.0,none,cali,2026-04-27 10:56:53.186082,enviado
+3.0,2.0,carrera 45,bogotá,2026-04-22 10:56:53.186100,pendiente
 7.0,2.0,,,,enviado
-10.0,2.0,carrera 45,medellín,,pendiente
-5.0,3.0,calle 123,,2026-04-22 10:19:37.239001,entregado
-9.0,2.0,carrera 45,,2026-04-27 10:19:37.239013,entregado
-4.0,2.0,carrera 45,medellín,2026-04-23 10:19:37.239034,enviado
-3.0,1.0,,,2026-04-23 10:19:37.239054,enviado
-5.0,1.0,carrera 45,medellín,2026-04-29 10:19:37.239086,pendiente
-10.0,3.0,carrera 45,cali,2026-04-25 10:19:37.239171,enviado
-6.0,1.0,,cali,2026-04-22 10:19:37.239213,pendiente
-3.0,1.0,carrera 45,cali,2026-04-21 10:19:37.239236,entregado
-5.0,2.0,,cali,2026-04-21 10:19:37.239261,entregado
-2.0,2.0,,cali,2026-04-20 10:19:37.239277,pendiente
-5.0,2.0,none,medellín,2026-04-20 10:19:37.239287,pendiente
-10.0,2.0,,medellín,2026-04-21 10:19:37.239311,pendiente
-7.0,2.0,,bogotá,2026-04-23 10:19:37.239317,pendiente
-4.0,3.0,calle 123,,2026-04-22 10:19:37.239327,pendiente
-9.0,1.0,carrera 45,cali,2026-04-30 10:19:37.239341,enviado
-9.0,1.0,,medellín,2026-04-24 10:19:37.239372,enviado
-4.0,1.0,carrera 45,medellín,2026-04-22 10:19:37.239377,enviado
-5.0,2.0,none,medellín,2026-04-26 10:19:37.239388,pendiente
-4.0,1.0,,,2026-04-26 10:19:37.239399,pendiente
-1.0,3.0,carrera 45,,2026-04-28 10:19:37.239412,enviado
-2.0,3.0,calle 123,,2026-04-30 10:19:37.239417,pendiente
-6.0,2.0,,cali,2026-04-22 10:19:37.239484,entregado
-10.0,2.0,carrera 45,bogotá,,pendiente
-7.0,3.0,,,2026-04-28 10:19:37.239622,pendiente
-7.0,2.0,carrera 45,cali,2026-04-27 10:19:37.239635,enviado
-9.0,1.0,none,bogotá,2026-04-22 10:19:37.239755,pendiente
-1.0,3.0,carrera 45,,2026-04-27 10:19:37.239772,pendiente
-5.0,2.0,calle 123,medellín,,pendiente
-3.0,1.0,,bogotá,2026-04-27 10:19:37.239798,enviado
-4.0,2.0,none,,2026-04-25 10:19:37.239804,pendiente
-2.0,3.0,,,2026-04-22 10:19:37.239836,pendiente
-2.0,3.0,none,bogotá,2026-04-28 10:19:37.239858,enviado
-8.0,3.0,calle 123,bogotá,,entregado
-6.0,3.0,,cali,2026-04-22 10:19:37.239870,enviado
-8.0,2.0,carrera 45,medellín,2026-04-20 10:19:37.239877,enviado
-7.0,3.0,,cali,2026-04-25 10:19:37.239888,enviado
-1.0,3.0,none,medellín,2026-04-27 10:19:37.239903,pendiente
-8.0,1.0,carrera 45,medellín,2026-04-30 10:19:37.239916,entregado
-9.0,2.0,calle 123,medellín,2026-04-28 10:19:37.239923,pendiente
-7.0,2.0,,bogotá,2026-04-29 10:19:37.239953,enviado
-1.0,3.0,none,,2026-04-30 10:19:37.239960,entregado
-9.0,2.0,calle 123,bogotá,2026-04-23 10:19:37.239966,enviado
-1.0,3.0,calle 123,cali,,pendiente
-1.0,1.0,calle 123,bogotá,2026-04-29 10:19:37.240071,entregado
-7.0,1.0,,,2026-04-27 10:19:37.240085,pendiente
-2.0,1.0,carrera 45,bogotá,2026-04-25 10:19:37.240091,pendiente
-9.0,2.0,carrera 45,,2026-04-21 10:19:37.240097,enviado
-9.0,3.0,,cali,2026-04-22 10:19:37.240142,entregado
-10.0,2.0,,bogotá,2026-04-26 10:19:37.240172,pendiente
-10.0,1.0,calle 123,medellín,2026-04-30 10:19:37.240183,enviado
-4.0,1.0,none,bogotá,2026-04-26 10:19:37.240228,enviado
-9.0,2.0,carrera 45,cali,2026-04-21 10:19:37.240245,pendiente
-9.0,1.0,carrera 45,,2026-04-29 10:19:37.240258,enviado
+1.0,3.0,calle 123,,2026-04-30 10:56:53.186201,enviado
+5.0,2.0,carrera 45,,2026-04-28 10:56:53.186230,pendiente
+8.0,3.0,,bogotá,,pendiente
+1.0,3.0,calle 123,bogotá,2026-04-26 10:56:53.186239,enviado
+5.0,1.0,carrera 45,cali,2026-04-25 10:56:53.186243,entregado
+9.0,3.0,carrera 45,bogotá,2026-04-28 10:56:53.186251,pendiente
+5.0,3.0,none,bogotá,2026-04-27 10:56:53.186267,pendiente
+2.0,2.0,calle 123,bogotá,2026-04-30 10:56:53.186271,entregado
+9.0,2.0,calle 123,cali,2026-04-22 10:56:53.186284,enviado
+6.0,3.0,,cali,2026-04-25 10:56:53.186305,pendiente
+5.0,2.0,none,,2026-04-28 10:56:53.186335,entregado
+6.0,1.0,carrera 45,cali,2026-04-26 10:56:53.186339,entregado
+10.0,1.0,calle 123,cali,2026-04-23 10:56:53.186353,enviado
+6.0,2.0,calle 123,medellín,2026-04-28 10:56:53.186366,pendiente
+1.0,1.0,,bogotá,2026-04-24 10:56:53.186375,enviado
+3.0,1.0,none,cali,2026-04-20 10:56:53.186389,entregado
+8.0,3.0,,medellín,2026-04-27 10:56:53.186394,entregado
+5.0,1.0,,cali,2026-04-25 10:56:53.186406,enviado
+4.0,3.0,calle 123,,2026-04-29 10:56:53.186423,enviado
+7.0,3.0,none,bogotá,2026-04-26 10:56:53.186456,pendiente
+1.0,1.0,calle 123,cali,2026-04-22 10:56:53.186511,pendiente
+7.0,2.0,carrera 45,medellín,2026-04-30 10:56:53.186524,entregado
+6.0,3.0,,bogotá,2026-04-26 10:56:53.186532,enviado
+3.0,3.0,calle 123,bogotá,,entregado
+5.0,2.0,,medellín,,enviado
+3.0,1.0,carrera 45,,2026-04-30 10:56:53.186613,pendiente
+10.0,3.0,carrera 45,bogotá,2026-04-25 10:56:53.186657,pendiente
 4.0,2.0,,bogotá,,pendiente
-3.0,2.0,carrera 45,,2026-04-30 10:19:37.240296,enviado
-6.0,1.0,calle 123,cali,2026-04-24 10:19:37.240311,pendiente
-5.0,2.0,carrera 45,medellín,2026-04-22 10:19:37.240316,pendiente
-1.0,1.0,calle 123,,2026-04-22 10:19:37.240324,enviado
-10.0,3.0,,bogotá,2026-04-30 10:19:37.240327,pendiente
-5.0,2.0,,medellín,2026-04-28 10:19:37.240333,pendiente
-1.0,2.0,,bogotá,2026-04-27 10:19:37.240357,pendiente
-5.0,3.0,,medellín,2026-04-23 10:19:37.240364,enviado
-3.0,2.0,,bogotá,2026-04-21 10:19:37.240371,pendiente
-6.0,1.0,calle 123,cali,2026-04-22 10:19:37.240384,pendiente
-5.0,3.0,,bogotá,2026-04-25 10:19:37.240393,entregado
-1.0,1.0,,,,enviado
-5.0,1.0,,cali,2026-04-25 10:19:37.240430,enviado
-2.0,1.0,carrera 45,cali,2026-04-21 10:19:37.240449,enviado
-2.0,1.0,none,cali,2026-04-22 10:19:37.240460,pendiente
-4.0,1.0,carrera 45,,2026-04-26 10:19:37.240467,pendiente
-8.0,3.0,,,2026-04-26 10:19:37.240473,pendiente
-2.0,1.0,calle 123,cali,2026-04-30 10:19:37.240476,enviado
-9.0,1.0,carrera 45,bogotá,2026-04-26 10:19:37.240480,entregado
-10.0,2.0,carrera 45,cali,2026-04-25 10:19:37.240493,enviado
-4.0,1.0,calle 123,,2026-04-20 10:19:37.240501,enviado
-5.0,2.0,,medellín,2026-04-28 10:19:37.240507,entregado
-10.0,1.0,,bogotá,,entregado
-8.0,3.0,calle 123,bogotá,2026-04-21 10:19:37.240526,pendiente
-2.0,2.0,,,2026-04-24 10:19:37.240543,entregado
-8.0,2.0,calle 123,medellín,2026-04-25 10:19:37.240559,enviado
-3.0,1.0,carrera 45,cali,2026-04-21 10:19:37.240569,pendiente
-5.0,1.0,calle 123,cali,2026-04-25 10:19:37.240579,pendiente
-7.0,1.0,calle 123,cali,2026-04-30 10:19:37.240585,pendiente
-1.0,3.0,carrera 45,cali,2026-04-30 10:19:37.240599,enviado
-4.0,3.0,calle 123,medellín,2026-04-25 10:19:37.240605,pendiente
-6.0,2.0,carrera 45,medellín,2026-04-24 10:19:37.240633,pendiente
-2.0,1.0,carrera 45,bogotá,2026-04-23 10:19:37.240636,enviado
-7.0,3.0,carrera 45,,2026-04-30 10:19:37.240649,pendiente
-10.0,2.0,calle 123,,2026-04-21 10:19:37.240656,pendiente
-5.0,1.0,carrera 45,cali,2026-04-29 10:19:37.240676,entregado
-7.0,3.0,,medellín,2026-04-22 10:19:37.240680,pendiente
-2.0,3.0,calle 123,cali,,enviado
-10.0,3.0,carrera 45,,2026-04-29 10:19:37.240697,enviado
-10.0,2.0,,bogotá,2026-04-29 10:19:37.240705,pendiente
-2.0,3.0,calle 123,cali,2026-04-28 10:19:37.240723,pendiente
-2.0,1.0,carrera 45,medellín,2026-04-26 10:19:37.240729,entregado
-1.0,3.0,calle 123,medellín,2026-04-20 10:19:37.240731,entregado
-10.0,3.0,none,bogotá,2026-04-28 10:19:37.240737,pendiente
-6.0,3.0,calle 123,medellín,2026-04-26 10:19:37.240750,entregado
-8.0,3.0,none,bogotá,2026-04-20 10:19:37.240768,entregado
-8.0,1.0,,,2026-04-27 10:19:37.240771,enviado
-7.0,3.0,,medellín,2026-04-21 10:19:37.240776,enviado
-6.0,2.0,carrera 45,,2026-04-23 10:19:37.240782,enviado
-6.0,1.0,none,,2026-04-27 10:19:37.240793,pendiente
-5.0,2.0,carrera 45,,2026-04-29 10:19:37.240796,entregado
-2.0,3.0,none,,2026-04-24 10:19:37.240806,pendiente
-3.0,3.0,carrera 45,cali,2026-04-26 10:19:37.240824,enviado
-1.0,2.0,carrera 45,medellín,2026-04-27 10:19:37.240836,pendiente
-4.0,2.0,,cali,2026-04-27 10:19:37.240871,entregado
-1.0,1.0,none,bogotá,2026-04-29 10:19:37.240902,pendiente
-10.0,2.0,calle 123,cali,2026-04-27 10:19:37.240922,pendiente
-2.0,2.0,,cali,2026-04-21 10:19:37.240930,pendiente
-6.0,1.0,carrera 45,medellín,2026-04-29 10:19:37.240945,entregado
-7.0,3.0,,medellín,2026-04-24 10:19:37.240956,pendiente
-5.0,1.0,carrera 45,cali,2026-04-25 10:19:37.240960,pendiente
-8.0,2.0,carrera 45,,,entregado
-4.0,1.0,none,medellín,2026-04-30 10:19:37.240988,pendiente
-3.0,2.0,,medellín,2026-04-22 10:19:37.240997,pendiente
-10.0,1.0,calle 123,bogotá,2026-04-30 10:19:37.241000,enviado
-6.0,3.0,carrera 45,bogotá,2026-04-21 10:19:37.241003,enviado
-10.0,1.0,carrera 45,cali,2026-04-25 10:19:37.241023,pendiente
-8.0,1.0,carrera 45,,2026-04-21 10:19:37.241029,entregado
-5.0,1.0,,cali,2026-04-29 10:19:37.241035,pendiente
-5.0,1.0,calle 123,cali,,enviado
-1.0,1.0,,medellín,,pendiente
-1.0,1.0,,cali,2026-04-30 10:19:37.241083,entregado
-2.0,3.0,,medellín,2026-04-25 10:19:37.241085,enviado
-5.0,1.0,,bogotá,2026-04-25 10:19:37.241091,pendiente
-8.0,2.0,,bogotá,2026-04-30 10:19:37.241099,pendiente
-4.0,3.0,none,cali,2026-04-26 10:19:37.241102,entregado
-10.0,3.0,calle 123,cali,,enviado
-8.0,1.0,carrera 45,medellín,2026-04-26 10:19:37.241130,enviado
-6.0,2.0,calle 123,cali,2026-04-27 10:19:37.241147,pendiente
-6.0,2.0,carrera 45,,2026-04-24 10:19:37.241153,enviado
-1.0,1.0,carrera 45,bogotá,2026-04-22 10:19:37.241159,entregado
-4.0,2.0,,medellín,2026-04-20 10:19:37.241176,enviado
-9.0,2.0,none,medellín,2026-04-21 10:19:37.241179,enviado
+3.0,3.0,,cali,2026-04-28 10:56:53.186688,entregado
+7.0,3.0,carrera 45,medellín,2026-04-23 10:56:53.186693,pendiente
+6.0,3.0,none,,2026-04-24 10:56:53.186697,pendiente
+1.0,3.0,,,2026-04-28 10:56:53.186713,entregado
+7.0,2.0,none,cali,2026-04-26 10:56:53.186720,entregado
+4.0,2.0,carrera 45,medellín,2026-04-20 10:56:53.186732,enviado
+3.0,2.0,none,,2026-04-22 10:56:53.186735,enviado
+6.0,2.0,calle 123,medellín,2026-04-29 10:56:53.186750,entregado
+5.0,3.0,calle 123,medellín,2026-04-23 10:56:53.186766,entregado
+5.0,2.0,,cali,2026-04-26 10:56:53.186770,entregado
+6.0,2.0,calle 123,medellín,2026-04-25 10:56:53.186777,pendiente
+2.0,2.0,calle 123,medellín,2026-04-22 10:56:53.186793,pendiente
+4.0,1.0,carrera 45,,2026-04-26 10:56:53.186797,pendiente
+1.0,2.0,calle 123,medellín,2026-04-27 10:56:53.186809,pendiente
+5.0,2.0,,medellín,2026-04-28 10:56:53.186828,pendiente
+8.0,1.0,none,,2026-04-24 10:56:53.186840,enviado
+2.0,1.0,none,bogotá,2026-04-27 10:56:53.186844,pendiente
+10.0,2.0,carrera 45,,2026-04-30 10:56:53.186863,entregado
+1.0,2.0,none,medellín,2026-04-28 10:56:53.186871,entregado
+4.0,1.0,,cali,,pendiente
+8.0,2.0,calle 123,bogotá,2026-04-25 10:56:53.186881,pendiente
+9.0,3.0,carrera 45,bogotá,2026-04-22 10:56:53.186888,pendiente
+9.0,2.0,calle 123,,2026-04-20 10:56:53.186907,entregado
+3.0,1.0,calle 123,medellín,2026-04-22 10:56:53.186914,pendiente
+10.0,2.0,calle 123,medellín,2026-04-26 10:56:53.186917,enviado
+4.0,2.0,none,bogotá,2026-04-29 10:56:53.186925,pendiente
+3.0,3.0,,cali,2026-04-20 10:56:53.186957,entregado
+9.0,2.0,calle 123,medellín,2026-04-24 10:56:53.186969,pendiente
+3.0,1.0,carrera 45,medellín,2026-04-25 10:56:53.186974,entregado
+9.0,3.0,carrera 45,medellín,2026-04-20 10:56:53.186977,enviado
+8.0,3.0,,,2026-04-23 10:56:53.186981,enviado
+6.0,1.0,calle 123,medellín,2026-04-24 10:56:53.186988,enviado
+8.0,1.0,carrera 45,medellín,2026-04-29 10:56:53.187007,pendiente
+5.0,3.0,carrera 45,medellín,2026-04-26 10:56:53.187016,enviado
+4.0,1.0,carrera 45,bogotá,2026-04-24 10:56:53.187041,pendiente
+2.0,2.0,none,cali,2026-04-30 10:56:53.187045,pendiente
+3.0,3.0,carrera 45,bogotá,2026-04-29 10:56:53.187050,pendiente
+6.0,3.0,calle 123,,2026-04-29 10:56:53.187054,entregado
+9.0,1.0,none,cali,2026-04-27 10:56:53.187067,pendiente
+7.0,1.0,,medellín,,entregado
+6.0,2.0,,,2026-04-20 10:56:53.187096,enviado
+8.0,2.0,carrera 45,bogotá,2026-04-30 10:56:53.187118,enviado
+7.0,3.0,,medellín,,enviado
+7.0,2.0,none,medellín,2026-04-25 10:56:53.187130,enviado
+8.0,1.0,carrera 45,bogotá,2026-04-25 10:56:53.187135,enviado
+4.0,1.0,,medellín,2026-04-30 10:56:53.187162,enviado
+9.0,2.0,,cali,2026-04-22 10:56:53.187175,pendiente
+6.0,2.0,carrera 45,cali,2026-04-30 10:56:53.187180,pendiente
+1.0,3.0,calle 123,medellín,2026-04-29 10:56:53.187184,pendiente
+2.0,1.0,carrera 45,bogotá,,entregado
+5.0,3.0,calle 123,,2026-04-23 10:56:53.187200,enviado
+7.0,2.0,calle 123,cali,2026-04-23 10:56:53.187209,pendiente
+4.0,2.0,,cali,2026-04-25 10:56:53.187249,entregado
+9.0,3.0,carrera 45,bogotá,2026-04-21 10:56:53.187270,pendiente
+3.0,2.0,none,cali,2026-04-22 10:56:53.187275,entregado
+9.0,1.0,,cali,2026-04-26 10:56:53.187282,entregado
+8.0,3.0,calle 123,bogotá,2026-04-21 10:56:53.187290,entregado
+8.0,1.0,carrera 45,medellín,2026-04-28 10:56:53.187303,entregado
+8.0,2.0,none,bogotá,2026-04-21 10:56:53.187334,enviado
+10.0,1.0,calle 123,medellín,2026-04-21 10:56:53.187343,pendiente
+2.0,3.0,none,bogotá,2026-04-28 10:56:53.187347,enviado
+7.0,1.0,none,,2026-04-27 10:56:53.187368,enviado
+8.0,2.0,calle 123,bogotá,2026-04-27 10:56:53.187385,pendiente
+5.0,1.0,,,2026-04-23 10:56:53.187408,entregado
+9.0,2.0,carrera 45,medellín,2026-04-30 10:56:53.187412,enviado
+1.0,1.0,carrera 45,bogotá,2026-04-26 10:56:53.187417,enviado
+7.0,2.0,calle 123,bogotá,2026-04-23 10:56:53.187434,entregado
+1.0,1.0,calle 123,medellín,2026-04-29 10:56:53.187439,entregado
+6.0,3.0,carrera 45,cali,2026-04-29 10:56:53.187456,enviado
+4.0,1.0,,,2026-04-26 10:56:53.187460,pendiente
+6.0,2.0,carrera 45,medellín,2026-04-25 10:56:53.187479,enviado
+4.0,3.0,carrera 45,bogotá,2026-04-30 10:56:53.187521,pendiente
+6.0,2.0,carrera 45,cali,2026-04-20 10:56:53.187526,enviado
+7.0,1.0,calle 123,cali,,pendiente
+9.0,3.0,calle 123,bogotá,2026-04-28 10:56:53.187543,entregado
+3.0,2.0,carrera 45,,2026-04-26 10:56:53.187552,entregado
+7.0,2.0,carrera 45,cali,2026-04-27 10:56:53.187556,pendiente
+8.0,3.0,,bogotá,,enviado
+1.0,1.0,carrera 45,cali,2026-04-23 10:56:53.187577,pendiente
+5.0,2.0,,medellín,2026-04-25 10:56:53.187634,entregado
+4.0,3.0,calle 123,cali,2026-04-23 10:56:53.187648,entregado
+4.0,1.0,,medellín,2026-04-25 10:56:53.187652,entregado
+2.0,2.0,carrera 45,cali,2026-04-27 10:56:53.187660,pendiente
+3.0,1.0,calle 123,cali,2026-04-26 10:56:53.187664,enviado
+5.0,2.0,,cali,,pendiente
+9.0,2.0,,medellín,,enviado
+5.0,2.0,,bogotá,2026-04-29 10:56:53.187969,pendiente
+3.0,2.0,carrera 45,bogotá,2026-04-25 10:56:53.187982,enviado
+1.0,2.0,carrera 45,cali,2026-04-21 10:56:53.187987,pendiente
+6.0,3.0,,medellín,2026-04-28 10:56:53.188002,pendiente
+7.0,1.0,,medellín,2026-04-29 10:56:53.188025,enviado
+9.0,1.0,,medellín,2026-04-21 10:56:53.188085,entregado
+7.0,2.0,calle 123,cali,2026-04-20 10:56:53.188114,pendiente
+2.0,2.0,carrera 45,medellín,,pendiente
+2.0,1.0,,medellín,2026-04-30 10:56:53.188129,pendiente
+9.0,3.0,,,2026-04-20 10:56:53.188135,entregado
+6.0,1.0,carrera 45,cali,2026-04-20 10:56:53.188139,pendiente
+2.0,3.0,,cali,,entregado
+3.0,1.0,,bogotá,2026-04-22 10:56:53.188161,pendiente
+6.0,1.0,,medellín,2026-04-27 10:56:53.188180,pendiente
+4.0,2.0,calle 123,medellín,2026-04-29 10:56:53.188193,pendiente
+10.0,2.0,carrera 45,,2026-04-20 10:56:53.188211,pendiente
+7.0,1.0,calle 123,cali,2026-04-29 10:56:53.188224,pendiente
+1.0,2.0,calle 123,,2026-04-29 10:56:53.188247,pendiente
+5.0,2.0,carrera 45,bogotá,2026-04-27 10:56:53.188256,entregado
+8.0,3.0,carrera 45,medellín,2026-04-21 10:56:53.188428,pendiente
+4.0,2.0,none,cali,2026-04-22 10:56:53.188437,enviado
+10.0,3.0,none,,2026-04-26 10:56:53.188454,entregado
+7.0,1.0,carrera 45,medellín,2026-04-30 10:56:53.188465,enviado
+1.0,3.0,none,cali,2026-04-22 10:56:53.188475,enviado
+6.0,2.0,calle 123,medellín,2026-04-20 10:56:53.188694,entregado
+1.0,3.0,none,medellín,2026-04-22 10:56:53.188729,enviado
+9.0,3.0,carrera 45,,2026-04-23 10:56:53.188738,entregado
+7.0,1.0,,,2026-04-24 10:56:53.188750,entregado
+8.0,3.0,none,,2026-04-29 10:56:53.188779,enviado
+7.0,2.0,calle 123,medellín,2026-04-27 10:56:53.188797,pendiente
+9.0,2.0,calle 123,,,pendiente
+6.0,2.0,,bogotá,2026-04-29 10:56:53.188825,enviado
+10.0,2.0,carrera 45,cali,2026-04-29 10:56:53.188833,enviado
+10.0,2.0,none,,2026-04-30 10:56:53.188845,entregado
+1.0,1.0,none,,2026-04-21 10:56:53.188861,entregado
+9.0,2.0,,cali,2026-04-27 10:56:53.188901,pendiente
+10.0,2.0,calle 123,bogotá,2026-04-23 10:56:53.188988,pendiente
+6.0,3.0,,cali,2026-04-24 10:56:53.188997,enviado
+5.0,3.0,none,,2026-04-28 10:56:53.189029,pendiente
+2.0,3.0,calle 123,,2026-04-23 10:56:53.189085,pendiente
+4.0,1.0,carrera 45,,2026-04-24 10:56:53.189122,enviado
+9.0,3.0,carrera 45,cali,2026-04-22 10:56:53.189164,pendiente
+2.0,1.0,calle 123,bogotá,2026-04-27 10:56:53.189205,enviado
+4.0,2.0,,cali,2026-04-26 10:56:53.189298,enviado
+9.0,3.0,calle 123,cali,2026-04-24 10:56:53.189305,entregado
+3.0,1.0,calle 123,cali,2026-04-30 10:56:53.189326,entregado
+5.0,1.0,,medellín,2026-04-28 10:56:53.189373,pendiente
+4.0,1.0,carrera 45,cali,2026-04-22 10:56:53.189464,pendiente
+1.0,2.0,none,medellín,2026-04-22 10:56:53.189474,pendiente
+1.0,2.0,calle 123,bogotá,2026-04-23 10:56:53.189483,enviado
+6.0,1.0,calle 123,cali,2026-04-27 10:56:53.189508,pendiente
+5.0,2.0,carrera 45,cali,2026-04-25 10:56:53.189530,enviado
+9.0,2.0,calle 123,,2026-04-21 10:56:53.189692,entregado
+8.0,3.0,carrera 45,medellín,2026-04-23 10:56:53.189713,pendiente
+10.0,1.0,carrera 45,bogotá,,pendiente
+9.0,3.0,carrera 45,cali,2026-04-21 10:56:53.189760,pendiente
+5.0,2.0,calle 123,,2026-04-27 10:56:53.189777,pendiente
+2.0,1.0,calle 123,,2026-04-30 10:56:53.189786,pendiente
+5.0,3.0,,,2026-04-29 10:56:53.189790,entregado
+10.0,3.0,calle 123,medellín,2026-04-27 10:56:53.189812,entregado
+8.0,2.0,calle 123,,2026-04-22 10:56:53.189830,enviado
+4.0,3.0,carrera 45,bogotá,2026-04-25 10:56:53.189857,pendiente
+9.0,1.0,calle 123,cali,,pendiente
+9.0,1.0,calle 123,,2026-04-26 10:56:53.189878,pendiente
+5.0,3.0,,bogotá,2026-04-20 10:56:53.189887,pendiente
+1.0,1.0,calle 123,,2026-04-29 10:56:53.189905,pendiente
+2.0,3.0,,,2026-04-27 10:56:53.189949,enviado
+1.0,1.0,,medellín,2026-04-28 10:56:53.189957,pendiente
+5.0,1.0,calle 123,medellín,2026-04-26 10:56:53.189961,pendiente
+3.0,3.0,carrera 45,bogotá,2026-04-24 10:56:53.189969,pendiente
+8.0,1.0,calle 123,,2026-04-21 10:56:53.189978,pendiente
+8.0,1.0,calle 123,bogotá,2026-04-28 10:56:53.189982,pendiente
+4.0,3.0,carrera 45,bogotá,2026-04-25 10:56:53.190007,pendiente
+1.0,2.0,,cali,2026-04-23 10:56:53.190015,pendiente
+8.0,1.0,,,2026-04-22 10:56:53.190037,pendiente
+7.0,2.0,,bogotá,2026-04-21 10:56:53.190095,pendiente
+5.0,1.0,,medellín,,pendiente
+5.0,2.0,none,medellín,2026-04-30 10:56:53.190133,pendiente
+3.0,2.0,none,cali,2026-04-26 10:56:53.190149,entregado
+2.0,2.0,carrera 45,bogotá,2026-04-21 10:56:53.190185,enviado
+6.0,1.0,,,2026-04-29 10:56:53.190190,entregado
+6.0,3.0,none,bogotá,2026-04-25 10:56:53.190206,enviado
+3.0,1.0,calle 123,medellín,2026-04-25 10:56:53.190230,pendiente
+4.0,3.0,carrera 45,bogotá,,pendiente
+10.0,3.0,,bogotá,2026-04-28 10:56:53.190242,entregado
+10.0,3.0,calle 123,,2026-04-30 10:56:53.190270,entregado
+7.0,2.0,carrera 45,cali,2026-04-24 10:56:53.190274,pendiente
+9.0,1.0,,medellín,2026-04-20 10:56:53.190287,pendiente
+9.0,2.0,calle 123,cali,2026-04-22 10:56:53.190291,entregado
+8.0,3.0,,medellín,2026-04-22 10:56:53.190341,pendiente
+6.0,3.0,carrera 45,cali,,pendiente
+3.0,3.0,none,,2026-04-22 10:56:53.190392,pendiente
+10.0,2.0,none,bogotá,2026-04-25 10:56:53.190410,pendiente
+7.0,3.0,,bogotá,2026-04-23 10:56:53.190414,pendiente
+6.0,3.0,carrera 45,cali,2026-04-26 10:56:53.190448,enviado
+9.0,2.0,calle 123,medellín,2026-04-28 10:56:53.190456,pendiente
+2.0,1.0,carrera 45,medellín,2026-04-22 10:56:53.190464,pendiente
+5.0,1.0,none,,2026-04-24 10:56:53.190468,pendiente
+8.0,3.0,carrera 45,cali,2026-04-21 10:56:53.190472,pendiente
+9.0,2.0,,,2026-04-22 10:56:53.190500,entregado
+1.0,3.0,calle 123,bogotá,2026-04-23 10:56:53.190513,pendiente
+10.0,2.0,,,,pendiente
+1.0,2.0,none,cali,2026-04-28 10:56:53.190538,pendiente
+3.0,3.0,carrera 45,bogotá,2026-04-30 10:56:53.190585,entregado
+4.0,1.0,carrera 45,,2026-04-20 10:56:53.190630,enviado
+5.0,3.0,,medellín,,pendiente
 5.0,1.0,carrera 45,bogotá,,enviado
-7.0,3.0,calle 123,bogotá,2026-04-21 10:19:37.241201,entregado
-10.0,2.0,,cali,2026-04-27 10:19:37.241210,enviado
-9.0,1.0,none,,2026-04-24 10:19:37.241216,pendiente
-2.0,2.0,carrera 45,bogotá,2026-04-27 10:19:37.241246,pendiente
-5.0,1.0,calle 123,,2026-04-22 10:19:37.241252,enviado
-2.0,3.0,,cali,2026-04-29 10:19:37.241255,enviado
-1.0,3.0,,,2026-04-25 10:19:37.241266,pendiente
-4.0,3.0,calle 123,,,enviado
-5.0,2.0,calle 123,bogotá,2026-04-27 10:19:37.241304,enviado
-3.0,2.0,calle 123,,2026-04-30 10:19:37.241307,pendiente
-2.0,3.0,calle 123,bogotá,2026-04-25 10:19:37.241326,entregado
-1.0,3.0,calle 123,cali,2026-04-22 10:19:37.241371,entregado
-5.0,1.0,,cali,2026-04-21 10:19:37.241376,entregado
-3.0,1.0,calle 123,cali,2026-04-23 10:19:37.241385,entregado
-9.0,2.0,,medellín,2026-04-24 10:19:37.241388,pendiente
-6.0,2.0,carrera 45,,2026-04-28 10:19:37.241391,pendiente
-5.0,2.0,,cali,2026-04-27 10:19:37.241418,pendiente
-6.0,1.0,calle 123,bogotá,2026-04-27 10:19:37.241423,pendiente
-6.0,3.0,carrera 45,medellín,,pendiente
-2.0,3.0,carrera 45,,2026-04-26 10:19:37.241434,pendiente
-9.0,1.0,,medellín,2026-04-25 10:19:37.241449,pendiente
-2.0,1.0,carrera 45,medellín,2026-04-27 10:19:37.241458,pendiente
-9.0,2.0,,,2026-04-30 10:19:37.241470,entregado
-4.0,3.0,carrera 45,cali,2026-04-20 10:19:37.241479,pendiente
-9.0,2.0,none,,2026-04-20 10:19:37.241484,enviado
-10.0,1.0,calle 123,medellín,2026-04-27 10:19:37.241490,pendiente
-10.0,3.0,calle 123,medellín,,entregado
-6.0,2.0,carrera 45,bogotá,2026-04-25 10:19:37.241502,pendiente
-1.0,3.0,carrera 45,medellín,2026-04-20 10:19:37.241535,pendiente
-1.0,3.0,calle 123,bogotá,2026-04-23 10:19:37.241541,pendiente
-6.0,1.0,calle 123,,2026-04-21 10:19:37.241549,enviado
-4.0,2.0,calle 123,bogotá,2026-04-29 10:19:37.241552,pendiente
-1.0,1.0,calle 123,cali,2026-04-24 10:19:37.241560,enviado
-9.0,2.0,none,cali,2026-04-23 10:19:37.241565,pendiente
-8.0,3.0,carrera 45,,2026-04-21 10:19:37.241574,enviado
-5.0,3.0,carrera 45,cali,2026-04-25 10:19:37.241577,pendiente
-8.0,3.0,,bogotá,2026-04-23 10:19:37.241587,entregado
-8.0,1.0,none,medellín,2026-04-25 10:19:37.241625,pendiente
-1.0,2.0,,medellín,2026-04-26 10:19:37.241633,entregado
-10.0,1.0,carrera 45,medellín,,pendiente
-7.0,3.0,carrera 45,cali,,pendiente
-1.0,1.0,,,2026-04-26 10:19:37.241653,pendiente
-2.0,3.0,calle 123,bogotá,2026-04-22 10:19:37.241659,entregado
-2.0,3.0,calle 123,,2026-04-23 10:19:37.241662,enviado
-2.0,1.0,,,2026-04-28 10:19:37.241667,pendiente
-3.0,1.0,carrera 45,,2026-04-22 10:19:37.241673,enviado
-9.0,2.0,,cali,2026-04-21 10:19:37.241679,pendiente
-7.0,1.0,carrera 45,,2026-04-25 10:19:37.241687,pendiente
-2.0,3.0,carrera 45,medellín,,pendiente
-6.0,3.0,,,2026-04-30 10:19:37.241701,entregado
-5.0,3.0,,medellín,2026-04-23 10:19:37.241703,pendiente
-1.0,3.0,,medellín,,pendiente
-4.0,2.0,,,2026-04-24 10:19:37.241729,enviado
-10.0,3.0,calle 123,bogotá,2026-04-27 10:19:37.241735,enviado
-9.0,3.0,carrera 45,cali,2026-04-29 10:19:37.241743,pendiente
-10.0,2.0,,,2026-04-21 10:19:37.241746,pendiente
-9.0,1.0,carrera 45,bogotá,,entregado
-7.0,2.0,,,2026-04-27 10:19:37.241758,pendiente
-2.0,2.0,calle 123,cali,2026-04-26 10:19:37.241787,enviado
-9.0,2.0,carrera 45,bogotá,2026-04-21 10:19:37.241816,pendiente
-9.0,1.0,,medellín,,enviado
-9.0,3.0,,medellín,2026-04-21 10:19:37.241849,entregado
-5.0,3.0,carrera 45,cali,2026-04-30 10:19:37.241852,pendiente
-4.0,1.0,calle 123,bogotá,2026-04-23 10:19:37.241869,enviado
-3.0,2.0,calle 123,cali,2026-04-23 10:19:37.241871,pendiente
+5.0,2.0,none,,2026-04-26 10:56:53.190664,entregado
+8.0,1.0,calle 123,bogotá,2026-04-26 10:56:53.190672,pendiente
+7.0,2.0,carrera 45,bogotá,2026-04-27 10:56:53.190705,pendiente
+1.0,1.0,,medellín,2026-04-21 10:56:53.190728,enviado
+1.0,1.0,carrera 45,bogotá,2026-04-23 10:56:53.190759,pendiente
+6.0,1.0,carrera 45,medellín,2026-04-27 10:56:53.190766,pendiente
+6.0,3.0,calle 123,cali,2026-04-24 10:56:53.190779,pendiente
+8.0,1.0,carrera 45,,2026-04-21 10:56:53.190833,enviado
+7.0,1.0,none,,2026-04-21 10:56:53.190839,enviado
+7.0,3.0,calle 123,bogotá,2026-04-23 10:56:53.190858,pendiente
+9.0,2.0,carrera 45,,2026-04-20 10:56:53.190865,pendiente
+5.0,1.0,calle 123,,2026-04-30 10:56:53.190884,pendiente
+2.0,1.0,carrera 45,cali,2026-04-20 10:56:53.190890,pendiente
+3.0,2.0,carrera 45,medellín,2026-04-20 10:56:53.190933,pendiente
+6.0,3.0,,cali,,pendiente
+2.0,3.0,calle 123,,,entregado
+10.0,2.0,calle 123,medellín,2026-04-22 10:56:53.190957,enviado
+10.0,1.0,,medellín,,entregado
+7.0,2.0,calle 123,medellín,2026-04-29 10:56:53.190986,entregado
+8.0,1.0,carrera 45,medellín,2026-04-21 10:56:53.191011,entregado
+9.0,2.0,calle 123,bogotá,2026-04-24 10:56:53.191029,pendiente
+7.0,2.0,carrera 45,,2026-04-29 10:56:53.191176,pendiente
+6.0,2.0,,,2026-04-26 10:56:53.191231,enviado
+2.0,3.0,carrera 45,,2026-04-25 10:56:53.191237,enviado
+8.0,1.0,none,bogotá,2026-04-21 10:56:53.191251,entregado
+9.0,3.0,none,cali,2026-04-22 10:56:53.191258,pendiente
+9.0,1.0,none,cali,2026-04-29 10:56:53.191271,enviado
+1.0,2.0,calle 123,cali,2026-04-29 10:56:53.191304,entregado
+8.0,1.0,,,2026-04-28 10:56:53.191430,enviado
+8.0,2.0,none,cali,2026-04-20 10:56:53.191447,pendiente
+1.0,2.0,calle 123,bogotá,2026-04-22 10:56:53.191459,enviado
+6.0,1.0,carrera 45,cali,2026-04-23 10:56:53.191470,pendiente
+2.0,1.0,carrera 45,,2026-04-20 10:56:53.191476,entregado
+9.0,1.0,calle 123,medellín,2026-04-20 10:56:53.191482,enviado
+7.0,2.0,,medellín,2026-04-21 10:56:53.191487,enviado
+1.0,3.0,none,,2026-04-30 10:56:53.191498,pendiente
+5.0,2.0,none,bogotá,2026-04-28 10:56:53.191537,entregado
+2.0,1.0,carrera 45,bogotá,2026-04-20 10:56:53.191553,pendiente
+1.0,1.0,,,2026-04-23 10:56:53.191578,entregado
+9.0,1.0,,cali,2026-04-21 10:56:53.191593,pendiente
+8.0,2.0,,,2026-04-22 10:56:53.191626,pendiente
+8.0,3.0,calle 123,cali,2026-04-23 10:56:53.191664,pendiente
+5.0,3.0,none,cali,2026-04-30 10:56:53.191670,pendiente
+10.0,3.0,carrera 45,cali,2026-04-20 10:56:53.191681,pendiente
+1.0,2.0,carrera 45,medellín,2026-04-21 10:56:53.191692,enviado
+1.0,3.0,,bogotá,2026-04-25 10:56:53.191698,enviado
+7.0,3.0,calle 123,bogotá,,pendiente
+7.0,1.0,carrera 45,,2026-04-26 10:56:53.191717,enviado
+7.0,1.0,,medellín,,enviado
+6.0,2.0,none,cali,2026-04-27 10:56:53.191768,pendiente
+5.0,2.0,carrera 45,medellín,2026-04-23 10:56:53.191773,entregado
+8.0,2.0,carrera 45,,2026-04-28 10:56:53.191780,pendiente
+2.0,1.0,calle 123,medellín,2026-04-26 10:56:53.191797,enviado
+2.0,2.0,,medellín,2026-04-21 10:56:53.191813,pendiente
+2.0,3.0,,medellín,2026-04-28 10:56:53.191865,entregado
+3.0,3.0,none,medellín,2026-04-27 10:56:53.191870,entregado
+4.0,3.0,,medellín,2026-04-26 10:56:53.191877,pendiente
+7.0,1.0,carrera 45,,2026-04-22 10:56:53.191904,pendiente
+9.0,3.0,,medellín,2026-04-21 10:56:53.191909,pendiente
+6.0,3.0,carrera 45,,2026-04-26 10:56:53.191952,entregado
+10.0,2.0,,cali,2026-04-28 10:56:53.192000,pendiente
+8.0,3.0,,medellín,2026-04-27 10:56:53.192005,entregado
+9.0,1.0,,cali,2026-04-21 10:56:53.192016,pendiente
+5.0,1.0,carrera 45,cali,2026-04-27 10:56:53.192022,pendiente
+10.0,2.0,carrera 45,,2026-04-29 10:56:53.192067,pendiente
+6.0,1.0,carrera 45,cali,2026-04-24 10:56:53.192109,entregado
+1.0,3.0,,medellín,2026-04-29 10:56:53.192131,entregado
+4.0,1.0,,cali,2026-04-26 10:56:53.192155,entregado
+6.0,1.0,calle 123,,2026-04-23 10:56:53.192178,enviado
+2.0,3.0,calle 123,cali,,enviado
+5.0,3.0,calle 123,bogotá,2026-04-22 10:56:53.192199,enviado
+8.0,2.0,calle 123,cali,2026-04-27 10:56:53.192212,pendiente
+8.0,3.0,calle 123,medellín,2026-04-21 10:56:53.192215,pendiente
+1.0,2.0,,,2026-04-22 10:56:53.192223,pendiente
+10.0,1.0,none,bogotá,2026-04-30 10:56:53.192230,entregado
+8.0,3.0,none,medellín,2026-04-27 10:56:53.192250,pendiente
+8.0,3.0,none,,2026-04-21 10:56:53.192254,enviado
+6.0,3.0,carrera 45,medellín,2026-04-24 10:56:53.192273,enviado
+9.0,3.0,carrera 45,,2026-04-28 10:56:53.192279,entregado
+2.0,1.0,carrera 45,,2026-04-25 10:56:53.192283,enviado
