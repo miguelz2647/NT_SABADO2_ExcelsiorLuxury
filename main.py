@@ -2,6 +2,7 @@ import pandas as pd
 from utils.simulador_Categoria import simular_Categorias
 from notebook.limpieza_categoria import limpiar_datos
 from utils.simulador_Usuarios import simular_Usuarios
+from utils.simulador_Envios import simular_envios
 
 Usuarios=simular_Usuarios(5)
 
