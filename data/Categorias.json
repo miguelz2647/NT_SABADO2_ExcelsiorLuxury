@@ -1,32 +1,20 @@
 [
  {
-  "Id":708.0,
+  "Id":25.0,
   "Nombre":"ni\u00f1os",
-  "Descripcion":"estilo urbano c\u00f3modo para el uso diario",
-  "Estado":"inactivo"
- },
- {
-  "Id":252.0,
-  "Nombre":"hombre",
-  "Descripcion":"estilo urbano c\u00f3modo para el uso diario",
+  "Descripcion":"calzado elegante y formal para ocasiones especiales",
   "Estado":"activo"
  },
  {
-  "Id":577.0,
-  "Nombre":"ni\u00f1os",
+  "Id":630.0,
+  "Nombre":"casual",
   "Descripcion":"modelos pensados para hombres con ajuste masculine",
   "Estado":"activo"
  },
  {
-  "Id":44.0,
+  "Id":645.0,
   "Nombre":"ni\u00f1os",
-  "Descripcion":"opciones resistentes y c\u00f3modas para ni\u00f1os",
+  "Descripcion":"modelos pensados para hombres con ajuste masculine",
   "Estado":"activo"
- },
- {
-  "Id":149.0,
-  "Nombre":"ni\u00f1os",
-  "Descripcion":"dise\u00f1os femeninos con estilo y confort",
-  "Estado":"inactivo"
  }
 ]

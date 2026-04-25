@@ -8,7 +8,7 @@ def describir_datos_usuario(data_frame_limpio):
     print(f"tipos de datos de cada atributo: {data_frame_limpio.dtypes}")
 
     print("*** Estadísticas Descriptivas ***")
-    print(f"{data_frame_limpio[['id']].describe()}")
+    print(f"{data_frame_limpio[['Id']].describe()}")
 
     print("*** Conteos ***")
     print(f"{data_frame_limpio["Nombres"].value_counts}")
