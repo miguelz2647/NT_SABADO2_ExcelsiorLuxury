@@ -7,6 +7,7 @@ from notebook.limpieza_Usuarios import limpieza_usuarios
 from notebook.descripcion_usuarios import describir_datos_usuario
 from notebook.descripcion_envios import describir_datos_envios
 from notebook.limpieza_envios import limpiar_envios
+from notebook.descripcion_categorias import describir_datos_categoria
 
 Usuarios=simular_Usuarios(5)
 Usuarios_ordenados=pd.DataFrame(Usuarios)
@@ -33,3 +34,5 @@ Categorias_Ordenadas=limpiar_datos(Categorias_Ordenadas)
 
 describir_datos_usuario(Usuarios_ordenados)
 describir_datos_envios(Envios_ordenados)
+describir_datos_categoria(Categorias_Ordenadas)
+
