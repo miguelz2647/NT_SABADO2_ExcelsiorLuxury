@@ -8,9 +8,13 @@ from notebook.descripcion_usuarios import describir_datos_usuario
 from notebook.descripcion_envios import describir_datos_envios
 from notebook.limpieza_envios import limpiar_envios
 from notebook.descripcion_categorias import describir_datos_categoria
+from notebook.consumo_usuario import consumir_api_usuario
 
-Usuarios=simular_Usuarios(5)
-Usuarios_ordenados=pd.DataFrame(Usuarios)
+
+
+data_api=consumir_api_usuario()
+# Usuarios=simular_Usuarios(5)
+Usuarios_ordenados=pd.DataFrame(data_api)
 Usuarios_ordenados=limpieza_usuarios(Usuarios_ordenados)
 
 # Usuarios_ordenados.to_json("Data/Usuarios.json",orient="records",indent=1)
