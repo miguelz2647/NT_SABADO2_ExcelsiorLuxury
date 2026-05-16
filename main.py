@@ -9,6 +9,7 @@ from notebook.descripcion_envios import describir_datos_envios
 from notebook.limpieza_envios import limpiar_envios
 from notebook.descripcion_categorias import describir_datos_categoria
 from notebook.consumo_usuario import consumir_api_usuario
+from notebook.consumo_categorias import consumir_api_categoria
 
 
 
@@ -27,9 +28,9 @@ Envios_ordenados=limpiar_envios(Envios_ordenados)
 
 # Envios_ordenados.to_json("Data/Envios.json",orient="records",indent=1)
 
-# 
-Categorias=simular_Categorias(10)
-Categorias_Ordenadas=pd.DataFrame(Categorias)
+data_api_categoria=consumir_api_categoria()
+# Categorias=simular_Categorias(10)
+Categorias_Ordenadas=pd.DataFrame(data_api_categoria)
 Categorias_Ordenadas=limpiar_datos(Categorias_Ordenadas)
 
 # Categorias_Ordenadas.to_json("Data/Categorias.json",orient="records",indent=1)
