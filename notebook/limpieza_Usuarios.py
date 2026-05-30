@@ -7,7 +7,7 @@ def limpieza_usuarios(data_frame_sucio):
     data_frame_limpio.columns = data_frame_limpio.columns.str.lower()
 
     # 👇 Elimina columnas con listas (no son comparables)
-    columnas_listas = ["direcciones", "ordenes", "opiniones", "favoritos", "carritos"]
+    columnas_listas = ["direcciones", "ordenes", "opiniones", "carritos"]
     data_frame_limpio = data_frame_limpio.drop(columns=columnas_listas)
 
     columnas_texto = ["nombres", "apellidos", "email", "contraseña"]
